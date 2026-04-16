@@ -1,0 +1,287 @@
+(starmie_env) pratikpo@pop-os:~/Documents/odin/starmie$ python test_naive_search.py   --encoder cl   --benchmark santos   --augment_op drop_col   --sample_meth tfidf_entity   --matching linear   --table_order column   --run_id 0   --K 40   --threshold 0.6
+Number of queries: 115
+From 1386 total data-lake tables, scale down to 1386 tables
+Processing query  10  of  115  total queries.
+Processing query  20  of  115  total queries.
+Processing query  30  of  115  total queries.
+Processing query  40  of  115  total queries.
+Processing query  50  of  115  total queries.
+Processing query  60  of  115  total queries.
+Processing query  70  of  115  total queries.
+Processing query  80  of  115  total queries.
+Processing query  90  of  115  total queries.
+Processing query  100  of  115  total queries.
+Processing query  110  of  115  total queries.
+Average QUERY TIME: 1.4133831335150677 seconds 
+10th percentile:  0.28752636909484863  90th percentile:  3.5691645622253434
+--- Total Query Time: 162.53973174095154 seconds ---
+10 IDEAL RECALL: 1.0134648071769183
+20 IDEAL RECALL: 2.0269296143538367
+30 IDEAL RECALL: 3.040394421530752
+40 IDEAL RECALL: 4.053859228707673
+--------------------------
+Precision at k =  1 = 0.0
+Recall at k =  1 = 0.0
+--------------------------
+Precision at k =  2 = 0.15217391304347827
+Recall at k =  2 = 0.029033910664307782
+--------------------------
+Precision at k =  3 = 0.19174041297935104
+Recall at k =  3 = 0.05383257127243129
+--------------------------
+Precision at k =  4 = 0.19318181818181818
+Recall at k =  4 = 0.0722335739828969
+--------------------------
+Precision at k =  5 = 0.2057142857142857
+Recall at k =  5 = 0.08974489138246967
+--------------------------
+Precision at k =  6 = 0.19833333333333333
+Recall at k =  6 = 0.09937702012329404
+--------------------------
+Precision at k =  7 = 0.19148936170212766
+Recall at k =  7 = 0.1085427454432594
+--------------------------
+Precision at k =  8 = 0.18194444444444444
+Recall at k =  8 = 0.11628136389716537
+--------------------------
+Precision at k =  9 = 0.18863049095607234
+Recall at k =  9 = 0.12647768634074466
+--------------------------
+Precision at k =  10 = 0.19090909090909092
+Recall at k =  10 = 0.1319480908885057
+--------------------------
+Precision at k =  11 = 0.176696542893726
+Recall at k =  11 = 0.13983314903649957
+--------------------------
+Precision at k =  12 = 0.1691542288557214
+Recall at k =  12 = 0.1483421443724894
+--------------------------
+Precision at k =  13 = 0.15258511979823455
+Recall at k =  13 = 0.15501345373945097
+--------------------------
+Precision at k =  14 = 0.15024630541871922
+Recall at k =  14 = 0.16150331195482684
+--------------------------
+Precision at k =  15 = 0.14938271604938272
+Recall at k =  15 = 0.16566949601231526
+--------------------------
+Precision at k =  16 = 0.1482843137254902
+Recall at k =  16 = 0.17164176719142044
+--------------------------
+Precision at k =  17 = 0.13938618925831203
+Recall at k =  17 = 0.17414981872121105
+--------------------------
+Precision at k =  18 = 0.14027777777777778
+Recall at k =  18 = 0.17595842235590162
+--------------------------
+Precision at k =  19 = 0.14181286549707603
+Recall at k =  19 = 0.17752876543743865
+--------------------------
+Precision at k =  20 = 0.14705882352941177
+Recall at k =  20 = 0.1785993534645484
+--------------------------
+Precision at k =  21 = 0.1490015360983103
+Recall at k =  21 = 0.18051906821035008
+--------------------------
+Precision at k =  22 = 0.13111888111888112
+Recall at k =  22 = 0.18450327682288972
+--------------------------
+Precision at k =  23 = 0.13043478260869565
+Recall at k =  23 = 0.19091202910120714
+--------------------------
+Precision at k =  24 = 0.14015151515151514
+Recall at k =  24 = 0.19473386701511666
+--------------------------
+Precision at k =  25 = 0.14363636363636365
+Recall at k =  25 = 0.19692582114581636
+--------------------------
+Precision at k =  26 = 0.1423076923076923
+Recall at k =  26 = 0.200930992128303
+--------------------------
+Precision at k =  27 = 0.14814814814814814
+Recall at k =  27 = 0.208190513255499
+--------------------------
+Precision at k =  28 = 0.12276785714285714
+Recall at k =  28 = 0.21476122450429327
+--------------------------
+Precision at k =  29 = 0.12413793103448276
+Recall at k =  29 = 0.21861065589625775
+--------------------------
+Precision at k =  30 = 0.1358974358974359
+Recall at k =  30 = 0.22328970855262611
+--------------------------
+Precision at k =  31 = 0.10850439882697947
+Recall at k =  31 = 0.22846945608226582
+--------------------------
+Precision at k =  32 = 0.10267857142857142
+Recall at k =  32 = 0.23611555576129856
+--------------------------
+Precision at k =  33 = 0.1038961038961039
+Recall at k =  33 = 0.23928683719040056
+--------------------------
+Precision at k =  34 = 0.10084033613445378
+Recall at k =  34 = 0.24516998759735617
+--------------------------
+Precision at k =  35 = 0.10204081632653061
+Recall at k =  35 = 0.24761562149856667
+--------------------------
+Precision at k =  36 = 0.10317460317460317
+Recall at k =  36 = 0.25228088035432494
+--------------------------
+Precision at k =  37 = 0.08108108108108109
+Recall at k =  37 = 0.25490647921810905
+--------------------------
+Precision at k =  38 = 0.08947368421052632
+Recall at k =  38 = 0.2586121069237368
+--------------------------
+Precision at k =  39 = 0.08717948717948718
+Recall at k =  39 = 0.26111356681650105
+--------------------------
+Precision at k =  40 = 0.085
+Recall at k =  40 = 0.2662780677035083
+--------------------------
+The mean average precision is: 0.1385118314867643
+(starmie_env) pratikpo@pop-os:~/Documents/odin/starmie$ python test_naive_search.py   --encoder cl   --benchmark santos   --augment_op drop_col   --sample_meth tfidf_entity   --matching linear   --table_order column   --run_id 0   --K 40   --threshold 0.6
+Number of queries: 115
+From 1386 total data-lake tables, scale down to 1386 tables
+Processing query  10  of  115  total queries.
+Processing query  20  of  115  total queries.
+Processing query  30  of  115  total queries.
+Processing query  40  of  115  total queries.
+Processing query  50  of  115  total queries.
+Processing query  60  of  115  total queries.
+Processing query  70  of  115  total queries.
+Processing query  80  of  115  total queries.
+Processing query  90  of  115  total queries.
+Processing query  100  of  115  total queries.
+Processing query  110  of  115  total queries.
+Average QUERY TIME: 1.4130635095679243 seconds 
+10th percentile:  0.2903593063354492  90th percentile:  3.5804221153259297
+--- Total Query Time: 162.50299096107483 seconds ---
+10 IDEAL RECALL: 0.8715867721709145
+20 IDEAL RECALL: 1.743173544341829
+30 IDEAL RECALL: 2.6147603165127418
+40 IDEAL RECALL: 3.486347088683658
+--------------------------
+Precision at k =  1 = 0.9739130434782609
+Recall at k =  1 = 0.08416376408389568
+--------------------------
+Precision at k =  2 = 0.6478260869565218
+Recall at k =  2 = 0.1130089866618468
+--------------------------
+Precision at k =  3 = 0.518840579710145
+Recall at k =  3 = 0.13492735529517585
+--------------------------
+Precision at k =  4 = 0.4424778761061947
+Recall at k =  4 = 0.1519447638777345
+--------------------------
+Precision at k =  5 = 0.4
+Recall at k =  5 = 0.16778189062938442
+--------------------------
+Precision at k =  6 = 0.3619047619047619
+Recall at k =  6 = 0.17663078179707634
+--------------------------
+Precision at k =  7 = 0.3357142857142857
+Recall at k =  7 = 0.18511167781871388
+--------------------------
+Precision at k =  8 = 0.3098404255319149
+Recall at k =  8 = 0.19229092567034314
+--------------------------
+Precision at k =  9 = 0.29259259259259257
+Recall at k =  9 = 0.20154753825636626
+--------------------------
+Precision at k =  10 = 0.2813953488372093
+Recall at k =  10 = 0.20663890194762208
+--------------------------
+Precision at k =  11 = 0.27508854781582054
+Recall at k =  11 = 0.2137944088485523
+--------------------------
+Precision at k =  12 = 0.25704225352112675
+Recall at k =  12 = 0.22148096220481117
+--------------------------
+Precision at k =  13 = 0.2399540757749713
+Recall at k =  13 = 0.22758486212145163
+--------------------------
+Precision at k =  14 = 0.22014051522248243
+Recall at k =  14 = 0.23348162395356808
+--------------------------
+Precision at k =  15 = 0.21264367816091953
+Recall at k =  15 = 0.23736301402005303
+--------------------------
+Precision at k =  16 = 0.21064814814814814
+Recall at k =  16 = 0.24279845208893722
+--------------------------
+Precision at k =  17 = 0.2029988465974625
+Recall at k =  17 = 0.24513918156521655
+--------------------------
+Precision at k =  18 = 0.19082125603864733
+Recall at k =  18 = 0.24684834197002914
+--------------------------
+Precision at k =  19 = 0.19210526315789472
+Recall at k =  19 = 0.2483633189285545
+--------------------------
+Precision at k =  20 = 0.18888888888888888
+Recall at k =  20 = 0.24939119604338814
+--------------------------
+Precision at k =  21 = 0.19187675070028012
+Recall at k =  21 = 0.2511786662613992
+--------------------------
+Precision at k =  22 = 0.19208211143695014
+Recall at k =  22 = 0.2548635747376822
+--------------------------
+Precision at k =  23 = 0.17391304347826086
+Recall at k =  23 = 0.26031614754528093
+--------------------------
+Precision at k =  24 = 0.17333333333333334
+Recall at k =  24 = 0.2638828813116298
+--------------------------
+Precision at k =  25 = 0.18363636363636363
+Recall at k =  25 = 0.2659553962848891
+--------------------------
+Precision at k =  26 = 0.18181818181818182
+Recall at k =  26 = 0.26967699073107476
+--------------------------
+Precision at k =  27 = 0.17777777777777778
+Recall at k =  27 = 0.27620502410388525
+--------------------------
+Precision at k =  28 = 0.17857142857142858
+Recall at k =  28 = 0.28226595172908514
+--------------------------
+Precision at k =  29 = 0.15301724137931033
+Recall at k =  29 = 0.285833398774793
+--------------------------
+Precision at k =  30 = 0.15555555555555556
+Recall at k =  30 = 0.290041834424078
+--------------------------
+Precision at k =  31 = 0.1662531017369727
+Recall at k =  31 = 0.2948219516498475
+--------------------------
+Precision at k =  32 = 0.14204545454545456
+Recall at k =  32 = 0.30193440536699223
+--------------------------
+Precision at k =  33 = 0.1341991341991342
+Recall at k =  33 = 0.30488885949055666
+--------------------------
+Precision at k =  34 = 0.13025210084033614
+Recall at k =  34 = 0.3101645033102509
+--------------------------
+Precision at k =  35 = 0.1306122448979592
+Recall at k =  35 = 0.31245123747261694
+--------------------------
+Precision at k =  36 = 0.13095238095238096
+Recall at k =  36 = 0.3167980130428506
+--------------------------
+Precision at k =  37 = 0.1274131274131274
+Recall at k =  37 = 0.31926297561650885
+--------------------------
+Precision at k =  38 = 0.10964912280701754
+Recall at k =  38 = 0.3225532714346105
+--------------------------
+Precision at k =  39 = 0.11282051282051282
+Recall at k =  39 = 0.3248856178062275
+--------------------------
+Precision at k =  40 = 0.11
+Recall at k =  40 = 0.32966721696040324
+--------------------------
+The mean average precision is: 0.24526538605146458
+

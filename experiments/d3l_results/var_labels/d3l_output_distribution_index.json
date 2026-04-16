@@ -1,0 +1,3127 @@
+{
+  "ANES_1972_POLITICAL FACTUAL ITEMS.csv": [],
+  "ANES_1990_IMPORTANCE OF STRONG MILITARY|CONCERNS ABOUT WAR.csv": [],
+  "ANES_1966_PUBLIC INTEREST.csv": [],
+  "ANES_1988_GOVERNMENT AND POLITICS - R AGREE|DISAGREE.csv": [],
+  "ANES_1966_CONGRESSIONAL, SENATORIAL AND GUBERNATORIAL.csv": [],
+  "ANES_1990_R'S INCOME AND SOCIAL CLASS.csv": [],
+  "ANES_1976_TRUST IN PEOPLE.csv": [],
+  "ANES_1986_CONDITIONS OF INTERVIEW.csv": [],
+  "ANES_2012_2012 FTF PRE-ELECTION INTERVIEWER DESCRIPTION.csv": [],
+  "ANES_1978_CYNICISM AND TRUST IN GOVERNMENT.csv": [],
+  "ANES_2000_A1-A4 - CURRENT CAMPAIGN AND POLITICS.csv": [],
+  "ANES_1998_IDENTIFICATION AND WEIGHTS.csv": [
+    [
+      "ANES_1998_IDENTIFICATION AND WEIGHTS",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_1994_VOTING SECTION VOTERS",
+      [
+        0.937434532122905
+      ]
+    ],
+    [
+      "ANES_2000_NONVOTER PREFERENCES FOR HOUSE, SENATE",
+      [
+        0.937434532122905
+      ]
+    ],
+    [
+      "ANES_1994_CONSEQUENCES OF GOVERNMENT POLICIES",
+      [
+        0.937434532122905
+      ]
+    ],
+    [
+      "ANES_1994_CONTENTS",
+      [
+        0.937434532122905
+      ]
+    ],
+    [
+      "ANES_1966_CONTENTS",
+      [
+        0.937434532122905
+      ]
+    ],
+    [
+      "ANES_1986_HEAD OF FAMILY'S OCCUPATION SECTION",
+      [
+        0.937434532122905
+      ]
+    ],
+    [
+      "ANES_2000_POST INTERVIEWER VARIABLES",
+      [
+        0.937434532122905
+      ]
+    ],
+    [
+      "ANES_1978_CONTENTS",
+      [
+        0.9197418936181777
+      ]
+    ],
+    [
+      "ANES_1984_CONTENTS",
+      [
+        0.9162380812081957
+      ]
+    ],
+    [
+      "ANES_1982_CONTENTS",
+      [
+        0.9160631468433558
+      ]
+    ],
+    [
+      "ANES_1956_CONTENTS",
+      [
+        0.913498708062477
+      ]
+    ],
+    [
+      "ANES_1948_CONTENTS",
+      [
+        0.9093287370839903
+      ]
+    ],
+    [
+      "ANES_1958_CONTENTS",
+      [
+        0.9086805756670115
+      ]
+    ],
+    [
+      "ANES_1980_CONTENTS",
+      [
+        0.9056618611493398
+      ]
+    ],
+    [
+      "ANES_1952_CONTENTS",
+      [
+        0.8915530817429533
+      ]
+    ],
+    [
+      "ANES_1972_CONTENTS",
+      [
+        0.8854897415052796
+      ]
+    ],
+    [
+      "ANES_1968_CONTENTS",
+      [
+        0.8778117554504808
+      ]
+    ],
+    [
+      "ANES_1970_CONTENTS",
+      [
+        0.8775766100164655
+      ]
+    ],
+    [
+      "ANES_1964_CONTENTS",
+      [
+        0.8744123293856501
+      ]
+    ],
+    [
+      "ANES_1960_CONTENTS",
+      [
+        0.8474327916074771
+      ]
+    ],
+    [
+      "ANES_1994_1.SAMPLING INFORMATION",
+      [
+        0.8461846027788056
+      ]
+    ],
+    [
+      "ANES_1964_VOTER VALIDATION STUDY",
+      [
+        0.8446173170991069
+      ]
+    ],
+    [
+      "ANES_1962_CONTENTS",
+      [
+        0.8347748509101596
+      ]
+    ],
+    [
+      "ANES_1982_SAMPLING INFORMATION",
+      [
+        0.8340622212991536
+      ]
+    ],
+    [
+      "ANES_2016_GENERAL SURVEY VARIABLES",
+      [
+        0.7616457579935967
+      ]
+    ],
+    [
+      "ANES_2004_STUDY IDS",
+      [
+        0.7203147302832236
+      ]
+    ],
+    [
+      "ANES_2000_IDENTIFICATION AND WEIGHTS",
+      [
+        0.7155360985742107
+      ]
+    ],
+    [
+      "ANES_2002_STUDY ID, CASE ID, WEIGHT",
+      [
+        0.7132708296971323
+      ]
+    ],
+    [
+      "ANES_2020_WEIGHTING VARIABLES",
+      [
+        0.7130475693842384
+      ]
+    ],
+    [
+      "ANES_2020_GENERAL NON‐SURVEY VARIABLES",
+      [
+        0.697523128867206
+      ]
+    ],
+    [
+      "ANES_1980_PRE CONDITIONS OF INTERVIEW",
+      [
+        0.6942601349607762
+      ]
+    ],
+    [
+      "ANES_2012_GENERAL STUDY VARIABLES",
+      [
+        0.6939044911873106
+      ]
+    ],
+    [
+      "ANES_1980_PRE-ELECTION SAMPLE INFORMATION",
+      [
+        0.671914338716181
+      ]
+    ],
+    [
+      "ANES_2004_STUDY WEIGHTS AND SAMPLING ERROR CODE",
+      [
+        0.6677828705875563
+      ]
+    ],
+    [
+      "ANES_1956_STUDY PROCEDURE",
+      [
+        0.6515168973307022
+      ]
+    ],
+    [
+      "ANES_1964_MASS MEDIA USAGE",
+      [
+        0.642020074892964
+      ]
+    ],
+    [
+      "ANES_1962_STUDY PROCEDURE AND SAMPLING",
+      [
+        0.6338540179323808
+      ]
+    ],
+    [
+      "ANES_1964_FAMILY EDUCATION",
+      [
+        0.6313289037779455
+      ]
+    ],
+    [
+      "ANES_1994_1.INTERVIEWER VARIABLES",
+      [
+        0.6232083482719367
+      ]
+    ],
+    [
+      "ANES_1966_STUDY PROCEDURE AND SAMPLING",
+      [
+        0.6133311993017871
+      ]
+    ],
+    [
+      "ANES_2016_PRE ADMIN VARIABLES",
+      [
+        0.6107037884313574
+      ]
+    ],
+    [
+      "ANES_1956_MASS MEDIA USAGE",
+      [
+        0.6103029054952935
+      ]
+    ],
+    [
+      "ANES_1966_PERSONAL DATA",
+      [
+        0.6056577106347586
+      ]
+    ],
+    [
+      "ANES_1960_POST ELECTION INTERVIEW",
+      [
+        0.601062612189493
+      ]
+    ],
+    [
+      "ANES_1958_STUDY PROCEDURE AND SAMPLING",
+      [
+        0.5949599858865974
+      ]
+    ],
+    [
+      "ANES_1960_STUDY PROCEDURE AND SAMPLING",
+      [
+        0.5888709928996012
+      ]
+    ],
+    [
+      "ANES_1980_INDIVIDUAL VOTER RECORD VALIDATION",
+      [
+        0.5858396855699463
+      ]
+    ],
+    [
+      "ANES_1956_PRE ELECTION PERSONAL DATA",
+      [
+        0.5822356364658605
+      ]
+    ],
+    [
+      "ANES_1978_TYPE OF POLITICAL RACE",
+      [
+        0.5816348714723409
+      ]
+    ]
+  ],
+  "ANES_1976_ABORTION AND SEX DISCRIMINATION.csv": [],
+  "ANES_2000_K2 - OFFICE RECOGNITION OF POLITICAL FIGURES.csv": [],
+  "ANES_1966_SUPREME COURT QUESTIONS.csv": [],
+  "ANES_1994_1.PARTY IDENTIFICATION.csv": [],
+  "ANES_1988_R'S ASSESSMENT OF U.S. HOUSE INCUMBENT.csv": [],
+  "ANES_1974_TELEVISION AS A SOURCE OF POLITICAL INFORMATION.csv": [],
+  "ANES_1968_PAST PRESIDENTIAL VOTING BEHAVIOR.csv": [],
+  "ANES_2000_Q1 -  EXTERNAL POLITICAL EFFICACY.csv": [],
+  "ANES_1974_OCCUPATION OF R'S PARENTS.csv": [],
+  "ANES_1982_R'S CONTACT WITH DEMOCRATIC U.S. HOUSE INCUMBENT.csv": [],
+  "ANES_1972_POWER OF FEDERAL GOVERNMENT.csv": [],
+  "ANES_1962_FINANCIAL AND BUSINESS CONDITIONS.csv": [],
+  "ANES_1990_CONGRESSIONAL CAMPAIGN.csv": [],
+  "ANES_2012_GENERAL STUDY VARIABLES.csv": [
+    [
+      "ANES_2012_GENERAL STUDY VARIABLES",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_2016_GENERAL SURVEY VARIABLES",
+      [
+        0.847697404382393
+      ]
+    ],
+    [
+      "ANES_2016_PRE ADMIN VARIABLES",
+      [
+        0.788430023210517
+      ]
+    ],
+    [
+      "ANES_1960_STUDY PROCEDURE AND SAMPLING",
+      [
+        0.7839492379825664
+      ]
+    ],
+    [
+      "ANES_2002_STUDY ID, CASE ID, WEIGHT",
+      [
+        0.7770652973635785
+      ]
+    ],
+    [
+      "ANES_1958_BUILT MEASURES",
+      [
+        0.7766258899167034
+      ]
+    ],
+    [
+      "ANES_1986_R'S OCCUPATION SECTION",
+      [
+        0.7736530546718653
+      ]
+    ],
+    [
+      "ANES_2000_IDENTIFICATION AND WEIGHTS",
+      [
+        0.7736490844628852
+      ]
+    ],
+    [
+      "ANES_1978_AGE AND MARITAL STATUS",
+      [
+        0.7716605994991578
+      ]
+    ],
+    [
+      "ANES_1970_\"FEELING THERMOMETER\"- GROUPS IN SOCIETY",
+      [
+        0.762150136464943
+      ]
+    ],
+    [
+      "ANES_1994_1.SAMPLING INFORMATION",
+      [
+        0.7613546800648052
+      ]
+    ],
+    [
+      "ANES_1966_STUDY PROCEDURE AND SAMPLING",
+      [
+        0.7554585560490307
+      ]
+    ],
+    [
+      "ANES_1976_LOCUS OF RESPONSIBILITY FOR STATUS OF WOMEN AND BLACKS",
+      [
+        0.7506030469028282
+      ]
+    ],
+    [
+      "ANES_1964_AWARENESS OF, AND FEELINGS TOWARD, VARIOUS",
+      [
+        0.7477921672342609
+      ]
+    ],
+    [
+      "ANES_2000_POST ADMINISTRATIVE AND FIELD VARIABLES",
+      [
+        0.7463662868349558
+      ]
+    ],
+    [
+      "ANES_1974_\"FEELING THERMOMETER\" - GROUPS IN SOCIETY",
+      [
+        0.7446607089561382
+      ]
+    ],
+    [
+      "ANES_1968_\"FEELING THERMOMETER\" - GROUPS IN SOCIETY",
+      [
+        0.7347401778013241
+      ]
+    ],
+    [
+      "ANES_2004_STUDY IDS",
+      [
+        0.7319171214352352
+      ]
+    ],
+    [
+      "ANES_1958_STUDY PROCEDURE AND SAMPLING",
+      [
+        0.7278430696505501
+      ]
+    ],
+    [
+      "ANES_2020_WEIGHTING VARIABLES",
+      [
+        0.7271455989186605
+      ]
+    ],
+    [
+      "ANES_1968_\"FEELING THERMOMETER\" - POSSIBLE CANDIDATES",
+      [
+        0.722646069765513
+      ]
+    ],
+    [
+      "ANES_2020_GENERAL NON‐SURVEY VARIABLES",
+      [
+        0.7195463509804579
+      ]
+    ],
+    [
+      "ANES_1970_\"FEELING THERMOMETER\"- POSSIBLE CANDIDATES IN '72",
+      [
+        0.7159395835404851
+      ]
+    ],
+    [
+      "ANES_1980_POST PERSONAL DATA",
+      [
+        0.7048685592883784
+      ]
+    ],
+    [
+      "ANES_1976_AGE AND MARITAL STATUS",
+      [
+        0.7048685592883784
+      ]
+    ],
+    [
+      "ANES_1998_IDENTIFICATION AND WEIGHTS",
+      [
+        0.6983102755623326
+      ]
+    ],
+    [
+      "ANES_1956_PRE ELECTION PERSONAL DATA",
+      [
+        0.6981429866541826
+      ]
+    ],
+    [
+      "ANES_1956_CONTENTS",
+      [
+        0.6956785277896824
+      ]
+    ],
+    [
+      "ANES_1952_PARTY CONVENTION",
+      [
+        0.6917133368070972
+      ]
+    ],
+    [
+      "ANES_1976_\"FEELING THERMOMETER\" - POLITICAL FIGURES",
+      [
+        0.6890624086432173
+      ]
+    ],
+    [
+      "ANES_1982_CONTENTS",
+      [
+        0.6871183065783147
+      ]
+    ],
+    [
+      "ANES_1984_CONTENTS",
+      [
+        0.6866565472538877
+      ]
+    ],
+    [
+      "ANES_2004_STUDY WEIGHTS AND SAMPLING ERROR CODE",
+      [
+        0.6859968421890648
+      ]
+    ],
+    [
+      "ANES_1978_CONTENTS",
+      [
+        0.6828503955033792
+      ]
+    ],
+    [
+      "ANES_1970_POLITICAL FACTUAL ITEMS",
+      [
+        0.6817334214433655
+      ]
+    ],
+    [
+      "ANES_1968_CONTENTS",
+      [
+        0.6799776593064227
+      ]
+    ],
+    [
+      "ANES_1980_PRE CONDITIONS OF INTERVIEW",
+      [
+        0.67753178384618
+      ]
+    ],
+    [
+      "ANES_1958_CONTENTS",
+      [
+        0.6767825755018759
+      ]
+    ],
+    [
+      "ANES_1964_VOTER VALIDATION STUDY",
+      [
+        0.6750791457882506
+      ]
+    ],
+    [
+      "ANES_1952_CONTENTS",
+      [
+        0.6732657862514629
+      ]
+    ],
+    [
+      "ANES_1970_CONTENTS",
+      [
+        0.6731127431590781
+      ]
+    ],
+    [
+      "ANES_1948_CONTENTS",
+      [
+        0.6705700581366152
+      ]
+    ],
+    [
+      "ANES_1980_CONTENTS",
+      [
+        0.6697668876026748
+      ]
+    ],
+    [
+      "ANES_1960_CONTENTS",
+      [
+        0.6690376311698146
+      ]
+    ],
+    [
+      "ANES_1964_OCCUPATION",
+      [
+        0.6602254539570667
+      ]
+    ],
+    [
+      "ANES_1974_\"FEELING THERMOMETER\" - POLITICAL|MEDIA FIGURES",
+      [
+        0.6544752773947111
+      ]
+    ],
+    [
+      "ANES_1962_CONTENTS",
+      [
+        0.6516899259189246
+      ]
+    ],
+    [
+      "ANES_1960_POST ELECTION INTERVIEW",
+      [
+        0.6470060213161591
+      ]
+    ],
+    [
+      "ANES_1972_CONTENTS",
+      [
+        0.6466588367300563
+      ]
+    ],
+    [
+      "ANES_1964_CONTENTS",
+      [
+        0.6457980130605918
+      ]
+    ]
+  ],
+  "ANES_1988_POSITION ON GOVT-FUNDED INSURANCE SCALE.csv": [],
+  "ANES_1964_FAMILY EDUCATION.csv": [
+    [
+      "ANES_1964_FAMILY EDUCATION",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_1966_PERSONAL DATA",
+      [
+        0.6619861255083191
+      ]
+    ],
+    [
+      "ANES_1948_CONTENTS",
+      [
+        0.6461610993469877
+      ]
+    ],
+    [
+      "ANES_2000_IDENTIFICATION AND WEIGHTS",
+      [
+        0.6445530072249476
+      ]
+    ],
+    [
+      "ANES_1982_CONTENTS",
+      [
+        0.642863609734084
+      ]
+    ],
+    [
+      "ANES_1978_CONTENTS",
+      [
+        0.6428087611402579
+      ]
+    ],
+    [
+      "ANES_1980_CONTENTS",
+      [
+        0.6406270248820778
+      ]
+    ],
+    [
+      "ANES_2002_STUDY ID, CASE ID, WEIGHT",
+      [
+        0.6403333597043441
+      ]
+    ],
+    [
+      "ANES_1958_CONTENTS",
+      [
+        0.6385862641912476
+      ]
+    ],
+    [
+      "ANES_2004_STUDY IDS",
+      [
+        0.6385024188320347
+      ]
+    ],
+    [
+      "ANES_1984_CONTENTS",
+      [
+        0.6380084236942334
+      ]
+    ],
+    [
+      "ANES_1998_IDENTIFICATION AND WEIGHTS",
+      [
+        0.637084907354073
+      ]
+    ],
+    [
+      "ANES_1956_CONTENTS",
+      [
+        0.6360331913299722
+      ]
+    ],
+    [
+      "ANES_2012_GENERAL STUDY VARIABLES",
+      [
+        0.633770531501375
+      ]
+    ],
+    [
+      "ANES_1952_CONTENTS",
+      [
+        0.6319779851641762
+      ]
+    ],
+    [
+      "ANES_2016_GENERAL SURVEY VARIABLES",
+      [
+        0.6254260031265138
+      ]
+    ],
+    [
+      "ANES_1972_CONTENTS",
+      [
+        0.619125190791296
+      ]
+    ],
+    [
+      "ANES_1964_CONTENTS",
+      [
+        0.6166801908339151
+      ]
+    ],
+    [
+      "ANES_1970_CONTENTS",
+      [
+        0.6128704352809581
+      ]
+    ],
+    [
+      "ANES_1968_CONTENTS",
+      [
+        0.611946531279501
+      ]
+    ],
+    [
+      "ANES_1980_PRE-ELECTION SAMPLE INFORMATION",
+      [
+        0.6100155139790054
+      ]
+    ],
+    [
+      "ANES_2020_WEIGHTING VARIABLES",
+      [
+        0.5960604326173922
+      ]
+    ],
+    [
+      "ANES_2016_PRE ADMIN VARIABLES",
+      [
+        0.590748276260838
+      ]
+    ],
+    [
+      "ANES_1962_STUDY PROCEDURE AND SAMPLING",
+      [
+        0.5900384361994268
+      ]
+    ],
+    [
+      "ANES_1958_CODERS EVALUATION OF INTERVIEWER",
+      [
+        0.587890625
+      ]
+    ],
+    [
+      "ANES_1956_PRE ELECTION PERSONAL DATA",
+      [
+        0.5877757556394224
+      ]
+    ],
+    [
+      "ANES_1966_STUDY PROCEDURE AND SAMPLING",
+      [
+        0.5862478095083218
+      ]
+    ],
+    [
+      "ANES_2020_GENERAL NON‐SURVEY VARIABLES",
+      [
+        0.585874326970808
+      ]
+    ],
+    [
+      "ANES_1964_MASS MEDIA USAGE",
+      [
+        0.5845613766328803
+      ]
+    ],
+    [
+      "ANES_2004_STUDY WEIGHTS AND SAMPLING ERROR CODE",
+      [
+        0.583486845427103
+      ]
+    ],
+    [
+      "ANES_1994_1.SAMPLING INFORMATION",
+      [
+        0.5826984677120485
+      ]
+    ],
+    [
+      "ANES_1982_SAMPLING INFORMATION",
+      [
+        0.5824973417132613
+      ]
+    ],
+    [
+      "ANES_1994_1.INTERVIEWER VARIABLES",
+      [
+        0.5817179954778747
+      ]
+    ],
+    [
+      "ANES_1958_BUILT MEASURES",
+      [
+        0.5795532581200186
+      ]
+    ],
+    [
+      "ANES_1968_REPUBLICAN-DEMOCRATIC PARTY DIFFERENCES",
+      [
+        0.5788990005887322
+      ]
+    ],
+    [
+      "ANES_1970_POLITICAL FACTUAL ITEMS",
+      [
+        0.5786562661310785
+      ]
+    ],
+    [
+      "ANES_1964_OCCUPATION",
+      [
+        0.5738590796127884
+      ]
+    ],
+    [
+      "ANES_1964_VOTER VALIDATION STUDY",
+      [
+        0.5725208830569458
+      ]
+    ],
+    [
+      "ANES_1968_MOST IMPORTANT NATIONAL PROBLEMS",
+      [
+        0.5719034898740548
+      ]
+    ],
+    [
+      "ANES_1986_R'S OCCUPATION SECTION",
+      [
+        0.571685333078904
+      ]
+    ],
+    [
+      "ANES_1964_QUESTIONS FOR FARMERS",
+      [
+        0.5698832507262916
+      ]
+    ],
+    [
+      "ANES_1956_MASS MEDIA USAGE",
+      [
+        0.5696726693675331
+      ]
+    ],
+    [
+      "ANES_1968_\"FEELING THERMOMETER\" - POSSIBLE CANDIDATES",
+      [
+        0.5693168015367802
+      ]
+    ],
+    [
+      "ANES_1956_STUDY PROCEDURE",
+      [
+        0.568788450929364
+      ]
+    ],
+    [
+      "ANES_1960_STUDY PROCEDURE AND SAMPLING",
+      [
+        0.5685876016544066
+      ]
+    ],
+    [
+      "ANES_1958_STUDY PROCEDURE AND SAMPLING",
+      [
+        0.5680068001490262
+      ]
+    ],
+    [
+      "ANES_1980_PRE CONDITIONS OF INTERVIEW",
+      [
+        0.5669335720604856
+      ]
+    ],
+    [
+      "ANES_1960_UNION MEMBERSHIP",
+      [
+        0.5660953007899534
+      ]
+    ],
+    [
+      "ANES_1970_\"FEELING THERMOMETER\"- POSSIBLE CANDIDATES IN '72",
+      [
+        0.5645651883763237
+      ]
+    ],
+    [
+      "ANES_1978_AGE AND MARITAL STATUS",
+      [
+        0.5643927516021039
+      ]
+    ]
+  ],
+  "ANES_1958_BUILT MEASURES.csv": [
+    [
+      "ANES_1958_BUILT MEASURES",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_1960_STUDY PROCEDURE AND SAMPLING",
+      [
+        0.8919894870289722
+      ]
+    ],
+    [
+      "ANES_1958_STUDY PROCEDURE AND SAMPLING",
+      [
+        0.8880469242014064
+      ]
+    ],
+    [
+      "ANES_1966_STUDY PROCEDURE AND SAMPLING",
+      [
+        0.8096955709556837
+      ]
+    ],
+    [
+      "ANES_2012_GENERAL STUDY VARIABLES",
+      [
+        0.7485762071354591
+      ]
+    ],
+    [
+      "ANES_1980_POST PERSONAL DATA",
+      [
+        0.7253063715113128
+      ]
+    ],
+    [
+      "ANES_1976_AGE AND MARITAL STATUS",
+      [
+        0.7253063715113128
+      ]
+    ],
+    [
+      "ANES_1970_\"FEELING THERMOMETER\"- GROUPS IN SOCIETY",
+      [
+        0.72242945897577
+      ]
+    ],
+    [
+      "ANES_2016_GENERAL SURVEY VARIABLES",
+      [
+        0.7082413074968955
+      ]
+    ],
+    [
+      "ANES_1958_CODERS EVALUATION OF INTERVIEWER",
+      [
+        0.7047845193985344
+      ]
+    ],
+    [
+      "ANES_1964_AWARENESS OF, AND FEELINGS TOWARD, VARIOUS",
+      [
+        0.7037660108401755
+      ]
+    ],
+    [
+      "ANES_2016_PRE ADMIN VARIABLES",
+      [
+        0.7011958773964909
+      ]
+    ],
+    [
+      "ANES_1968_\"FEELING THERMOMETER\" - POSSIBLE CANDIDATES",
+      [
+        0.6983694655867028
+      ]
+    ],
+    [
+      "ANES_1994_1.SAMPLING INFORMATION",
+      [
+        0.6982295187864402
+      ]
+    ],
+    [
+      "ANES_1978_TYPE OF POLITICAL RACE",
+      [
+        0.6939664207771747
+      ]
+    ],
+    [
+      "ANES_2000_POST ADMINISTRATIVE AND FIELD VARIABLES",
+      [
+        0.6917392522487265
+      ]
+    ],
+    [
+      "ANES_1974_\"FEELING THERMOMETER\" - GROUPS IN SOCIETY",
+      [
+        0.6887180917936866
+      ]
+    ],
+    [
+      "ANES_1986_R'S OCCUPATION SECTION",
+      [
+        0.6880888975973971
+      ]
+    ],
+    [
+      "ANES_1976_LOCUS OF RESPONSIBILITY FOR STATUS OF WOMEN AND BLACKS",
+      [
+        0.6875154464753473
+      ]
+    ],
+    [
+      "ANES_1970_POLITICAL FACTUAL ITEMS",
+      [
+        0.6846781953516676
+      ]
+    ],
+    [
+      "ANES_1970_\"FEELING THERMOMETER\"- POSSIBLE CANDIDATES IN '72",
+      [
+        0.681034336120118
+      ]
+    ],
+    [
+      "ANES_1982_SAMPLING INFORMATION",
+      [
+        0.6808560500381285
+      ]
+    ],
+    [
+      "ANES_1968_\"FEELING THERMOMETER\" - GROUPS IN SOCIETY",
+      [
+        0.6731680317504198
+      ]
+    ],
+    [
+      "ANES_1956_PRE ELECTION PERSONAL DATA",
+      [
+        0.6711922519255155
+      ]
+    ],
+    [
+      "ANES_1976_\"FEELING THERMOMETER\" - POLITICAL FIGURES",
+      [
+        0.6695012873681632
+      ]
+    ],
+    [
+      "ANES_1978_AGE AND MARITAL STATUS",
+      [
+        0.667376376816447
+      ]
+    ],
+    [
+      "ANES_1964_FEELINGS TOWARD GROUPS-FEELING THERMOMETER",
+      [
+        0.6656064092734278
+      ]
+    ],
+    [
+      "ANES_1964_VOTER VALIDATION STUDY",
+      [
+        0.661936533235991
+      ]
+    ],
+    [
+      "ANES_2000_IDENTIFICATION AND WEIGHTS",
+      [
+        0.6615803876234689
+      ]
+    ],
+    [
+      "ANES_1952_PARTY CONVENTION",
+      [
+        0.6541401191083767
+      ]
+    ],
+    [
+      "ANES_1974_\"FEELING THERMOMETER\" - POLITICAL|MEDIA FIGURES",
+      [
+        0.6477177088628914
+      ]
+    ],
+    [
+      "ANES_1960_POST ELECTION INTERVIEW",
+      [
+        0.6460511266359762
+      ]
+    ],
+    [
+      "ANES_2002_STUDY ID, CASE ID, WEIGHT",
+      [
+        0.6459111712696038
+      ]
+    ],
+    [
+      "ANES_2004_STUDY WEIGHTS AND SAMPLING ERROR CODE",
+      [
+        0.6430573293363061
+      ]
+    ],
+    [
+      "ANES_1964_OCCUPATION",
+      [
+        0.6306783132847354
+      ]
+    ],
+    [
+      "ANES_1972_\"FEELING THERMOMETER\" - POTENTIAL CANDIDATES",
+      [
+        0.6286432771454165
+      ]
+    ],
+    [
+      "ANES_1964_QUESTIONS FOR FARMERS",
+      [
+        0.6286280566637117
+      ]
+    ],
+    [
+      "ANES_2020_SAMPLE VARIABLES",
+      [
+        0.6283900867154318
+      ]
+    ],
+    [
+      "ANES_1960_POLITICAL PARTICIPATION AND INFORMATION",
+      [
+        0.6280055580604883
+      ]
+    ],
+    [
+      "ANES_2016_SAMPLE VARIABLES",
+      [
+        0.6238548120738264
+      ]
+    ],
+    [
+      "ANES_2020_WEIGHTING VARIABLES",
+      [
+        0.622298822270467
+      ]
+    ],
+    [
+      "ANES_1980_INDIVIDUAL VOTER RECORD VALIDATION",
+      [
+        0.6123278667547958
+      ]
+    ],
+    [
+      "ANES_1966_PERSONAL DATA",
+      [
+        0.605846269464925
+      ]
+    ],
+    [
+      "ANES_1952_PRE ELECTION VOTING BEHAVIOR",
+      [
+        0.6005859375
+      ]
+    ],
+    [
+      "ANES_1978_INCUMBENT INFORMATION",
+      [
+        0.5996520714371956
+      ]
+    ],
+    [
+      "ANES_1960_UNION MEMBERSHIP",
+      [
+        0.5926280309785207
+      ]
+    ],
+    [
+      "ANES_1994_1.INTERVIEWER VARIABLES",
+      [
+        0.5903605211042582
+      ]
+    ],
+    [
+      "ANES_1960_KNOWLEDGE OF THE CANDIDATES",
+      [
+        0.5888044048811161
+      ]
+    ],
+    [
+      "ANES_1972_WHERE WAS R BROUGHT UP",
+      [
+        0.586982566740003
+      ]
+    ],
+    [
+      "ANES_1964_KNOWLEDGE OF CANDIDATES",
+      [
+        0.5822461173347832
+      ]
+    ]
+  ],
+  "ANES_1986_DOES R DISCUSS POLITICS.csv": [],
+  "ANES_1994_EQUAL OPPORTUNITY.csv": [],
+  "ANES_1972_PERSONAL DATA.csv": [],
+  "ANES_1980_VOTING SECTION NON-VOTERS.csv": [],
+  "ANES_1972_CONFIDENCE IN NATIONAL|STATE|LOCAL GOVERNMENT.csv": [],
+  "ANES_1964_KNOWLEDGE OF CONGRESSIONAL COMPOSITION.csv": [],
+  "ANES_1960_UNION MEMBERSHIP.csv": [
+    [
+      "ANES_1960_UNION MEMBERSHIP",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_1980_POST PERSONAL DATA",
+      [
+        0.6708984375
+      ]
+    ],
+    [
+      "ANES_1976_AGE AND MARITAL STATUS",
+      [
+        0.6708984375
+      ]
+    ],
+    [
+      "ANES_1960_STUDY PROCEDURE AND SAMPLING",
+      [
+        0.6533203125
+      ]
+    ],
+    [
+      "ANES_1964_VOTER VALIDATION STUDY",
+      [
+        0.6513671875
+      ]
+    ],
+    [
+      "ANES_1956_PRE ELECTION PERSONAL DATA",
+      [
+        0.6455078125
+      ]
+    ],
+    [
+      "ANES_1970_POLITICAL FACTUAL ITEMS",
+      [
+        0.6435546875
+      ]
+    ],
+    [
+      "ANES_2012_GENERAL STUDY VARIABLES",
+      [
+        0.6396484375
+      ]
+    ],
+    [
+      "ANES_2016_GENERAL SURVEY VARIABLES",
+      [
+        0.6337890625
+      ]
+    ],
+    [
+      "ANES_1958_BUILT MEASURES",
+      [
+        0.6337890625
+      ]
+    ],
+    [
+      "ANES_1976_LOCUS OF RESPONSIBILITY FOR STATUS OF WOMEN AND BLACKS",
+      [
+        0.6318359375
+      ]
+    ],
+    [
+      "ANES_1986_R'S OCCUPATION SECTION",
+      [
+        0.630859375
+      ]
+    ],
+    [
+      "ANES_1968_\"FEELING THERMOMETER\" - GROUPS IN SOCIETY",
+      [
+        0.6279296875
+      ]
+    ],
+    [
+      "ANES_1964_OCCUPATION",
+      [
+        0.6279296875
+      ]
+    ],
+    [
+      "ANES_1958_STUDY PROCEDURE AND SAMPLING",
+      [
+        0.6240234375
+      ]
+    ],
+    [
+      "ANES_1978_AGE AND MARITAL STATUS",
+      [
+        0.6220703125
+      ]
+    ],
+    [
+      "ANES_1964_FEELINGS TOWARD GROUPS-FEELING THERMOMETER",
+      [
+        0.61328125
+      ]
+    ],
+    [
+      "ANES_1966_STUDY PROCEDURE AND SAMPLING",
+      [
+        0.6044921875
+      ]
+    ],
+    [
+      "ANES_2002_STUDY ID, CASE ID, WEIGHT",
+      [
+        0.5986328125
+      ]
+    ],
+    [
+      "ANES_1974_\"FEELING THERMOMETER\" - GROUPS IN SOCIETY",
+      [
+        0.5966796875
+      ]
+    ],
+    [
+      "ANES_1968_CONTENTS",
+      [
+        0.5966796875
+      ]
+    ],
+    [
+      "ANES_1980_INDIVIDUAL VOTER RECORD VALIDATION",
+      [
+        0.5927734374999999
+      ]
+    ],
+    [
+      "ANES_1970_\"FEELING THERMOMETER\"- GROUPS IN SOCIETY",
+      [
+        0.5888671875
+      ]
+    ],
+    [
+      "ANES_1970_\"FEELING THERMOMETER\"- POSSIBLE CANDIDATES IN '72",
+      [
+        0.5869140625
+      ]
+    ],
+    [
+      "ANES_1968_\"FEELING THERMOMETER\" - POSSIBLE CANDIDATES",
+      [
+        0.5869140625
+      ]
+    ],
+    [
+      "ANES_1964_QUESTIONS FOR FARMERS",
+      [
+        0.5849609375
+      ]
+    ],
+    [
+      "ANES_1974_AGE AND MARITAL STATUS",
+      [
+        0.583984375
+      ]
+    ],
+    [
+      "ANES_2020_WEIGHTING VARIABLES",
+      [
+        0.58203125
+      ]
+    ],
+    [
+      "ANES_1952_CONTENTS",
+      [
+        0.58203125
+      ]
+    ],
+    [
+      "ANES_2000_POST ADMINISTRATIVE AND FIELD VARIABLES",
+      [
+        0.5810546875
+      ]
+    ],
+    [
+      "ANES_1980_PRE-ELECTION SAMPLE INFORMATION",
+      [
+        0.580078125
+      ]
+    ],
+    [
+      "ANES_1956_PERSONAL EFFECTIVENESS",
+      [
+        0.5791015625
+      ]
+    ],
+    [
+      "ANES_1952_PARTY CONVENTION",
+      [
+        0.578125
+      ]
+    ],
+    [
+      "ANES_2016_PRE ADMIN VARIABLES",
+      [
+        0.578125
+      ]
+    ],
+    [
+      "ANES_2004_STUDY IDS",
+      [
+        0.576171875
+      ]
+    ],
+    [
+      "ANES_1968_LOCAL EDUCATION PROBLEMS, R'S ACTIVITIES",
+      [
+        0.5751953125
+      ]
+    ],
+    [
+      "ANES_1994_1.SAMPLING INFORMATION",
+      [
+        0.57421875
+      ]
+    ],
+    [
+      "ANES_2004_STUDY WEIGHTS AND SAMPLING ERROR CODE",
+      [
+        0.5732421875
+      ]
+    ],
+    [
+      "ANES_1960_KNOWLEDGE OF THE CANDIDATES",
+      [
+        0.5732421875
+      ]
+    ],
+    [
+      "ANES_1964_FAMILY EDUCATION",
+      [
+        0.5712890625
+      ]
+    ],
+    [
+      "ANES_1958_CONTENTS",
+      [
+        0.5712890625
+      ]
+    ],
+    [
+      "ANES_1964_MASS MEDIA USAGE",
+      [
+        0.5703125
+      ]
+    ],
+    [
+      "ANES_1972_\"FEELING THERMOMETER\" - POTENTIAL CANDIDATES",
+      [
+        0.568359375
+      ]
+    ],
+    [
+      "ANES_2020_GENERAL NON‐SURVEY VARIABLES",
+      [
+        0.5673828125
+      ]
+    ],
+    [
+      "ANES_1994_1.INTERVIEWER VARIABLES",
+      [
+        0.5673828125
+      ]
+    ],
+    [
+      "ANES_1976_\"FEELING THERMOMETER\" - POLITICAL FIGURES",
+      [
+        0.56640625
+      ]
+    ],
+    [
+      "ANES_1998_IDENTIFICATION AND WEIGHTS",
+      [
+        0.564453125
+      ]
+    ],
+    [
+      "ANES_1960_POLITICAL PARTICIPATION AND INFORMATION",
+      [
+        0.564453125
+      ]
+    ],
+    [
+      "ANES_1964_AWARENESS OF, AND FEELINGS TOWARD, VARIOUS",
+      [
+        0.564453125
+      ]
+    ],
+    [
+      "ANES_1980_CONTENTS",
+      [
+        0.5634765625
+      ]
+    ]
+  ],
+  "ANES_1964_QUESTIONS FOR FARMERS.csv": [
+    [
+      "ANES_1964_QUESTIONS FOR FARMERS",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_1958_BUILT MEASURES",
+      [
+        0.689453125
+      ]
+    ],
+    [
+      "ANES_2016_GENERAL SURVEY VARIABLES",
+      [
+        0.685546875
+      ]
+    ],
+    [
+      "ANES_2002_STUDY ID, CASE ID, WEIGHT",
+      [
+        0.685546875
+      ]
+    ],
+    [
+      "ANES_2012_GENERAL STUDY VARIABLES",
+      [
+        0.6845703125
+      ]
+    ],
+    [
+      "ANES_1994_1.SAMPLING INFORMATION",
+      [
+        0.6748046875
+      ]
+    ],
+    [
+      "ANES_2016_PRE ADMIN VARIABLES",
+      [
+        0.6748046875
+      ]
+    ],
+    [
+      "ANES_1970_\"FEELING THERMOMETER\"- GROUPS IN SOCIETY",
+      [
+        0.671875
+      ]
+    ],
+    [
+      "ANES_2000_POST ADMINISTRATIVE AND FIELD VARIABLES",
+      [
+        0.6708984375
+      ]
+    ],
+    [
+      "ANES_2000_IDENTIFICATION AND WEIGHTS",
+      [
+        0.66796875
+      ]
+    ],
+    [
+      "ANES_1964_AWARENESS OF, AND FEELINGS TOWARD, VARIOUS",
+      [
+        0.6669921875
+      ]
+    ],
+    [
+      "ANES_1952_PARTY CONVENTION",
+      [
+        0.666015625
+      ]
+    ],
+    [
+      "ANES_1966_STUDY PROCEDURE AND SAMPLING",
+      [
+        0.6650390625
+      ]
+    ],
+    [
+      "ANES_1958_STUDY PROCEDURE AND SAMPLING",
+      [
+        0.6640625
+      ]
+    ],
+    [
+      "ANES_1976_LOCUS OF RESPONSIBILITY FOR STATUS OF WOMEN AND BLACKS",
+      [
+        0.654296875
+      ]
+    ],
+    [
+      "ANES_2004_STUDY WEIGHTS AND SAMPLING ERROR CODE",
+      [
+        0.65234375
+      ]
+    ],
+    [
+      "ANES_1974_\"FEELING THERMOMETER\" - GROUPS IN SOCIETY",
+      [
+        0.65234375
+      ]
+    ],
+    [
+      "ANES_1960_STUDY PROCEDURE AND SAMPLING",
+      [
+        0.6474609375
+      ]
+    ],
+    [
+      "ANES_1970_\"FEELING THERMOMETER\"- POSSIBLE CANDIDATES IN '72",
+      [
+        0.64453125
+      ]
+    ],
+    [
+      "ANES_1968_\"FEELING THERMOMETER\" - POSSIBLE CANDIDATES",
+      [
+        0.6416015625
+      ]
+    ],
+    [
+      "ANES_1976_\"FEELING THERMOMETER\" - POLITICAL FIGURES",
+      [
+        0.6357421875
+      ]
+    ],
+    [
+      "ANES_1974_\"FEELING THERMOMETER\" - POLITICAL|MEDIA FIGURES",
+      [
+        0.6298828125
+      ]
+    ],
+    [
+      "ANES_1968_\"FEELING THERMOMETER\" - GROUPS IN SOCIETY",
+      [
+        0.62890625
+      ]
+    ],
+    [
+      "ANES_2020_SAMPLE VARIABLES",
+      [
+        0.623046875
+      ]
+    ],
+    [
+      "ANES_1968_CONTENTS",
+      [
+        0.619140625
+      ]
+    ],
+    [
+      "ANES_2016_SAMPLE VARIABLES",
+      [
+        0.6171875
+      ]
+    ],
+    [
+      "ANES_1956_PRE ELECTION PERSONAL DATA",
+      [
+        0.6162109375
+      ]
+    ],
+    [
+      "ANES_1970_CONTENTS",
+      [
+        0.61328125
+      ]
+    ],
+    [
+      "ANES_1966_PERSONAL DATA",
+      [
+        0.61328125
+      ]
+    ],
+    [
+      "ANES_2020_WEIGHTING VARIABLES",
+      [
+        0.6103515625
+      ]
+    ],
+    [
+      "ANES_1980_CONTENTS",
+      [
+        0.603515625
+      ]
+    ],
+    [
+      "ANES_1948_CONTENTS",
+      [
+        0.6025390625
+      ]
+    ],
+    [
+      "ANES_2004_STUDY IDS",
+      [
+        0.6025390625
+      ]
+    ],
+    [
+      "ANES_1978_CONTENTS",
+      [
+        0.6025390625
+      ]
+    ],
+    [
+      "ANES_1958_CONTENTS",
+      [
+        0.6015625
+      ]
+    ],
+    [
+      "ANES_1964_CONTENTS",
+      [
+        0.6015625
+      ]
+    ],
+    [
+      "ANES_1984_CONTENTS",
+      [
+        0.6005859375
+      ]
+    ],
+    [
+      "ANES_1980_PRE CONDITIONS OF INTERVIEW",
+      [
+        0.6005859375
+      ]
+    ],
+    [
+      "ANES_1982_CONTENTS",
+      [
+        0.599609375
+      ]
+    ],
+    [
+      "ANES_1980_POST PERSONAL DATA",
+      [
+        0.595703125
+      ]
+    ],
+    [
+      "ANES_1976_AGE AND MARITAL STATUS",
+      [
+        0.595703125
+      ]
+    ],
+    [
+      "ANES_1956_CONTENTS",
+      [
+        0.595703125
+      ]
+    ],
+    [
+      "ANES_1998_IDENTIFICATION AND WEIGHTS",
+      [
+        0.595703125
+      ]
+    ],
+    [
+      "ANES_1960_POLITICAL PARTICIPATION AND INFORMATION",
+      [
+        0.5927734375
+      ]
+    ],
+    [
+      "ANES_1956_STUDY PROCEDURE",
+      [
+        0.5908203125
+      ]
+    ],
+    [
+      "ANES_1972_\"FEELING THERMOMETER\" - POTENTIAL CANDIDATES",
+      [
+        0.587890625
+      ]
+    ],
+    [
+      "ANES_1964_OCCUPATION",
+      [
+        0.5859375
+      ]
+    ],
+    [
+      "ANES_1960_UNION MEMBERSHIP",
+      [
+        0.5849609375
+      ]
+    ],
+    [
+      "ANES_1972_WHERE WAS R BROUGHT UP",
+      [
+        0.5830078125
+      ]
+    ],
+    [
+      "ANES_1964_VOTER VALIDATION STUDY",
+      [
+        0.5810546875
+      ]
+    ]
+  ],
+  "ANES_1982_R'S CAMPAIGN CONTRIBUTIONS.csv": [],
+  "ANES_1984_R'S ATTITUDES TOWARDS POLITICAL PROCESS.csv": [],
+  "ANES_1968_1968 CAMPAIGN INTEREST, VOTE INTENTION.csv": [],
+  "ANES_1990_GOVERNMENT SERVICES|SPENDING SCALE.csv": [],
+  "ANES_1980_QUALITIES DESCRIBING CANDIDATE - CARTER.csv": [],
+  "ANES_1994_7-POINT SCALES.csv": [],
+  "ANES_1974_GOVERNMENT GUARANTEED JOB & LIVING STANDARD SCALE.csv": [],
+  "ANES_1956_FINANCIAL SITUATION OF FAMILY UNIT OR R.csv": [],
+  "ANES_1984_PARTY CONTACTS WITH R DURING THE CAMPAIGN.csv": [],
+  "ANES_1972_R'S ATTITUDE PROTEST, CIVIL DISOBEDIENCE.csv": [],
+  "ANES_1986_R'S RECOGNITION OF POLITICAL FIGURES.csv": [],
+  "ANES_1974_GOVERNMENT AID TO MINORITIES SCALE.csv": [],
+  "ANES_1966_VIETNAM.csv": [],
+  "ANES_1984_R'S RELIGIOUS PREFERENCE.csv": [],
+  "ANES_1968_R'S & HEAD'S EDUCATION AND COLLEGES.csv": [],
+  "ANES_1994_U.S. FOREIGN POLICY.csv": [],
+  "ANES_1980_FAMILY INCOME.csv": [],
+  "ANES_1958_DOMESTIC ISSUES AND FOREIGN POLICY.csv": [],
+  "ANES_1982_R'S CONTACT WITH DEMOCRATIC HOUSE CANDIDATE.csv": [],
+  "ANES_1990_DEFENSE SPENDING SCALE.csv": [],
+  "ANES_1972_PARTY AFFILIATION.csv": [],
+  "ANES_1988_PARTY IDENTIFICATION OF R'S PARENTS.csv": [],
+  "ANES_1984_R'S FEELINGS ABOUT CANDIDATE REAGAN.csv": [],
+  "ANES_1978_DEMOCRATIC HOUSE CANDIDATE COMPONENT.csv": [],
+  "ANES_2000_F1-F3 - PRESIDENTIAL CANDIDATE AFFECTS.csv": [],
+  "ANES_1990_SOCIO|ECONOMIC STATUS OF BLACKS SCALE.csv": [],
+  "ANES_1986_R'S ASSESSMENT OF CONGRESS AND THE PRESIDENT.csv": [],
+  "ANES_1976_R'S PARENTS POLITICAL INTEREST & PARTISANSHIP.csv": [],
+  "ANES_2020_GENERAL NON‐SURVEY VARIABLES.csv": [
+    [
+      "ANES_2020_GENERAL NON‐SURVEY VARIABLES",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_1956_CONTENTS",
+      [
+        0.771484375
+      ]
+    ],
+    [
+      "ANES_1948_CONTENTS",
+      [
+        0.7529296875
+      ]
+    ],
+    [
+      "ANES_2000_IDENTIFICATION AND WEIGHTS",
+      [
+        0.751953125
+      ]
+    ],
+    [
+      "ANES_2002_STUDY ID, CASE ID, WEIGHT",
+      [
+        0.75
+      ]
+    ],
+    [
+      "ANES_2020_WEIGHTING VARIABLES",
+      [
+        0.7490234375
+      ]
+    ],
+    [
+      "ANES_2004_STUDY IDS",
+      [
+        0.7490234375
+      ]
+    ],
+    [
+      "ANES_1972_CONTENTS",
+      [
+        0.7490234375
+      ]
+    ],
+    [
+      "ANES_1958_CONTENTS",
+      [
+        0.748046875
+      ]
+    ],
+    [
+      "ANES_2012_GENERAL STUDY VARIABLES",
+      [
+        0.7470703125
+      ]
+    ],
+    [
+      "ANES_1984_CONTENTS",
+      [
+        0.7470703125
+      ]
+    ],
+    [
+      "ANES_1980_CONTENTS",
+      [
+        0.74609375
+      ]
+    ],
+    [
+      "ANES_1982_CONTENTS",
+      [
+        0.74609375
+      ]
+    ],
+    [
+      "ANES_1998_IDENTIFICATION AND WEIGHTS",
+      [
+        0.74609375
+      ]
+    ],
+    [
+      "ANES_2016_GENERAL SURVEY VARIABLES",
+      [
+        0.7431640625
+      ]
+    ],
+    [
+      "ANES_1978_CONTENTS",
+      [
+        0.7431640625
+      ]
+    ],
+    [
+      "ANES_1964_CONTENTS",
+      [
+        0.728515625
+      ]
+    ],
+    [
+      "ANES_1968_CONTENTS",
+      [
+        0.7265625
+      ]
+    ],
+    [
+      "ANES_1974_AGE AND MARITAL STATUS",
+      [
+        0.7197265625
+      ]
+    ],
+    [
+      "ANES_1970_CONTENTS",
+      [
+        0.716796875
+      ]
+    ],
+    [
+      "ANES_1952_CONTENTS",
+      [
+        0.7158203125
+      ]
+    ],
+    [
+      "ANES_1960_STUDY PROCEDURE AND SAMPLING",
+      [
+        0.7099609375
+      ]
+    ],
+    [
+      "ANES_1960_CONTENTS",
+      [
+        0.7060546875
+      ]
+    ],
+    [
+      "ANES_1956_PERSONAL DATA (CONT.)",
+      [
+        0.69140625
+      ]
+    ],
+    [
+      "ANES_1962_CONTENTS",
+      [
+        0.6884765625
+      ]
+    ],
+    [
+      "ANES_2016_PRE ADMIN VARIABLES",
+      [
+        0.6865234375
+      ]
+    ],
+    [
+      "ANES_1994_1.SAMPLING INFORMATION",
+      [
+        0.6835937499999999
+      ]
+    ],
+    [
+      "ANES_1980_PRE CONDITIONS OF INTERVIEW",
+      [
+        0.6748046875
+      ]
+    ],
+    [
+      "ANES_1980_PRE-ELECTION SAMPLE INFORMATION",
+      [
+        0.6591796875
+      ]
+    ],
+    [
+      "ANES_1956_MASS MEDIA USAGE",
+      [
+        0.65234375
+      ]
+    ],
+    [
+      "ANES_1972_WHERE WAS R BROUGHT UP",
+      [
+        0.6357421875
+      ]
+    ],
+    [
+      "ANES_2004_STUDY WEIGHTS AND SAMPLING ERROR CODE",
+      [
+        0.6347656249999999
+      ]
+    ],
+    [
+      "ANES_1958_STUDY PROCEDURE AND SAMPLING",
+      [
+        0.626953125
+      ]
+    ],
+    [
+      "ANES_1966_STUDY PROCEDURE AND SAMPLING",
+      [
+        0.623046875
+      ]
+    ],
+    [
+      "ANES_1964_MASS MEDIA USAGE",
+      [
+        0.6162109375
+      ]
+    ],
+    [
+      "ANES_2016_SAMPLE VARIABLES",
+      [
+        0.61328125
+      ]
+    ],
+    [
+      "ANES_2020_SAMPLE VARIABLES",
+      [
+        0.609375
+      ]
+    ],
+    [
+      "ANES_1982_SAMPLING INFORMATION",
+      [
+        0.6044921875
+      ]
+    ],
+    [
+      "ANES_1956_STUDY PROCEDURE",
+      [
+        0.6044921875
+      ]
+    ],
+    [
+      "ANES_1964_MAJOR PROBLEMS",
+      [
+        0.5986328125
+      ]
+    ],
+    [
+      "ANES_1966_PERSONAL DATA",
+      [
+        0.595703125
+      ]
+    ],
+    [
+      "ANES_1968_MOST IMPORTANT NATIONAL PROBLEMS",
+      [
+        0.595703125
+      ]
+    ],
+    [
+      "ANES_1994_1.INTERVIEWER VARIABLES",
+      [
+        0.595703125
+      ]
+    ],
+    [
+      "ANES_1970_POLITICAL FACTUAL ITEMS",
+      [
+        0.59375
+      ]
+    ],
+    [
+      "ANES_1964_FAMILY EDUCATION",
+      [
+        0.591796875
+      ]
+    ],
+    [
+      "ANES_1962_STUDY PROCEDURE AND SAMPLING",
+      [
+        0.5849609375
+      ]
+    ],
+    [
+      "ANES_1960_POST ELECTION INTERVIEW",
+      [
+        0.5810546875
+      ]
+    ],
+    [
+      "ANES_1964_QUESTIONS FOR FARMERS",
+      [
+        0.578125
+      ]
+    ],
+    [
+      "ANES_1980_INDIVIDUAL VOTER RECORD VALIDATION",
+      [
+        0.5771484375
+      ]
+    ],
+    [
+      "ANES_1958_BUILT MEASURES",
+      [
+        0.57421875
+      ]
+    ]
+  ],
+  "ANES_1988_INCREASE|DECREASE SPENDING ON FEDERAL BUDGET PROGRAMS(SEE ALSO VARIABLES 348-352).csv": [],
+  "ANES_2000_K1- GROUP INFLUENCE TOO MUCH, TOO LITTLE, RIGHT AMT.csv": [],
+  "ANES_1982_POSITIONS ON GUARANTEED JOB SCALE.csv": [],
+  "ANES_1976_GOVERNMENT ECONOMIC POLICY.csv": [],
+  "ANES_1988_SENATE CAMPAIGN.csv": [],
+  "ANES_1972_R'S PERSONAL FINANCIAL SITUATION.csv": [],
+  "ANES_1988_POWER OF GOVERNMENT.csv": [],
+  "ANES_1986_CONTACT WITH U.S. HOUSE CANDIDATE.csv": [],
+  "ANES_1948_CONTENTS.csv": [
+    [
+      "ANES_1948_CONTENTS",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_1978_CONTENTS",
+      [
+        0.9779127038043479
+      ]
+    ],
+    [
+      "ANES_1984_CONTENTS",
+      [
+        0.9773624727668845
+      ]
+    ],
+    [
+      "ANES_1998_IDENTIFICATION AND WEIGHTS",
+      [
+        0.973978611680328
+      ]
+    ],
+    [
+      "ANES_1982_CONTENTS",
+      [
+        0.9727545473194749
+      ]
+    ],
+    [
+      "ANES_1958_CONTENTS",
+      [
+        0.9702570937157722
+      ]
+    ],
+    [
+      "ANES_1956_CONTENTS",
+      [
+        0.9684094880756579
+      ]
+    ],
+    [
+      "ANES_1980_CONTENTS",
+      [
+        0.9672074385976949
+      ]
+    ],
+    [
+      "ANES_1994_VOTING SECTION VOTERS",
+      [
+        0.9551272420488166
+      ]
+    ],
+    [
+      "ANES_2000_NONVOTER PREFERENCES FOR HOUSE, SENATE",
+      [
+        0.9551272420488166
+      ]
+    ],
+    [
+      "ANES_1994_CONSEQUENCES OF GOVERNMENT POLICIES",
+      [
+        0.9551272420488166
+      ]
+    ],
+    [
+      "ANES_1994_CONTENTS",
+      [
+        0.9551272420488166
+      ]
+    ],
+    [
+      "ANES_1966_CONTENTS",
+      [
+        0.9551272420488166
+      ]
+    ],
+    [
+      "ANES_1986_HEAD OF FAMILY'S OCCUPATION SECTION",
+      [
+        0.9551272420488166
+      ]
+    ],
+    [
+      "ANES_2000_POST INTERVIEWER VARIABLES",
+      [
+        0.9551272420488166
+      ]
+    ],
+    [
+      "ANES_1972_CONTENTS",
+      [
+        0.9451079279217199
+      ]
+    ],
+    [
+      "ANES_1952_CONTENTS",
+      [
+        0.9357926324503311
+      ]
+    ],
+    [
+      "ANES_1968_CONTENTS",
+      [
+        0.9299756129143646
+      ]
+    ],
+    [
+      "ANES_1964_CONTENTS",
+      [
+        0.927632829784292
+      ]
+    ],
+    [
+      "ANES_1970_CONTENTS",
+      [
+        0.9248544900221729
+      ]
+    ],
+    [
+      "ANES_1994_1.SAMPLING INFORMATION",
+      [
+        0.8989665632054177
+      ]
+    ],
+    [
+      "ANES_1960_CONTENTS",
+      [
+        0.8966841264204546
+      ]
+    ],
+    [
+      "ANES_1982_SAMPLING INFORMATION",
+      [
+        0.8966400911161732
+      ]
+    ],
+    [
+      "ANES_1964_VOTER VALIDATION STUDY",
+      [
+        0.8941943359375
+      ]
+    ],
+    [
+      "ANES_1962_CONTENTS",
+      [
+        0.8922327963547647
+      ]
+    ],
+    [
+      "ANES_2016_GENERAL SURVEY VARIABLES",
+      [
+        0.7786436140343922
+      ]
+    ],
+    [
+      "ANES_2020_GENERAL NON‐SURVEY VARIABLES",
+      [
+        0.7529296875
+      ]
+    ],
+    [
+      "ANES_1980_PRE-ELECTION SAMPLE INFORMATION",
+      [
+        0.73046875
+      ]
+    ],
+    [
+      "ANES_2020_WEIGHTING VARIABLES",
+      [
+        0.7117623957891279
+      ]
+    ],
+    [
+      "ANES_2000_IDENTIFICATION AND WEIGHTS",
+      [
+        0.7032215088092975
+      ]
+    ],
+    [
+      "ANES_2002_STUDY ID, CASE ID, WEIGHT",
+      [
+        0.7009624985669387
+      ]
+    ],
+    [
+      "ANES_2004_STUDY IDS",
+      [
+        0.698442719113592
+      ]
+    ],
+    [
+      "ANES_1964_MASS MEDIA USAGE",
+      [
+        0.681640625
+      ]
+    ],
+    [
+      "ANES_1980_PRE CONDITIONS OF INTERVIEW",
+      [
+        0.677734375
+      ]
+    ],
+    [
+      "ANES_2012_GENERAL STUDY VARIABLES",
+      [
+        0.6618039693978733
+      ]
+    ],
+    [
+      "ANES_1964_FAMILY EDUCATION",
+      [
+        0.66015625
+      ]
+    ],
+    [
+      "ANES_1956_STUDY PROCEDURE",
+      [
+        0.66015625
+      ]
+    ],
+    [
+      "ANES_2004_STUDY WEIGHTS AND SAMPLING ERROR CODE",
+      [
+        0.6455078125000001
+      ]
+    ],
+    [
+      "ANES_1960_POST ELECTION INTERVIEW",
+      [
+        0.6328125
+      ]
+    ],
+    [
+      "ANES_1962_STUDY PROCEDURE AND SAMPLING",
+      [
+        0.6309537588314442
+      ]
+    ],
+    [
+      "ANES_2016_PRE ADMIN VARIABLES",
+      [
+        0.6213138684024556
+      ]
+    ],
+    [
+      "ANES_1994_1.INTERVIEWER VARIABLES",
+      [
+        0.6190457824578355
+      ]
+    ],
+    [
+      "ANES_1956_MASS MEDIA USAGE",
+      [
+        0.6096318620226193
+      ]
+    ],
+    [
+      "ANES_1964_QUESTIONS FOR FARMERS",
+      [
+        0.6025390625
+      ]
+    ],
+    [
+      "ANES_1966_PERSONAL DATA",
+      [
+        0.6005012972967652
+      ]
+    ],
+    [
+      "ANES_1978_TYPE OF POLITICAL RACE",
+      [
+        0.5927734375
+      ]
+    ],
+    [
+      "ANES_1960_STUDY PROCEDURE AND SAMPLING",
+      [
+        0.5916306664868992
+      ]
+    ],
+    [
+      "ANES_1980_INDIVIDUAL VOTER RECORD VALIDATION",
+      [
+        0.5911832188269073
+      ]
+    ],
+    [
+      "ANES_1958_STUDY PROCEDURE AND SAMPLING",
+      [
+        0.5909324810749639
+      ]
+    ],
+    [
+      "ANES_1966_STUDY PROCEDURE AND SAMPLING",
+      [
+        0.5869800040192926
+      ]
+    ]
+  ],
+  "ANES_1984_POSITIONS ON MINORITY AID|NO AID SCALE.csv": [],
+  "ANES_1968_GOVERNMENT'S ROLE IN SCHOOL INTEGRATION.csv": [],
+  "ANES_1972_PREDICTIONS, CONCERN ABOUT PRESIDENTIAL RACE.csv": [],
+  "ANES_1952_POLITICAL ACTIVITY.csv": [],
+  "ANES_2000_A6-A11 - MEDIA.csv": [],
+  "ANES_1972_LIBERAL|CONSERVATIVE POLITICAL VIEWS SCALE.csv": [],
+  "ANES_1990_LABOR UNION POSITION.csv": [],
+  "ANES_1988_POSITION ON IMPROVING SOC|ECON STATUS OF MINORITIES SCALE.csv": [],
+  "ANES_1956_ELECTION PREDICTIONS BY RESPONDENT.csv": [],
+  "ANES_1994_1.HOUSEHOLD INCOME.csv": [],
+  "ANES_1968_NEIGHBORHOOD SEGREGATION.csv": [],
+  "ANES_1964_THE U.S. AS A WORLD POWER.csv": [],
+  "ANES_1988_R'S FAMILY POSITION AND SOCIAL CLASS.csv": [],
+  "ANES_2000_H9-H12 - NATION  STRENGTH, IMMIGRATION, IMPORTS, ISOLATION.csv": [],
+  "ANES_1978_HOUSE NON-INCUMBENT CANDIDATE COMPONENT.csv": [],
+  "ANES_2000_H5 - APPROVE PRESIDENT HANDLING OF ECONOMY.csv": [],
+  "ANES_1972_*** POST-ELECTION WAVE *** GOVERNMENT ATTENTION TO PEOPLE.csv": [],
+  "ANES_1994_1.POLITICAL RULER LIBERAL TO CONSERVATIVE.csv": [],
+  "ANES_1998_SURVEY SECTION G.csv": [],
+  "ANES_1974_GOVERNMENT ATTENTION TO PEOPLE.csv": [],
+  "ANES_1988_R'S VOTE - 1984.csv": [],
+  "ANES_2000_K13-K14 -WORRY ABOUT WAR.csv": [],
+  "ANES_2000_Q3-Q6 -  TRUST IN GOVERNMENT | MASS SUPPORT.csv": [],
+  "ANES_1972_GOVERNMENT VERSUS PRIVATE HEALTH INSURANCE.csv": [],
+  "ANES_1960_POLITICAL EFFICACY AND CITIZEN DUTY.csv": [],
+  "ANES_1976_EXPECTATIONS, CONCERN ABOUT PRESIDENTIAL RACE.csv": [],
+  "ANES_2000_E1-E4 - HOUSE CANDIDATE LIKES|DISLIKES.csv": [],
+  "ANES_1978_R'S POLITICAL ACTIVITIES.csv": [],
+  "ANES_2000_A3 - LAST PRESIDENTIAL ELECTION.csv": [],
+  "ANES_1980_CIVIL RIGHTS ISSUES.csv": [],
+  "ANES_1972_CONTROL AND DIRECTION OF OWN LIFE.csv": [],
+  "ANES_1956_MASS MEDIA USAGE.csv": [
+    [
+      "ANES_1956_MASS MEDIA USAGE",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_1956_CONTENTS",
+      [
+        0.703125
+      ]
+    ],
+    [
+      "ANES_2000_IDENTIFICATION AND WEIGHTS",
+      [
+        0.701171875
+      ]
+    ],
+    [
+      "ANES_2002_STUDY ID, CASE ID, WEIGHT",
+      [
+        0.701171875
+      ]
+    ],
+    [
+      "ANES_1998_IDENTIFICATION AND WEIGHTS",
+      [
+        0.701171875
+      ]
+    ],
+    [
+      "ANES_2004_STUDY IDS",
+      [
+        0.7001953125
+      ]
+    ],
+    [
+      "ANES_1984_CONTENTS",
+      [
+        0.6982421875
+      ]
+    ],
+    [
+      "ANES_1958_CONTENTS",
+      [
+        0.697265625
+      ]
+    ],
+    [
+      "ANES_1948_CONTENTS",
+      [
+        0.6962890625
+      ]
+    ],
+    [
+      "ANES_1978_CONTENTS",
+      [
+        0.6962890625
+      ]
+    ],
+    [
+      "ANES_1982_CONTENTS",
+      [
+        0.6933593749999999
+      ]
+    ],
+    [
+      "ANES_2012_GENERAL STUDY VARIABLES",
+      [
+        0.6904296875
+      ]
+    ],
+    [
+      "ANES_1980_CONTENTS",
+      [
+        0.6875
+      ]
+    ],
+    [
+      "ANES_2016_GENERAL SURVEY VARIABLES",
+      [
+        0.6806640625
+      ]
+    ],
+    [
+      "ANES_1972_CONTENTS",
+      [
+        0.6767578125
+      ]
+    ],
+    [
+      "ANES_1952_CONTENTS",
+      [
+        0.6650390625
+      ]
+    ],
+    [
+      "ANES_2020_GENERAL NON‐SURVEY VARIABLES",
+      [
+        0.65234375
+      ]
+    ],
+    [
+      "ANES_2016_PRE ADMIN VARIABLES",
+      [
+        0.6416015625
+      ]
+    ],
+    [
+      "ANES_1968_CONTENTS",
+      [
+        0.640625
+      ]
+    ],
+    [
+      "ANES_1970_CONTENTS",
+      [
+        0.6289062500000001
+      ]
+    ],
+    [
+      "ANES_1966_PERSONAL DATA",
+      [
+        0.623046875
+      ]
+    ],
+    [
+      "ANES_1964_CONTENTS",
+      [
+        0.62109375
+      ]
+    ],
+    [
+      "ANES_1980_PRE-ELECTION SAMPLE INFORMATION",
+      [
+        0.6201171875000001
+      ]
+    ],
+    [
+      "ANES_1958_STUDY PROCEDURE AND SAMPLING",
+      [
+        0.6162109375
+      ]
+    ],
+    [
+      "ANES_1966_STUDY PROCEDURE AND SAMPLING",
+      [
+        0.611328125
+      ]
+    ],
+    [
+      "ANES_1994_1.INTERVIEWER VARIABLES",
+      [
+        0.611328125
+      ]
+    ],
+    [
+      "ANES_1956_STUDY PROCEDURE",
+      [
+        0.6083984375000001
+      ]
+    ],
+    [
+      "ANES_1960_STUDY PROCEDURE AND SAMPLING",
+      [
+        0.607421875
+      ]
+    ],
+    [
+      "ANES_1960_CONTENTS",
+      [
+        0.6044921875
+      ]
+    ],
+    [
+      "ANES_1964_MASS MEDIA USAGE",
+      [
+        0.5986328125
+      ]
+    ],
+    [
+      "ANES_1980_INDIVIDUAL VOTER RECORD VALIDATION",
+      [
+        0.59765625
+      ]
+    ],
+    [
+      "ANES_1980_PRE CONDITIONS OF INTERVIEW",
+      [
+        0.5947265625
+      ]
+    ],
+    [
+      "ANES_1982_SAMPLING INFORMATION",
+      [
+        0.5947265625
+      ]
+    ],
+    [
+      "ANES_1968_REPUBLICAN-DEMOCRATIC PARTY DIFFERENCES",
+      [
+        0.5859375
+      ]
+    ],
+    [
+      "ANES_2020_WEIGHTING VARIABLES",
+      [
+        0.5849609375
+      ]
+    ],
+    [
+      "ANES_2004_STUDY WEIGHTS AND SAMPLING ERROR CODE",
+      [
+        0.580078125
+      ]
+    ],
+    [
+      "ANES_1968_MOST IMPORTANT NATIONAL PROBLEMS",
+      [
+        0.580078125
+      ]
+    ],
+    [
+      "ANES_1956_PRE ELECTION PERSONAL DATA",
+      [
+        0.5791015625
+      ]
+    ],
+    [
+      "ANES_1962_CONTENTS",
+      [
+        0.5791015625
+      ]
+    ],
+    [
+      "ANES_1964_FAMILY EDUCATION",
+      [
+        0.578125
+      ]
+    ],
+    [
+      "ANES_1968_LOCAL EDUCATION PROBLEMS, R'S ACTIVITIES",
+      [
+        0.572265625
+      ]
+    ],
+    [
+      "ANES_1978_TYPE OF POLITICAL RACE",
+      [
+        0.5703125
+      ]
+    ],
+    [
+      "ANES_1952_PARTY CONVENTION",
+      [
+        0.568359375
+      ]
+    ],
+    [
+      "ANES_1962_STUDY PROCEDURE AND SAMPLING",
+      [
+        0.5673828125
+      ]
+    ],
+    [
+      "ANES_1964_OCCUPATION",
+      [
+        0.5654296875
+      ]
+    ],
+    [
+      "ANES_1978_INCUMBENT'S PERSONAL INFORMATION",
+      [
+        0.5546875
+      ]
+    ],
+    [
+      "ANES_1994_VOTING SECTION VOTERS",
+      [
+        0.552734375
+      ]
+    ],
+    [
+      "ANES_2000_NONVOTER PREFERENCES FOR HOUSE, SENATE",
+      [
+        0.552734375
+      ]
+    ],
+    [
+      "ANES_1994_CONSEQUENCES OF GOVERNMENT POLICIES",
+      [
+        0.552734375
+      ]
+    ],
+    [
+      "ANES_1994_CONTENTS",
+      [
+        0.552734375
+      ]
+    ]
+  ],
+  "ANES_1982_R'S CLASS IDENTIFICATION.csv": [],
+  "ANES_2000_Q2 -  MORAL TRADITIONALISM.csv": [],
+  "ANES_1984_EVALUATION OF REAGAN'S PERFORMANCE.csv": [],
+  "ANES_1978_HOUSE INCUMBENT CANDIDATE COMPONENT.csv": [],
+  "ANES_1986_POSITION ON RACIAL DISCRIMINATION.csv": [],
+  "ANES_1968_\"FEELING THERMOMETER\" - GROUPS IN SOCIETY.csv": [
+    [
+      "ANES_1968_\"FEELING THERMOMETER\" - GROUPS IN SOCIETY",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_1974_\"FEELING THERMOMETER\" - GROUPS IN SOCIETY",
+      [
+        0.6598871129498063
+      ]
+    ],
+    [
+      "ANES_2012_GENERAL STUDY VARIABLES",
+      [
+        0.6585073575805328
+      ]
+    ],
+    [
+      "ANES_1970_POLITICAL FACTUAL ITEMS",
+      [
+        0.6446607672012458
+      ]
+    ],
+    [
+      "ANES_1986_R'S OCCUPATION SECTION",
+      [
+        0.6440338086066029
+      ]
+    ],
+    [
+      "ANES_1980_POST PERSONAL DATA",
+      [
+        0.6414006905192084
+      ]
+    ],
+    [
+      "ANES_1976_AGE AND MARITAL STATUS",
+      [
+        0.6414006905192084
+      ]
+    ],
+    [
+      "ANES_1964_VOTER VALIDATION STUDY",
+      [
+        0.6409990412865595
+      ]
+    ],
+    [
+      "ANES_1964_QUESTIONS FOR FARMERS",
+      [
+        0.62890625
+      ]
+    ],
+    [
+      "ANES_2016_PRE ADMIN VARIABLES",
+      [
+        0.6241621540244168
+      ]
+    ],
+    [
+      "ANES_1978_AGE AND MARITAL STATUS",
+      [
+        0.6235734333716041
+      ]
+    ],
+    [
+      "ANES_1956_PRE ELECTION PERSONAL DATA",
+      [
+        0.6225174617723584
+      ]
+    ],
+    [
+      "ANES_1958_BUILT MEASURES",
+      [
+        0.6221805407614467
+      ]
+    ],
+    [
+      "ANES_1960_POLITICAL PARTICIPATION AND INFORMATION",
+      [
+        0.6162472346544052
+      ]
+    ],
+    [
+      "ANES_1964_FEELINGS TOWARD GROUPS-FEELING THERMOMETER",
+      [
+        0.61615463710367
+      ]
+    ],
+    [
+      "ANES_1970_\"FEELING THERMOMETER\"- GROUPS IN SOCIETY",
+      [
+        0.6146372620585877
+      ]
+    ],
+    [
+      "ANES_1960_STUDY PROCEDURE AND SAMPLING",
+      [
+        0.6137598684831118
+      ]
+    ],
+    [
+      "ANES_1968_\"FEELING THERMOMETER\" - POSSIBLE CANDIDATES",
+      [
+        0.6135283032985082
+      ]
+    ],
+    [
+      "ANES_1964_OCCUPATION",
+      [
+        0.6116307575229668
+      ]
+    ],
+    [
+      "ANES_1980_INDIVIDUAL VOTER RECORD VALIDATION",
+      [
+        0.6110300130837728
+      ]
+    ],
+    [
+      "ANES_2020_WEIGHTING VARIABLES",
+      [
+        0.6085664404271446
+      ]
+    ],
+    [
+      "ANES_2016_GENERAL SURVEY VARIABLES",
+      [
+        0.6074914010514753
+      ]
+    ],
+    [
+      "ANES_1966_STUDY PROCEDURE AND SAMPLING",
+      [
+        0.5864035607296415
+      ]
+    ],
+    [
+      "ANES_1978_INCUMBENT INFORMATION",
+      [
+        0.5853652044702847
+      ]
+    ],
+    [
+      "ANES_1976_LOCUS OF RESPONSIBILITY FOR STATUS OF WOMEN AND BLACKS",
+      [
+        0.5850276123756071
+      ]
+    ],
+    [
+      "ANES_1964_AWARENESS OF, AND FEELINGS TOWARD, VARIOUS",
+      [
+        0.5785736233340599
+      ]
+    ],
+    [
+      "ANES_1970_\"FEELING THERMOMETER\"- POSSIBLE CANDIDATES IN '72",
+      [
+        0.5776233580707967
+      ]
+    ],
+    [
+      "ANES_1960_KNOWLEDGE OF THE CANDIDATES",
+      [
+        0.5769119489092392
+      ]
+    ],
+    [
+      "ANES_1976_\"FEELING THERMOMETER\" - POLITICAL FIGURES",
+      [
+        0.5751710387405834
+      ]
+    ],
+    [
+      "ANES_1960_UNION MEMBERSHIP",
+      [
+        0.5708368775521524
+      ]
+    ],
+    [
+      "ANES_1982_SAMPLING INFORMATION",
+      [
+        0.568802176256097
+      ]
+    ],
+    [
+      "ANES_1972_\"FEELING THERMOMETER\" - POTENTIAL CANDIDATES",
+      [
+        0.5681536948465831
+      ]
+    ],
+    [
+      "ANES_1958_STUDY PROCEDURE AND SAMPLING",
+      [
+        0.563035992517259
+      ]
+    ],
+    [
+      "ANES_1994_1.SAMPLING INFORMATION",
+      [
+        0.5628014079610447
+      ]
+    ],
+    [
+      "ANES_2000_POST ADMINISTRATIVE AND FIELD VARIABLES",
+      [
+        0.5627812882312183
+      ]
+    ],
+    [
+      "ANES_1974_\"FEELING THERMOMETER\" - POLITICAL|MEDIA FIGURES",
+      [
+        0.5580980087159222
+      ]
+    ],
+    [
+      "ANES_2000_IDENTIFICATION AND WEIGHTS",
+      [
+        0.5576897522336237
+      ]
+    ],
+    [
+      "ANES_2004_STUDY WEIGHTS AND SAMPLING ERROR CODE",
+      [
+        0.5563849649971897
+      ]
+    ],
+    [
+      "ANES_1966_PERSONAL DATA",
+      [
+        0.5544508927168609
+      ]
+    ],
+    [
+      "ANES_1978_INCUMBENT'S PERSONAL INFORMATION",
+      [
+        0.5543223471143555
+      ]
+    ],
+    [
+      "ANES_2002_STUDY ID, CASE ID, WEIGHT",
+      [
+        0.554099576904134
+      ]
+    ],
+    [
+      "ANES_1952_PARTY CONVENTION",
+      [
+        0.5519357869761362
+      ]
+    ],
+    [
+      "ANES_1964_FAMILY EDUCATION",
+      [
+        0.5447616987614337
+      ]
+    ],
+    [
+      "ANES_1952_PRE ELECTION VOTING BEHAVIOR",
+      [
+        0.5445892762079519
+      ]
+    ],
+    [
+      "ANES_1980_PRE-ELECTION SAMPLE INFORMATION",
+      [
+        0.5439059809008484
+      ]
+    ],
+    [
+      "ANES_1994_1.INTERVIEWER VARIABLES",
+      [
+        0.5414500446507945
+      ]
+    ],
+    [
+      "ANES_1960_POST ELECTION INTERVIEW",
+      [
+        0.5411689098779244
+      ]
+    ],
+    [
+      "ANES_2020_SAMPLE VARIABLES",
+      [
+        0.5401074760253961
+      ]
+    ],
+    [
+      "ANES_1968_R'S FATHER'S OCCUPATION",
+      [
+        0.5385144974659751
+      ]
+    ],
+    [
+      "ANES_1978_CONTENTS",
+      [
+        0.5359226643272222
+      ]
+    ]
+  ],
+  "ANES_1990_R'S CONTACT WITH HOUSE CHALLENGER.csv": [],
+  "ANES_1986_HOUSEHOLD COMPOSITION.csv": []
+}

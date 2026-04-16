@@ -1,0 +1,47 @@
+(starmie_env) pratikpo@pop-os:~/Documents/odin/starmie$ python test_hnsw_search.py \
+--encoder cl \
+--benchmark santos \
+--run_id 0 \
+--K 40 \
+--scal 1.0
+From 1386 total data-lake tables, scale down to 1386 tables
+--- Indexing Time: 0.07622003555297852 seconds ---
+0.7
+saved successfully to starmie-0.7-hnsw.json
+Average number of Results:  1.2695652173913043
+Average QUERY TIME: 0.0030091182045314624 seconds 
+10th percentile:  0.0002965450286865235  90th percentile:  0.009115648269653321
+--- Total Query Time: 0.3468940258026123 seconds ---
+10 IDEAL RECALL: 0.871586772170915
+--------------------------
+Precision at k =  1 = 0.9391304347826087
+Recall at k =  1 = 0.07720724234476523
+--------------------------
+Precision at k =  2 = 0.5130434782608696
+Recall at k =  2 = 0.08674921358750373
+--------------------------
+Precision at k =  3 = 0.34202898550724636
+Recall at k =  3 = 0.08674921358750373
+--------------------------
+Precision at k =  4 = 0.2588495575221239
+Recall at k =  4 = 0.08674921358750373
+--------------------------
+Precision at k =  5 = 0.20727272727272728
+Recall at k =  5 = 0.08674921358750373
+--------------------------
+Precision at k =  6 = 0.1761904761904762
+Recall at k =  6 = 0.08674921358750373
+--------------------------
+Precision at k =  7 = 0.15142857142857144
+Recall at k =  7 = 0.08674921358750373
+--------------------------
+Precision at k =  8 = 0.13031914893617022
+Recall at k =  8 = 0.08674921358750373
+--------------------------
+Precision at k =  9 = 0.11481481481481481
+Recall at k =  9 = 0.08674921358750373
+--------------------------
+Precision at k =  10 = 0.10348837209302325
+Recall at k =  10 = 0.08674921358750373
+--------------------------
+The mean average precision is: 0.2936566566808631

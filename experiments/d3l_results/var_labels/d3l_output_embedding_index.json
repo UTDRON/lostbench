@@ -1,0 +1,8545 @@
+{
+  "ANES_1972_POLITICAL FACTUAL ITEMS.csv": [],
+  "ANES_1990_IMPORTANCE OF STRONG MILITARY|CONCERNS ABOUT WAR.csv": [],
+  "ANES_1966_PUBLIC INTEREST.csv": [],
+  "ANES_1988_GOVERNMENT AND POLITICS - R AGREE|DISAGREE.csv": [],
+  "ANES_1966_CONGRESSIONAL, SENATORIAL AND GUBERNATORIAL.csv": [
+    [
+      "ANES_1966_CONGRESSIONAL, SENATORIAL AND GUBERNATORIAL",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Hispanic Rs – Ethnic Assimilation and Preservation",
+      [
+        0.885256984585368
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CASI Module – Influence of Racial Groups",
+      [
+        0.8841142911906363
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Mobilization",
+      [
+        0.8821883546157022
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Campaign Media Exposure",
+      [
+        0.8813606930053277
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Modern Sexism",
+      [
+        0.8811714682043298
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Efficacy – (splice) Standard | Revised",
+      [
+        0.8811690586918912
+      ]
+    ],
+    [
+      "ANES_2000_B1-B2 - CANDIDATE RECALL",
+      [
+        0.878530023837381
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Authoritarianism (children’s traits)",
+      [
+        0.8782392323862707
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – Level of Public Expenditures",
+      [
+        0.8777661509900098
+      ]
+    ],
+    [
+      "ANES_1972_PERSONAL DATA",
+      [
+        0.877383785925138
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Liberal-Conservative 7pt Scale Placement",
+      [
+        0.8764401931124723
+      ]
+    ],
+    [
+      "ANES_2000_A1-A4 - CURRENT CAMPAIGN AND POLITICS",
+      [
+        0.8761046097309141
+      ]
+    ],
+    [
+      "ANES_1994_1.HOUSEHOLD INCOME",
+      [
+        0.8758565014079831
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Power and Role of Federal Government",
+      [
+        0.8756221070087342
+      ]
+    ],
+    [
+      "ANES_2000_F6-F9 - MOST IMPORTANT PROBLEM(S)",
+      [
+        0.8749880347769825
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Affirmative Action in Hiring",
+      [
+        0.8745910725490517
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST DHS Political Engagement",
+      [
+        0.8740130647533617
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Abortion Approval – Scenarios",
+      [
+        0.8735950122759255
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST U.S. Immigration",
+      [
+        0.8733327335623312
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Is Increase in Govt Wiretapping Too Much",
+      [
+        0.872971059109273
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Outsourcing of jobs",
+      [
+        0.8726505334739292
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST R Conditions of Economic Peril",
+      [
+        0.8724472876082818
+      ]
+    ],
+    [
+      "ANES_2020_GENERAL NON‐SURVEY VARIABLES",
+      [
+        0.8722775697659543
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CASI Module – Importance of Racial and Religious Identity",
+      [
+        0.8720530144222138
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Government See to Fair Jobs for Blacks",
+      [
+        0.871498370692981
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Cognitive Style",
+      [
+        0.8706511423188231
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Women’s Role",
+      [
+        0.8706383012923793
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Tax on Millionaires",
+      [
+        0.8705018569593154
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST DHS Terrorism Threat",
+      [
+        0.8704518986618531
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Social Group Links",
+      [
+        0.869988043387854
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Mormon Religion",
+      [
+        0.8697711856080951
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST U.S. Woman President",
+      [
+        0.8696153396908384
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Reducing Federal Budget Deficit",
+      [
+        0.8696067888564988
+      ]
+    ],
+    [
+      "ANES_2000_Y5-Y17 - CHARACTERISTICS OF WORK COLLEAGUES",
+      [
+        0.8693576621916365
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CASI Module – Group Discrimination",
+      [
+        0.8692665190138498
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST R Patriotism",
+      [
+        0.8690731516319729
+      ]
+    ],
+    [
+      "ANES_2000_E5-E7 - POLITICAL KNOWLEDGE (HOUSE AND SENATE)",
+      [
+        0.8690346463752572
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Abortion (standard placements)",
+      [
+        0.8682335986116835
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CASI Module – Increased Economic Inequality",
+      [
+        0.8682301438911548
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CASI Module – R Income",
+      [
+        0.8680603050203809
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – Mobilization",
+      [
+        0.8680490884128206
+      ]
+    ],
+    [
+      "ANES_2012_2012 FTF DWELLING UNIT DESCRIPTION",
+      [
+        0.8679052336749988
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Non-Mainstream Beliefs",
+      [
+        0.8677513997445927
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – State of the Economy",
+      [
+        0.8676149538477262
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Electoral Integrity",
+      [
+        0.8673985647521288
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – Closeness to Political Parties",
+      [
+        0.8666223257336304
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Party Differences",
+      [
+        0.866604246178679
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CASI Module – TIPI",
+      [
+        0.8660540028521312
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Most Important Problem in the U.S.",
+      [
+        0.8658819528010612
+      ]
+    ]
+  ],
+  "ANES_1990_R'S INCOME AND SOCIAL CLASS.csv": [],
+  "ANES_1976_TRUST IN PEOPLE.csv": [],
+  "ANES_1986_CONDITIONS OF INTERVIEW.csv": [],
+  "ANES_2012_2012 FTF PRE-ELECTION INTERVIEWER DESCRIPTION.csv": [
+    [
+      "ANES_2012_2012 FTF PRE-ELECTION INTERVIEWER DESCRIPTION",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_2012_2012 FTF POST-ELECTION INTERVIEWER DESCRIPTION",
+      [
+        0.9920203403152087
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Demographics – Residence Background",
+      [
+        0.9492028978712401
+      ]
+    ],
+    [
+      "ANES_2012_2012 SAMPLE VARS",
+      [
+        0.9037310371327517
+      ]
+    ],
+    [
+      "ANES_2012_2012 FTF PRE-ELECTION IWR OBSERVATIONS",
+      [
+        0.9026280135829431
+      ]
+    ],
+    [
+      "ANES_2012_2012 FTF DWELLING UNIT DESCRIPTION",
+      [
+        0.8962197750959113
+      ]
+    ],
+    [
+      "ANES_2012_2012 FTF POST-ELECTION IWR OBSERVATIONS",
+      [
+        0.893755920989475
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Authoritarianism (children’s traits)",
+      [
+        0.8162239137372563
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE CASI Module – Online Newspapers Read to Follow Pres Campaign",
+      [
+        0.8087791310133592
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE CASI Module – Print Newspapers Read to Follow Pres Campaign",
+      [
+        0.8087791310133592
+      ]
+    ],
+    [
+      "ANES_2012_2012 FTF RECONTACT MODULE",
+      [
+        0.8074535183333188
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Respondent Religion",
+      [
+        0.8037028561358068
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Children and School Enrollment",
+      [
+        0.7989930225673357
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Environmental Policies",
+      [
+        0.7934672691800391
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Political Knowledge – Party with House Majority",
+      [
+        0.7931571703816669
+      ]
+    ],
+    [
+      "ANES_2020_INTERVIEWER DESCRIPTION VARIABLES",
+      [
+        0.7916110442611003
+      ]
+    ],
+    [
+      "ANES_2016_PRE INTERVIEWER OBSERVATIONS",
+      [
+        0.7915952846428367
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Demographics – Union Membership",
+      [
+        0.7912192756775133
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Demographics – Hispanic Ethnicity",
+      [
+        0.7912192756775133
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Neo-nullification (state vs Federal law)",
+      [
+        0.7909651488295296
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Electoral Integrity",
+      [
+        0.7896760644237798
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE CASI Module – Websites Used to Follow Pres Campaign",
+      [
+        0.7896474394354192
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE CASI Module – Radio Programs Heard to Follow Pres Campaign",
+      [
+        0.7896474394354192
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Non-Mainstream Beliefs",
+      [
+        0.7883196156827703
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Is Increase in Govt Wiretapping Too Much",
+      [
+        0.7874651910672786
+      ]
+    ],
+    [
+      "ANES_2016_POST INTERVIEWER OBSERVATIONS",
+      [
+        0.7865829123905681
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CASI Module – Group Discrimination",
+      [
+        0.7864855011531385
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Health Care and Health",
+      [
+        0.7862621419112177
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CASI Module – Influence of Racial Groups",
+      [
+        0.7849636317939169
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – Mobilization",
+      [
+        0.7837446770286097
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Power and Role of Federal Government",
+      [
+        0.7834654118423845
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – Political Knowledge",
+      [
+        0.7829334901049286
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Global Warming",
+      [
+        0.7802332015238816
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE CASI Module – Type of Media Sources Used to Follow Pres Campaign",
+      [
+        0.7798761904290024
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Demographics – Education",
+      [
+        0.7798699974649991
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Winner of upcoming Presidential race",
+      [
+        0.7785847897446422
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST R Patriotism",
+      [
+        0.7783816643853738
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST DHS Political Engagement",
+      [
+        0.7782597272717819
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – Level of Public Expenditures",
+      [
+        0.7775609916900327
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Social Group Links",
+      [
+        0.7770673439006959
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Blame for Poor Economic Conditions",
+      [
+        0.7768035286218773
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Mormon Religion",
+      [
+        0.776228542853881
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CASI Module – Importance of Racial and Religious Identity",
+      [
+        0.776149751664524
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – State of the Economy",
+      [
+        0.7761411127563587
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Presidential Candidate Traits",
+      [
+        0.7760058616497965
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Most Important Problem in the U.S.",
+      [
+        0.7759994435383114
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Hispanic Rs – Ethnic Assimilation and Preservation",
+      [
+        0.7757140875350247
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Party Differences",
+      [
+        0.7755835029041993
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Campaign Media Exposure",
+      [
+        0.775412066044222
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Social Security Investments",
+      [
+        0.775012457744766
+      ]
+    ]
+  ],
+  "ANES_1978_CYNICISM AND TRUST IN GOVERNMENT.csv": [],
+  "ANES_2000_A1-A4 - CURRENT CAMPAIGN AND POLITICS.csv": [
+    [
+      "ANES_2000_A1-A4 - CURRENT CAMPAIGN AND POLITICS",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_2000_B1-B12 - PARTICIPATION, CONTRIBUTIONS",
+      [
+        0.8976830340536318
+      ]
+    ],
+    [
+      "ANES_2000_B1-B2 - CANDIDATE RECALL",
+      [
+        0.8957842644180413
+      ]
+    ],
+    [
+      "ANES_2000_NONVOTER PREFERENCES FOR HOUSE, SENATE",
+      [
+        0.885442406572914
+      ]
+    ],
+    [
+      "ANES_2000_VOTE FOR CONGRESS",
+      [
+        0.879537946339185
+      ]
+    ],
+    [
+      "ANES_2000_Z1-Z24 - POLITICAL DISCUSSION IN SOCIAL NETWORK",
+      [
+        0.874313379013991
+      ]
+    ],
+    [
+      "ANES_2000_VOTE FOR SENATE",
+      [
+        0.8733310499978955
+      ]
+    ],
+    [
+      "ANES_2000_Z25-Z29 - R'S NEIGHBORHOOD",
+      [
+        0.8684048951629691
+      ]
+    ],
+    [
+      "ANES_2000_Y5-Y17 - CHARACTERISTICS OF WORK COLLEAGUES",
+      [
+        0.8638638434961515
+      ]
+    ],
+    [
+      "ANES_2000_E5-E7 - POLITICAL KNOWLEDGE (HOUSE AND SENATE)",
+      [
+        0.863134490925718
+      ]
+    ],
+    [
+      "ANES_2000_L8 - ORGANIZATIONAL INVOLVEMENT AND INFLUENCE",
+      [
+        0.8517376475187285
+      ]
+    ],
+    [
+      "ANES_2000_L10 -  PROTEST",
+      [
+        0.8492272328634263
+      ]
+    ],
+    [
+      "ANES_2000_T1-T4 - CAMPAIGN MEDIA EXPOSURE",
+      [
+        0.8482532207044128
+      ]
+    ],
+    [
+      "ANES_2012_2012 CANDIDATES AND RACES (House, Senate, Gubernatorial)",
+      [
+        0.8462602926109996
+      ]
+    ],
+    [
+      "ANES_2000_C5-C8- VOTE FOR PRESIDENT",
+      [
+        0.8460787799840128
+      ]
+    ],
+    [
+      "ANES_2000_POST ADMINISTRATIVE AND FIELD VARIABLES",
+      [
+        0.8460238189212458
+      ]
+    ],
+    [
+      "ANES_2000_J3-J10 -  MEDIA|INTERNET EXPOSURE AND INFORMATION",
+      [
+        0.8441013338274485
+      ]
+    ],
+    [
+      "ANES_2000_POST COVERSHEET VARIABLES",
+      [
+        0.8432486512004573
+      ]
+    ],
+    [
+      "ANES_2000_H1-H3 - R'S FINANCIAL SITUATION",
+      [
+        0.8417811631078137
+      ]
+    ],
+    [
+      "ANES_2000_V5 - TRAITS - FORMER PRESIDENT BUSH",
+      [
+        0.8407460004418208
+      ]
+    ],
+    [
+      "ANES_2000_K3-K4 -  KNOWLEDGE ABOUT PRESIDENTIAL  CANDIDATES",
+      [
+        0.8401334193689357
+      ]
+    ],
+    [
+      "ANES_2000_K5-K6 -  KNOWLEDGE ABOUT VICE-PRESIDENTIAL  CANDIDATES",
+      [
+        0.8401334193689357
+      ]
+    ],
+    [
+      "ANES_2000_E1-E3 - R FINANCIAL SITUATION",
+      [
+        0.8397021168500386
+      ]
+    ],
+    [
+      "ANES_2000_P3 - TURNOUT|VOTE INTENT",
+      [
+        0.839500066324321
+      ]
+    ],
+    [
+      "ANES_2000_K2 - OFFICE RECOGNITION OF POLITICAL FIGURES",
+      [
+        0.8390993874810461
+      ]
+    ],
+    [
+      "ANES_2000_S1-S11 - CLINTON LEGACY",
+      [
+        0.8388374024103687
+      ]
+    ],
+    [
+      "ANES_2016_PRE INTERVIEWER OBSERVATIONS",
+      [
+        0.8383556571766453
+      ]
+    ],
+    [
+      "ANES_2000_S15 - CLINTON TRAITS",
+      [
+        0.8365050958490965
+      ]
+    ],
+    [
+      "ANES_2016_CANDIDATES AND RACES",
+      [
+        0.8363312169489869
+      ]
+    ],
+    [
+      "ANES_2000_N1 -  POWER OF THE FEDERAL GOVERNMENT",
+      [
+        0.8362466898151976
+      ]
+    ],
+    [
+      "ANES_2000_G1-G10 - LIBERAL-CONSERVATIVE PLACEMENT SELF, CLINTON, GORE, BUCHANAN AND PARTIES",
+      [
+        0.834760481569171
+      ]
+    ],
+    [
+      "ANES_2000_K1 - PARTY ID",
+      [
+        0.8338510602995147
+      ]
+    ],
+    [
+      "ANES_2000_P1 - WOMEN'S ROLE",
+      [
+        0.8335074848330914
+      ]
+    ],
+    [
+      "ANES_2000_A6-A11 - MEDIA",
+      [
+        0.833444901572342
+      ]
+    ],
+    [
+      "ANES_2000_K12 - WAYS TO REDUCE CRIME",
+      [
+        0.8331992856943296
+      ]
+    ],
+    [
+      "ANES_2000_P6-P7 - FAIR AND PREFERENTIAL TREATMENT FOR BLACKS",
+      [
+        0.8330455786361839
+      ]
+    ],
+    [
+      "ANES_2000_V1-V4 - BUSH LEGACY",
+      [
+        0.8329024921377572
+      ]
+    ],
+    [
+      "ANES_2000_M4 - PROTECT ENVIRONMENT",
+      [
+        0.8320360053761083
+      ]
+    ],
+    [
+      "ANES_2000_P2 - ENVIRONMENTAL REGULATION",
+      [
+        0.8320323636899719
+      ]
+    ],
+    [
+      "ANES_2000_G11 - SERVICES|SPENDING TRADEOFF",
+      [
+        0.8311929693344732
+      ]
+    ],
+    [
+      "ANES_2000_F1-F4 - MEMBER OF CONGRESS",
+      [
+        0.8308959080393202
+      ]
+    ],
+    [
+      "ANES_2000_Q1-Q11 - CLINTON LEGACY",
+      [
+        0.8308004103996229
+      ]
+    ],
+    [
+      "ANES_2000_Q3-Q6 -  TRUST IN GOVERNMENT | MASS SUPPORT",
+      [
+        0.830793607895654
+      ]
+    ],
+    [
+      "ANES_2000_L6 - AFFIRMATIVE ACTION",
+      [
+        0.8301814454801386
+      ]
+    ],
+    [
+      "ANES_2000_F6-F9 - MOST IMPORTANT PROBLEM(S)",
+      [
+        0.8291903166097345
+      ]
+    ],
+    [
+      "ANES_2000_E1-E4 - HOUSE CANDIDATE LIKES|DISLIKES",
+      [
+        0.8289004178963898
+      ]
+    ],
+    [
+      "ANES_2000_Q14 - CLINTON AFFECTS",
+      [
+        0.8287220991170411
+      ]
+    ],
+    [
+      "ANES_2000_L4 - GUARANTEED JOB|STANDARD OF LIVING",
+      [
+        0.8285242648377
+      ]
+    ],
+    [
+      "ANES_2016_POST INTERVIEWER OBSERVATIONS",
+      [
+        0.8278716760516672
+      ]
+    ],
+    [
+      "ANES_2000_Q7-Q8 - GOVERNMENT RESPONSIVENESS",
+      [
+        0.8278659272983373
+      ]
+    ]
+  ],
+  "ANES_1998_IDENTIFICATION AND WEIGHTS.csv": [],
+  "ANES_1976_ABORTION AND SEX DISCRIMINATION.csv": [],
+  "ANES_2000_K2 - OFFICE RECOGNITION OF POLITICAL FIGURES.csv": [
+    [
+      "ANES_2000_K2 - OFFICE RECOGNITION OF POLITICAL FIGURES",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_2000_Z1-Z24 - POLITICAL DISCUSSION IN SOCIAL NETWORK",
+      [
+        0.8978356669498371
+      ]
+    ],
+    [
+      "ANES_2000_H1-H3 - R'S FINANCIAL SITUATION",
+      [
+        0.8923573989566682
+      ]
+    ],
+    [
+      "ANES_2000_Y5-Y17 - CHARACTERISTICS OF WORK COLLEAGUES",
+      [
+        0.8911516487885284
+      ]
+    ],
+    [
+      "ANES_2000_A1-A4 - CURRENT CAMPAIGN AND POLITICS",
+      [
+        0.8864453548869242
+      ]
+    ],
+    [
+      "ANES_2000_Z25-Z29 - R'S NEIGHBORHOOD",
+      [
+        0.8857323003166876
+      ]
+    ],
+    [
+      "ANES_2000_V5 - TRAITS - FORMER PRESIDENT BUSH",
+      [
+        0.8847393787559406
+      ]
+    ],
+    [
+      "ANES_2000_S15 - CLINTON TRAITS",
+      [
+        0.8825552689524693
+      ]
+    ],
+    [
+      "ANES_2000_Q1-Q11 - CLINTON LEGACY",
+      [
+        0.8820838631908253
+      ]
+    ],
+    [
+      "ANES_2000_S1-S11 - CLINTON LEGACY",
+      [
+        0.8811894204673008
+      ]
+    ],
+    [
+      "ANES_2000_NONVOTER PREFERENCES FOR HOUSE, SENATE",
+      [
+        0.8810220465369822
+      ]
+    ],
+    [
+      "ANES_2000_L10 -  PROTEST",
+      [
+        0.8802401813563865
+      ]
+    ],
+    [
+      "ANES_2000_Q14 - CLINTON AFFECTS",
+      [
+        0.8798180429620136
+      ]
+    ],
+    [
+      "ANES_2000_J3-J10 -  MEDIA|INTERNET EXPOSURE AND INFORMATION",
+      [
+        0.8796056274910805
+      ]
+    ],
+    [
+      "ANES_2000_E1-E3 - R FINANCIAL SITUATION",
+      [
+        0.8782040682816912
+      ]
+    ],
+    [
+      "ANES_2000_K8-K10 - TRUST IN PEOPLE",
+      [
+        0.8766444772953617
+      ]
+    ],
+    [
+      "ANES_2000_P2 - ENVIRONMENTAL REGULATION",
+      [
+        0.874603046810467
+      ]
+    ],
+    [
+      "ANES_2000_K13-K14 -WORRY ABOUT WAR",
+      [
+        0.8745115847049195
+      ]
+    ],
+    [
+      "ANES_2000_S14 - CLINTON AFFECTS",
+      [
+        0.8742953644211379
+      ]
+    ],
+    [
+      "ANES_2000_Q3-Q6 -  TRUST IN GOVERNMENT | MASS SUPPORT",
+      [
+        0.8738587684859065
+      ]
+    ],
+    [
+      "ANES_2000_L6 - AFFIRMATIVE ACTION",
+      [
+        0.8709105220949784
+      ]
+    ],
+    [
+      "ANES_2000_T1-T4 - CAMPAIGN MEDIA EXPOSURE",
+      [
+        0.8706989062498512
+      ]
+    ],
+    [
+      "ANES_2000_B1-B12 - PARTICIPATION, CONTRIBUTIONS",
+      [
+        0.8704397411074822
+      ]
+    ],
+    [
+      "ANES_2000_Q15 - CLINTON TRAITS",
+      [
+        0.8699949674678239
+      ]
+    ],
+    [
+      "ANES_2000_VOTE FOR CONGRESS",
+      [
+        0.8695870455943254
+      ]
+    ],
+    [
+      "ANES_2000_V1-V4 - BUSH LEGACY",
+      [
+        0.8690774436715979
+      ]
+    ],
+    [
+      "ANES_2000_A6-A11 - MEDIA",
+      [
+        0.8690619916606709
+      ]
+    ],
+    [
+      "ANES_2000_L8 - ORGANIZATIONAL INVOLVEMENT AND INFLUENCE",
+      [
+        0.8683746874605556
+      ]
+    ],
+    [
+      "ANES_2000_VOTE FOR SENATE",
+      [
+        0.8680770549390922
+      ]
+    ],
+    [
+      "ANES_2000_P6-P7 - FAIR AND PREFERENTIAL TREATMENT FOR BLACKS",
+      [
+        0.8680075368730561
+      ]
+    ],
+    [
+      "ANES_2000_K15-K16 - CAMPAIGN FINANCE",
+      [
+        0.8672491669722044
+      ]
+    ],
+    [
+      "ANES_2000_J2 - GOVERNMENT ROLE AND SELF-RELIANCE",
+      [
+        0.8666582457889773
+      ]
+    ],
+    [
+      "ANES_2000_E1-E4 - HOUSE CANDIDATE LIKES|DISLIKES",
+      [
+        0.8655617509499814
+      ]
+    ],
+    [
+      "ANES_2000_C5-C8- VOTE FOR PRESIDENT",
+      [
+        0.8639881029270894
+      ]
+    ],
+    [
+      "ANES_2000_Q7-Q8 - GOVERNMENT RESPONSIVENESS",
+      [
+        0.863881755276696
+      ]
+    ],
+    [
+      "ANES_2000_E5-E7 - POLITICAL KNOWLEDGE (HOUSE AND SENATE)",
+      [
+        0.8632163773834293
+      ]
+    ],
+    [
+      "ANES_2000_H1-H4 - NATIONAL ECONOMY",
+      [
+        0.8619967997474325
+      ]
+    ],
+    [
+      "ANES_2000_K1- GROUP INFLUENCE TOO MUCH, TOO LITTLE, RIGHT AMT",
+      [
+        0.8613567686009265
+      ]
+    ],
+    [
+      "ANES_2000_R5- QUALITIES TO ENCOURAGE IN CHILDREN",
+      [
+        0.860626843816541
+      ]
+    ],
+    [
+      "ANES_2000_K11 - DISCRIMINATION AGAINST HOMOSEXUALS",
+      [
+        0.8603558833890717
+      ]
+    ],
+    [
+      "ANES_2000_L4 - GUARANTEED JOB|STANDARD OF LIVING",
+      [
+        0.859810278721269
+      ]
+    ],
+    [
+      "ANES_2000_G11 - SERVICES|SPENDING TRADEOFF",
+      [
+        0.8586910829481365
+      ]
+    ],
+    [
+      "ANES_2000_K12 - WAYS TO REDUCE CRIME",
+      [
+        0.8581937942430926
+      ]
+    ],
+    [
+      "ANES_2000_K3-K4 -  KNOWLEDGE ABOUT PRESIDENTIAL  CANDIDATES",
+      [
+        0.8581313954662149
+      ]
+    ],
+    [
+      "ANES_2000_K5-K6 -  KNOWLEDGE ABOUT VICE-PRESIDENTIAL  CANDIDATES",
+      [
+        0.8581313954662149
+      ]
+    ],
+    [
+      "ANES_2000_N1 -  POWER OF THE FEDERAL GOVERNMENT",
+      [
+        0.8580968023071615
+      ]
+    ],
+    [
+      "ANES_2000_P1 - WOMEN'S ROLE",
+      [
+        0.8577591152342622
+      ]
+    ],
+    [
+      "ANES_2000_P3 - TURNOUT|VOTE INTENT",
+      [
+        0.8575196297802463
+      ]
+    ],
+    [
+      "ANES_2000_M4 - PROTECT ENVIRONMENT",
+      [
+        0.8575071864903594
+      ]
+    ],
+    [
+      "ANES_2000_N3 - SCHOOL INTEGRATION",
+      [
+        0.8572502050928816
+      ]
+    ]
+  ],
+  "ANES_1966_SUPREME COURT QUESTIONS.csv": [
+    [
+      "ANES_1966_SUPREME COURT QUESTIONS",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Hispanic Rs – Ethnic Assimilation and Preservation",
+      [
+        0.8720703125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – Level of Public Expenditures",
+      [
+        0.8681640625
+      ]
+    ],
+    [
+      "ANES_2020_GENERAL NON‐SURVEY VARIABLES",
+      [
+        0.8671875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Power and Role of Federal Government",
+      [
+        0.8662109375
+      ]
+    ],
+    [
+      "ANES_1972_EDUCATION SECTION R, FAMILY HEAD, SPOUSE",
+      [
+        0.865234375
+      ]
+    ],
+    [
+      "ANES_1994_FEELING THERMOMETER PROBES",
+      [
+        0.865234375
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Affirmative Action in Hiring",
+      [
+        0.8642578125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Authoritarianism (children’s traits)",
+      [
+        0.8642578125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CASI Module – Influence of Racial Groups",
+      [
+        0.86328125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST U.S. Immigration",
+      [
+        0.86328125
+      ]
+    ],
+    [
+      "ANES_2002_INTERVIEWER EVALUATION - PRE INTERVIEW",
+      [
+        0.8623046875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Abortion (standard placements)",
+      [
+        0.861328125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Government See to Fair Jobs for Blacks",
+      [
+        0.8603515625
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Is Increase in Govt Wiretapping Too Much",
+      [
+        0.8603515625
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Modern Sexism",
+      [
+        0.8603515625
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Efficacy – (splice) Standard | Revised",
+      [
+        0.8603515625
+      ]
+    ],
+    [
+      "ANES_2016_PRE INTERVIEWER OBSERVATIONS",
+      [
+        0.8583984375
+      ]
+    ],
+    [
+      "ANES_2016_POST INTERVIEWER OBSERVATIONS",
+      [
+        0.857421875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST R Patriotism",
+      [
+        0.857421875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST DHS Political Engagement",
+      [
+        0.857421875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST R Conditions of Economic Peril",
+      [
+        0.857421875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – State of the Economy",
+      [
+        0.857421875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Cognitive Style",
+      [
+        0.857421875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Mobilization",
+      [
+        0.8564453125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Effects of Health Care Law",
+      [
+        0.8564453125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Campaign Media Exposure",
+      [
+        0.85546875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Electoral Integrity",
+      [
+        0.85546875
+      ]
+    ],
+    [
+      "ANES_1966_CONGRESSIONAL, SENATORIAL AND GUBERNATORIAL",
+      [
+        0.85546875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Women’s Role",
+      [
+        0.85546875
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Demographics – Self-Identification of R Ethnicity-Nationality",
+      [
+        0.8544921875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Most Important Problem in the U.S.",
+      [
+        0.8544921875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST China – Economic and Military Threat",
+      [
+        0.8544921875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST U.S. Woman President",
+      [
+        0.8544921875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST DHS Terrorism Threat",
+      [
+        0.853515625
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Non-Mainstream Beliefs",
+      [
+        0.853515625
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Reducing Federal Budget Deficit",
+      [
+        0.8525390625
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Outsourcing of jobs",
+      [
+        0.8525390625
+      ]
+    ],
+    [
+      "ANES_2000_B1-B2 - CANDIDATE RECALL",
+      [
+        0.8515625
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CASI Module – Importance of Racial and Religious Identity",
+      [
+        0.8515625
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – Income Level and Assets",
+      [
+        0.8515625
+      ]
+    ],
+    [
+      "ANES_2000_A1-A4 - CURRENT CAMPAIGN AND POLITICS",
+      [
+        0.8505859374999999
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Approval House Incumbent",
+      [
+        0.8505859374999999
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Iran Nuclear Weapon Development",
+      [
+        0.8505859374999999
+      ]
+    ],
+    [
+      "ANES_1966_STUDY PROCEDURE AND SAMPLING",
+      [
+        0.849609375
+      ]
+    ],
+    [
+      "ANES_2004_PRE-ELECTION INTERVIEWER OBSERVATION",
+      [
+        0.849609375
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CASI Module – R Income",
+      [
+        0.8486328125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – Closeness to Political Parties",
+      [
+        0.8486328125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CASI Module – Increased Economic Inequality",
+      [
+        0.8486328125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Mormon Religion",
+      [
+        0.8486328125
+      ]
+    ]
+  ],
+  "ANES_1994_1.PARTY IDENTIFICATION.csv": [],
+  "ANES_1988_R'S ASSESSMENT OF U.S. HOUSE INCUMBENT.csv": [],
+  "ANES_1974_TELEVISION AS A SOURCE OF POLITICAL INFORMATION.csv": [],
+  "ANES_1968_PAST PRESIDENTIAL VOTING BEHAVIOR.csv": [],
+  "ANES_2000_Q1 -  EXTERNAL POLITICAL EFFICACY.csv": [
+    [
+      "ANES_2000_M3 -  POSITION OF BLACKS IN SOCIETY",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_2000_Q1 -  EXTERNAL POLITICAL EFFICACY",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_2000_Q2 -  MORAL TRADITIONALISM",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_2000_P1 - EGALITARIANISM",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_2000_N2-  POLITICAL EFFICACY OF THE RESPONDENT",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_2000_S1-S11 - CLINTON LEGACY",
+      [
+        0.8886726541884776
+      ]
+    ],
+    [
+      "ANES_2000_Z25-Z29 - R'S NEIGHBORHOOD",
+      [
+        0.8877059355735951
+      ]
+    ],
+    [
+      "ANES_2000_S14 - CLINTON AFFECTS",
+      [
+        0.8837895800996982
+      ]
+    ],
+    [
+      "ANES_2000_S15 - CLINTON TRAITS",
+      [
+        0.8834690628017184
+      ]
+    ],
+    [
+      "ANES_2000_K1- GROUP INFLUENCE TOO MUCH, TOO LITTLE, RIGHT AMT",
+      [
+        0.8815511518910716
+      ]
+    ],
+    [
+      "ANES_2000_Q3-Q6 -  TRUST IN GOVERNMENT | MASS SUPPORT",
+      [
+        0.879579758437755
+      ]
+    ],
+    [
+      "ANES_2000_J11- DIFFERENCES BETWEEN PARTIES",
+      [
+        0.8792334508246834
+      ]
+    ],
+    [
+      "ANES_2000_H9-H12 - NATION  STRENGTH, IMMIGRATION, IMPORTS, ISOLATION",
+      [
+        0.8789739580230589
+      ]
+    ],
+    [
+      "ANES_2000_V1-V4 - BUSH LEGACY",
+      [
+        0.8789123980714776
+      ]
+    ],
+    [
+      "ANES_2000_E1-E4 - HOUSE CANDIDATE LIKES|DISLIKES",
+      [
+        0.8789085586978012
+      ]
+    ],
+    [
+      "ANES_2000_Q1-Q11 - CLINTON LEGACY",
+      [
+        0.8720698158323142
+      ]
+    ],
+    [
+      "ANES_2000_B1-B12 - PARTICIPATION, CONTRIBUTIONS",
+      [
+        0.8720698158323142
+      ]
+    ],
+    [
+      "ANES_2000_K13-K14 -WORRY ABOUT WAR",
+      [
+        0.8714252886108277
+      ]
+    ],
+    [
+      "ANES_2000_K15-K16 - CAMPAIGN FINANCE",
+      [
+        0.8704409152952445
+      ]
+    ],
+    [
+      "ANES_2000_F1-F3 - PRESIDENTIAL CANDIDATE AFFECTS",
+      [
+        0.8688186231807008
+      ]
+    ],
+    [
+      "ANES_2000_P2 - ENVIRONMENTAL REGULATION",
+      [
+        0.8688147089942221
+      ]
+    ],
+    [
+      "ANES_2000_L2 - DEFENSE SPENDING",
+      [
+        0.8684974481474478
+      ]
+    ],
+    [
+      "ANES_2000_L6 - AFFIRMATIVE ACTION",
+      [
+        0.8684877847941074
+      ]
+    ],
+    [
+      "ANES_2000_Z1-Z24 - POLITICAL DISCUSSION IN SOCIAL NETWORK",
+      [
+        0.8684877847941074
+      ]
+    ],
+    [
+      "ANES_2000_NONVOTER PREFERENCES FOR HOUSE, SENATE",
+      [
+        0.8684877847941074
+      ]
+    ],
+    [
+      "ANES_2000_H5 - APPROVE PRESIDENT HANDLING OF ECONOMY",
+      [
+        0.8681850195072505
+      ]
+    ],
+    [
+      "ANES_2000_H13 - APPROVE PRESIDENT HANDLING OF FOREIGN RELATIONS",
+      [
+        0.8681850195072505
+      ]
+    ],
+    [
+      "ANES_2000_N5 - DEATH PENALTY",
+      [
+        0.8681850195072505
+      ]
+    ],
+    [
+      "ANES_2000_A12 - PRESIDENTIAL APPROVAL",
+      [
+        0.8681850195072505
+      ]
+    ],
+    [
+      "ANES_2000_F1-F4 - MEMBER OF CONGRESS",
+      [
+        0.8678874487013652
+      ]
+    ],
+    [
+      "ANES_2000_Q14 - CLINTON AFFECTS",
+      [
+        0.8671844203304393
+      ]
+    ],
+    [
+      "ANES_2000_E1-E3 - R FINANCIAL SITUATION",
+      [
+        0.8665996009239896
+      ]
+    ],
+    [
+      "ANES_2000_H1-H3 - R'S FINANCIAL SITUATION",
+      [
+        0.8659901954446497
+      ]
+    ],
+    [
+      "ANES_2000_Q7-Q8 - GOVERNMENT RESPONSIVENESS",
+      [
+        0.8659303309884022
+      ]
+    ],
+    [
+      "ANES_2000_J2 - GOVERNMENT ROLE AND SELF-RELIANCE",
+      [
+        0.8642513114457647
+      ]
+    ],
+    [
+      "ANES_2000_M4 - PROTECT ENVIRONMENT",
+      [
+        0.8636035538909295
+      ]
+    ],
+    [
+      "ANES_2000_Q15 - CLINTON TRAITS",
+      [
+        0.8626345718974736
+      ]
+    ],
+    [
+      "ANES_2000_P1 - WOMEN'S ROLE",
+      [
+        0.8620274925860828
+      ]
+    ],
+    [
+      "ANES_2000_V5 - TRAITS - FORMER PRESIDENT BUSH",
+      [
+        0.8604439564664698
+      ]
+    ],
+    [
+      "ANES_2000_L3 - GOVERNMENT MEDICAL INSURANCE",
+      [
+        0.859728674539482
+      ]
+    ],
+    [
+      "ANES_2000_Y5-Y17 - CHARACTERISTICS OF WORK COLLEAGUES",
+      [
+        0.859376143782477
+      ]
+    ],
+    [
+      "ANES_2000_A1-A4 - CURRENT CAMPAIGN AND POLITICS",
+      [
+        0.8587226013025167
+      ]
+    ],
+    [
+      "ANES_2000_N1 -  POWER OF THE FEDERAL GOVERNMENT",
+      [
+        0.8584796831048442
+      ]
+    ],
+    [
+      "ANES_2000_K11 - DISCRIMINATION AGAINST HOMOSEXUALS",
+      [
+        0.8577442158701676
+      ]
+    ],
+    [
+      "ANES_2000_P6-P7 - FAIR AND PREFERENTIAL TREATMENT FOR BLACKS",
+      [
+        0.857138704265885
+      ]
+    ],
+    [
+      "ANES_2000_F6-F9 - MOST IMPORTANT PROBLEM(S)",
+      [
+        0.856767827131669
+      ]
+    ],
+    [
+      "ANES_2000_R5- QUALITIES TO ENCOURAGE IN CHILDREN",
+      [
+        0.8562127664414022
+      ]
+    ],
+    [
+      "ANES_2000_H1-H4 - NATIONAL ECONOMY",
+      [
+        0.8555507121863806
+      ]
+    ],
+    [
+      "ANES_2000_J3-J10 -  MEDIA|INTERNET EXPOSURE AND INFORMATION",
+      [
+        0.8548284932219025
+      ]
+    ],
+    [
+      "ANES_2000_L5 - AID TO BLACKS",
+      [
+        0.8523151189902389
+      ]
+    ]
+  ],
+  "ANES_1974_OCCUPATION OF R'S PARENTS.csv": [],
+  "ANES_1982_R'S CONTACT WITH DEMOCRATIC U.S. HOUSE INCUMBENT.csv": [],
+  "ANES_1972_POWER OF FEDERAL GOVERNMENT.csv": [],
+  "ANES_1962_FINANCIAL AND BUSINESS CONDITIONS.csv": [],
+  "ANES_1990_CONGRESSIONAL CAMPAIGN.csv": [
+    [
+      "ANES_1990_CONGRESSIONAL CAMPAIGN",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_1966_CONGRESSIONAL, SENATORIAL AND GUBERNATORIAL",
+      [
+        0.8427734375
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Mobilization",
+      [
+        0.8310546875
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE R Party ID",
+      [
+        0.8310546875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Political Knowledge – Party with House Majority",
+      [
+        0.8310546875
+      ]
+    ],
+    [
+      "ANES_2012_2012 CANDIDATES AND RACES (House, Senate, Gubernatorial)",
+      [
+        0.8291015625
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Party Differences",
+      [
+        0.8271484375
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Most Important Problem in the U.S.",
+      [
+        0.826171875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – Mobilization",
+      [
+        0.826171875
+      ]
+    ],
+    [
+      "ANES_2000_B1-B12 - PARTICIPATION, CONTRIBUTIONS",
+      [
+        0.8193359375
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Blame for Poor Economic Conditions",
+      [
+        0.818359375
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Government See to Fair Jobs for Blacks",
+      [
+        0.8173828125
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE U.S. Immigration Policies",
+      [
+        0.8173828125
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Campaign Interest",
+      [
+        0.8154296875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Hispanic Rs – Ethnic Assimilation and Preservation",
+      [
+        0.8154296875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Liberal-Conservative 7pt Scale Placement",
+      [
+        0.814453125
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Trust in Government",
+      [
+        0.814453125
+      ]
+    ],
+    [
+      "ANES_1994_1.SAMPLING INFORMATION",
+      [
+        0.8134765625
+      ]
+    ],
+    [
+      "ANES_1994_FEELING THERMOMETER PROBES",
+      [
+        0.8125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – Political Knowledge",
+      [
+        0.8125
+      ]
+    ],
+    [
+      "ANES_2000_P3 - TURNOUT|VOTE INTENT",
+      [
+        0.8125
+      ]
+    ],
+    [
+      "ANES_1990_PROBE INDICATORS",
+      [
+        0.8115234375
+      ]
+    ],
+    [
+      "ANES_1994_1.HOUSEHOLD INCOME",
+      [
+        0.8115234375
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Attitudes toward Supreme Court Authority",
+      [
+        0.810546875
+      ]
+    ],
+    [
+      "ANES_1956_VOTING BEHAVIOR",
+      [
+        0.810546875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Authoritarianism (children’s traits)",
+      [
+        0.8095703125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Affirmative Action in Hiring",
+      [
+        0.8095703125
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Demographics – Education",
+      [
+        0.80859375
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Demographics – Hispanic Rs Background and Language",
+      [
+        0.80859375
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Abortion (standard placements)",
+      [
+        0.80859375
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Tax on Millionaires",
+      [
+        0.8076171875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Approval House Incumbent",
+      [
+        0.8076171875
+      ]
+    ],
+    [
+      "ANES_1988_LABOR UNION POSITION",
+      [
+        0.8076171875
+      ]
+    ],
+    [
+      "ANES_1990_LABOR UNION POSITION",
+      [
+        0.8076171875
+      ]
+    ],
+    [
+      "ANES_1986_R'S FAMILY INCOME AND SOCIAL CLASS",
+      [
+        0.8076171875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CASI Module – Influence of Racial Groups",
+      [
+        0.806640625
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST DHS Political Engagement",
+      [
+        0.806640625
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Modern Sexism",
+      [
+        0.806640625
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Demographics – Social Class",
+      [
+        0.806640625
+      ]
+    ],
+    [
+      "ANES_2000_K1 - PARTY ID",
+      [
+        0.806640625
+      ]
+    ],
+    [
+      "ANES_2020_GENERAL NON‐SURVEY VARIABLES",
+      [
+        0.806640625
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Environmental Policies",
+      [
+        0.8046875
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Religious Attitudes and Practice",
+      [
+        0.8046875
+      ]
+    ],
+    [
+      "ANES_2000_H7-H8 - PARTY PERFORMANCE",
+      [
+        0.8046875
+      ]
+    ],
+    [
+      "ANES_2000_N1 -  POWER OF THE FEDERAL GOVERNMENT",
+      [
+        0.8046875
+      ]
+    ],
+    [
+      "ANES_2016_CANDIDATES AND RACES",
+      [
+        0.8046875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Reducing Federal Budget Deficit",
+      [
+        0.8037109375
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Abortion Approval – Scenarios",
+      [
+        0.8037109375
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Neo-nullification (state vs Federal law)",
+      [
+        0.8037109375
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Iran Nuclear Weapon Development",
+      [
+        0.8037109375
+      ]
+    ]
+  ],
+  "ANES_2012_GENERAL STUDY VARIABLES.csv": [
+    [
+      "ANES_2012_GENERAL STUDY VARIABLES",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_2004_POST-ELECTION CANDIDATES",
+      [
+        0.8437254334687461
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CASI Module – R Income",
+      [
+        0.8357187624370527
+      ]
+    ],
+    [
+      "ANES_2012_2012 FTF PRE-ELECTION IWR OBSERVATIONS",
+      [
+        0.8228334984798965
+      ]
+    ],
+    [
+      "ANES_2020_WEIGHTING VARIABLES",
+      [
+        0.8175324198013761
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE CASI Module – R Income",
+      [
+        0.816342329422772
+      ]
+    ],
+    [
+      "ANES_2000_VOTE FOR CONGRESS",
+      [
+        0.8143925529937971
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Respondent Religion",
+      [
+        0.8140797399177152
+      ]
+    ],
+    [
+      "ANES_1994_1.INTERVIEWER VARIABLES",
+      [
+        0.8133794275427155
+      ]
+    ],
+    [
+      "ANES_2016_CANDIDATES AND RACES",
+      [
+        0.8127464219506678
+      ]
+    ],
+    [
+      "ANES_2000_A1-A4 - CURRENT CAMPAIGN AND POLITICS",
+      [
+        0.811529636821128
+      ]
+    ],
+    [
+      "ANES_2012_2012 CANDIDATES AND RACES (House, Senate, Gubernatorial)",
+      [
+        0.809101408126911
+      ]
+    ],
+    [
+      "ANES_2000_B1-B2 - CANDIDATE RECALL",
+      [
+        0.8089249039195511
+      ]
+    ],
+    [
+      "ANES_2000_VOTE FOR SENATE",
+      [
+        0.8085949437464277
+      ]
+    ],
+    [
+      "ANES_2000_NONVOTER PREFERENCES FOR HOUSE, SENATE",
+      [
+        0.8065688988824874
+      ]
+    ],
+    [
+      "ANES_2000_E5-E7 - POLITICAL KNOWLEDGE (HOUSE AND SENATE)",
+      [
+        0.8053002859442872
+      ]
+    ],
+    [
+      "ANES_2012_2012 FTF DWELLING UNIT DESCRIPTION",
+      [
+        0.8038424482453673
+      ]
+    ],
+    [
+      "ANES_2020_CANDIDATES AND RACES VARIABLES",
+      [
+        0.8034563885233186
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Campaign Media Exposure",
+      [
+        0.8022401373793401
+      ]
+    ],
+    [
+      "ANES_2016_PRE INTERVIEWER OBSERVATIONS",
+      [
+        0.801828991202807
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Politcal Knowledge – Office Recognition",
+      [
+        0.8005909494436962
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Mobilization",
+      [
+        0.8005028197543249
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – Mobilization",
+      [
+        0.7997420821463316
+      ]
+    ],
+    [
+      "ANES_2000_POST COVERSHEET VARIABLES",
+      [
+        0.7993338604878747
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Social Group Links",
+      [
+        0.7991359010585287
+      ]
+    ],
+    [
+      "ANES_2000_B1-B12 - PARTICIPATION, CONTRIBUTIONS",
+      [
+        0.7978027488496185
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Hispanic Rs – Ethnic Assimilation and Preservation",
+      [
+        0.79738226228663
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – Closeness to Political Parties",
+      [
+        0.796112129324893
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Social Security Investments",
+      [
+        0.7959451412478474
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Modern Sexism",
+      [
+        0.7955996408541305
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Discuss Politics",
+      [
+        0.7955775879291417
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – State of the Economy",
+      [
+        0.7955010201347537
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Abortion Approval – Scenarios",
+      [
+        0.7953307720563639
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST R Conditions of Economic Peril",
+      [
+        0.7951042006620876
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Efficacy – (splice) Standard | Revised",
+      [
+        0.7945275117177389
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Favor or Oppose TARP",
+      [
+        0.7944303742328145
+      ]
+    ],
+    [
+      "ANES_2012_2012 FTF POST-ELECTION IWR OBSERVATIONS",
+      [
+        0.7942821318048318
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CASI Module Test Screens",
+      [
+        0.7942562579740154
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST DHS Political Engagement",
+      [
+        0.7942358611917075
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CASI Module – Importance of Racial and Religious Identity",
+      [
+        0.7942023341078733
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Party Differences",
+      [
+        0.794017063222026
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Cognitive Style",
+      [
+        0.7939701467477479
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Approval House Incumbent",
+      [
+        0.793815890050021
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Public Engagement",
+      [
+        0.7933077845784392
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Attitudes toward Supreme Court Authority",
+      [
+        0.7932810348628231
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Outsourcing of jobs",
+      [
+        0.7926705059008581
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CASI Module – Influence of Racial Groups",
+      [
+        0.7924858448436403
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Affirmative Action in Hiring",
+      [
+        0.792437660975286
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CASI Module – Increased Economic Inequality",
+      [
+        0.7916933717845549
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Reducing Federal Budget Deficit",
+      [
+        0.7915764927008442
+      ]
+    ]
+  ],
+  "ANES_1988_POSITION ON GOVT-FUNDED INSURANCE SCALE.csv": [],
+  "ANES_1964_FAMILY EDUCATION.csv": [],
+  "ANES_1958_BUILT MEASURES.csv": [
+    [
+      "ANES_1958_BUILT MEASURES",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_2000_A1-A4 - CURRENT CAMPAIGN AND POLITICS",
+      [
+        0.8367313671485048
+      ]
+    ],
+    [
+      "ANES_2000_B1-B2 - CANDIDATE RECALL",
+      [
+        0.8355977160646639
+      ]
+    ],
+    [
+      "ANES_1966_CONGRESSIONAL, SENATORIAL AND GUBERNATORIAL",
+      [
+        0.8329078205236496
+      ]
+    ],
+    [
+      "ANES_2000_VOTE FOR SENATE",
+      [
+        0.8325283367910682
+      ]
+    ],
+    [
+      "ANES_2000_F6-F9 - MOST IMPORTANT PROBLEM(S)",
+      [
+        0.8317942067699827
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CASI Module – Importance of Racial and Religious Identity",
+      [
+        0.830095095469285
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Mobilization",
+      [
+        0.830084791357877
+      ]
+    ],
+    [
+      "ANES_1994_1.HOUSEHOLD INCOME",
+      [
+        0.8294914125588948
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CASI Module – Increased Economic Inequality",
+      [
+        0.8270222402915077
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Social Group Links",
+      [
+        0.8266840108776714
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Modern Sexism",
+      [
+        0.826621866909926
+      ]
+    ],
+    [
+      "ANES_2000_NONVOTER PREFERENCES FOR HOUSE, SENATE",
+      [
+        0.8265141796892483
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Hispanic Rs – Ethnic Assimilation and Preservation",
+      [
+        0.8263567008768524
+      ]
+    ],
+    [
+      "ANES_2000_E5-E7 - POLITICAL KNOWLEDGE (HOUSE AND SENATE)",
+      [
+        0.8262323794611613
+      ]
+    ],
+    [
+      "ANES_2000_H1-H3 - R'S FINANCIAL SITUATION",
+      [
+        0.8260420662048665
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Abortion Approval – Scenarios",
+      [
+        0.8258919802671589
+      ]
+    ],
+    [
+      "ANES_2020_GENERAL NON‐SURVEY VARIABLES",
+      [
+        0.825353186467913
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST DHS Terrorism Threat",
+      [
+        0.8242891755798696
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – Mobilization",
+      [
+        0.8240156428433872
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Campaign Media Exposure",
+      [
+        0.8239466088717907
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Efficacy – (splice) Standard | Revised",
+      [
+        0.8239156039835474
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CASI Module Test Screens",
+      [
+        0.8236446724424127
+      ]
+    ],
+    [
+      "ANES_2000_Y5-Y17 - CHARACTERISTICS OF WORK COLLEAGUES",
+      [
+        0.8232009454399172
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST DHS Political Engagement",
+      [
+        0.8230142772417658
+      ]
+    ],
+    [
+      "ANES_1972_PERSONAL DATA",
+      [
+        0.8229747054306995
+      ]
+    ],
+    [
+      "ANES_2000_K12 - WAYS TO REDUCE CRIME",
+      [
+        0.8229694934133951
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Outsourcing of jobs",
+      [
+        0.8225619292003571
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST R Conditions of Economic Peril",
+      [
+        0.8224804438371743
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Children and School Enrollment",
+      [
+        0.8221077377170605
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Tax on Millionaires",
+      [
+        0.8219844781969886
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Party Differences",
+      [
+        0.82171844636175
+      ]
+    ],
+    [
+      "ANES_2000_V5 - TRAITS - FORMER PRESIDENT BUSH",
+      [
+        0.8215147021774943
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CASI Module – TIPI",
+      [
+        0.8210692760000382
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Cognitive Style",
+      [
+        0.8207037761852972
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Affirmative Action in Hiring",
+      [
+        0.8206546498949322
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST U.S. Woman President",
+      [
+        0.8206160960185801
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – Closeness to Political Parties",
+      [
+        0.8199692882078459
+      ]
+    ],
+    [
+      "ANES_2000_A6-A11 - MEDIA",
+      [
+        0.8199196943927191
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Power and Role of Federal Government",
+      [
+        0.8197334210121633
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Authoritarianism (children’s traits)",
+      [
+        0.8195672142358528
+      ]
+    ],
+    [
+      "ANES_2012_2012 FTF DWELLING UNIT DESCRIPTION",
+      [
+        0.8195626052046547
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Women’s Role",
+      [
+        0.8193374920086905
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CASI Module – Influence of Racial Groups",
+      [
+        0.8188787485731089
+      ]
+    ],
+    [
+      "ANES_2000_M4 - PROTECT ENVIRONMENT",
+      [
+        0.8184779245291088
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Social Security Investments",
+      [
+        0.818171707513816
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – Level of Public Expenditures",
+      [
+        0.8180344306619602
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – State of the Economy",
+      [
+        0.8180095390191288
+      ]
+    ],
+    [
+      "ANES_1972_CHILDREN IN HOUSEHOLD",
+      [
+        0.817828002923648
+      ]
+    ],
+    [
+      "ANES_1994_INTERACTION WITH REPUBLICAN HOUSE CANDIDATE",
+      [
+        0.8175359857674044
+      ]
+    ]
+  ],
+  "ANES_1986_DOES R DISCUSS POLITICS.csv": [],
+  "ANES_1994_EQUAL OPPORTUNITY.csv": [],
+  "ANES_1972_PERSONAL DATA.csv": [
+    [
+      "ANES_1972_PERSONAL DATA",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_1970_SEX, RACE, RELATIONSHIP TO HEAD",
+      [
+        0.9781957036264441
+      ]
+    ],
+    [
+      "ANES_1984_PERSONAL INFORMATION  SUMMARY",
+      [
+        0.968885025505261
+      ]
+    ],
+    [
+      "ANES_1976_***PRE-ELECTION WAVE*** PERSONAL DATA",
+      [
+        0.968885025505261
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE-ELECTION",
+      [
+        0.9653865746571315
+      ]
+    ],
+    [
+      "ANES_1964_PERSONAL DATA",
+      [
+        0.910410788816576
+      ]
+    ],
+    [
+      "ANES_1956_PERSONAL DATA (CONT.)",
+      [
+        0.9070193147343636
+      ]
+    ],
+    [
+      "ANES_1994_1.INTERVIEWER VARIABLES",
+      [
+        0.8826874788582592
+      ]
+    ],
+    [
+      "ANES_1978_INCUMBENT'S PERSONAL INFORMATION",
+      [
+        0.8819891307481164
+      ]
+    ],
+    [
+      "ANES_2002_INTERVIEWER EVALUATION - PRE INTERVIEW",
+      [
+        0.8771543690247777
+      ]
+    ],
+    [
+      "ANES_1968_PRE ELECTION INTERVIEW SEX, RACE, RELATIONSHIP TO HEAD",
+      [
+        0.8755055281796956
+      ]
+    ],
+    [
+      "ANES_2000_POST INTERVIEWER VARIABLES",
+      [
+        0.8381055726480879
+      ]
+    ],
+    [
+      "ANES_2020_INTERVIEWER DESCRIPTION VARIABLES",
+      [
+        0.8277049926922329
+      ]
+    ],
+    [
+      "ANES_1974_PERSONAL DATA",
+      [
+        0.8176891947347742
+      ]
+    ],
+    [
+      "ANES_2004_PRE-ELECTION INTERVIEWER OBSERVATION",
+      [
+        0.8150689508828084
+      ]
+    ],
+    [
+      "ANES_2012_2012 FTF PRE-ELECTION IWR OBSERVATIONS",
+      [
+        0.8131223163653887
+      ]
+    ],
+    [
+      "ANES_2020_CANDIDATES AND RACES VARIABLES",
+      [
+        0.8119609846098272
+      ]
+    ],
+    [
+      "ANES_2000_Z1-Z24 - POLITICAL DISCUSSION IN SOCIAL NETWORK",
+      [
+        0.8038800233043025
+      ]
+    ],
+    [
+      "ANES_2012_2012 CANDIDATES AND RACES (House, Senate, Gubernatorial)",
+      [
+        0.8032726753833793
+      ]
+    ],
+    [
+      "ANES_2016_PRE INTERVIEWER DESCRIPTION VARIABLES",
+      [
+        0.8023059216846844
+      ]
+    ],
+    [
+      "ANES_2016_POST INTERVIEWER DESCRIPTION VARIABLES",
+      [
+        0.8016387800473861
+      ]
+    ],
+    [
+      "ANES_2012_2012 FTF POST-ELECTION INTERVIEWER DESCRIPTION",
+      [
+        0.7880434317182833
+      ]
+    ],
+    [
+      "ANES_2012_2012 FTF PRE-ELECTION INTERVIEWER DESCRIPTION",
+      [
+        0.7880434317182833
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Demographics – Hispanic Ethnicity",
+      [
+        0.7874234577285258
+      ]
+    ],
+    [
+      "ANES_1980_POST CONDITIONS OF INTERVIEW",
+      [
+        0.7864765739074538
+      ]
+    ],
+    [
+      "ANES_2016_CANDIDATES AND RACES",
+      [
+        0.784576247289192
+      ]
+    ],
+    [
+      "ANES_2000_POST COVERSHEET VARIABLES",
+      [
+        0.7839870700285357
+      ]
+    ],
+    [
+      "ANES_1990_HOUSEHOLD COMPOSITION",
+      [
+        0.7821045832501211
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST DHS Political Engagement",
+      [
+        0.7784277446957203
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Hispanic Rs – Ethnic Assimilation and Preservation",
+      [
+        0.7782891945491862
+      ]
+    ],
+    [
+      "ANES_1966_CONGRESSIONAL, SENATORIAL AND GUBERNATORIAL",
+      [
+        0.7779221908887525
+      ]
+    ],
+    [
+      "ANES_2000_A1-A4 - CURRENT CAMPAIGN AND POLITICS",
+      [
+        0.7767075687122353
+      ]
+    ],
+    [
+      "ANES_2000_Y5-Y17 - CHARACTERISTICS OF WORK COLLEAGUES",
+      [
+        0.7764425822084624
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Reducing Federal Budget Deficit",
+      [
+        0.7764059281675324
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Efficacy – (splice) Standard | Revised",
+      [
+        0.7762465985171099
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – Level of Public Expenditures",
+      [
+        0.7760883873190102
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Social Group Links",
+      [
+        0.7758430969166372
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CASI Module – Influence of Racial Groups",
+      [
+        0.7756798712845621
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Authoritarianism (children’s traits)",
+      [
+        0.7753278472848432
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Liberal-Conservative 7pt Scale Placement",
+      [
+        0.7748161998090329
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Modern Sexism",
+      [
+        0.7746242362212191
+      ]
+    ],
+    [
+      "ANES_2000_B1-B2 - CANDIDATE RECALL",
+      [
+        0.774399868571514
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Demographics – Self-Identification of R Race",
+      [
+        0.7740012045453911
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST R Conditions of Economic Peril",
+      [
+        0.7739554462375647
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Mobilization",
+      [
+        0.7739308597255229
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Power and Role of Federal Government",
+      [
+        0.7739025066394163
+      ]
+    ],
+    [
+      "ANES_1966_STUDY PROCEDURE AND SAMPLING",
+      [
+        0.7737061076899138
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Mormon Religion",
+      [
+        0.7734334512309711
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Trust in Government",
+      [
+        0.7731968061521994
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Government See to Fair Jobs for Blacks",
+      [
+        0.7729693861053824
+      ]
+    ]
+  ],
+  "ANES_1980_VOTING SECTION NON-VOTERS.csv": [
+    [
+      "ANES_1980_VOTING SECTION NON-VOTERS",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_2000_L6 - AFFIRMATIVE ACTION",
+      [
+        0.802734375
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Campaign Interest",
+      [
+        0.79296875
+      ]
+    ],
+    [
+      "ANES_1956_POLITICAL ACTIVITY",
+      [
+        0.7919921875
+      ]
+    ],
+    [
+      "ANES_1988_R'S ATTENTION TO CAMPAIGN|MEDIA",
+      [
+        0.7919921875
+      ]
+    ],
+    [
+      "ANES_1998_SURVEY SECTION G",
+      [
+        0.7919921875
+      ]
+    ],
+    [
+      "ANES_1998_SURVEY SECTION A",
+      [
+        0.7919921875
+      ]
+    ],
+    [
+      "ANES_1974_R'S POLITICAL ACTIVITY",
+      [
+        0.7919921875
+      ]
+    ],
+    [
+      "ANES_1974_PARTY CONTACTS WITH R DURING CAMPAIGN",
+      [
+        0.7919921875
+      ]
+    ],
+    [
+      "ANES_2000_H1-H3 - R'S FINANCIAL SITUATION",
+      [
+        0.791015625
+      ]
+    ],
+    [
+      "ANES_2000_Z1-Z24 - POLITICAL DISCUSSION IN SOCIAL NETWORK",
+      [
+        0.7900390625
+      ]
+    ],
+    [
+      "ANES_1980_PRE-ELECTION SAMPLE INFORMATION",
+      [
+        0.7900390625
+      ]
+    ],
+    [
+      "ANES_2000_NONVOTER PREFERENCES FOR HOUSE, SENATE",
+      [
+        0.7890625
+      ]
+    ],
+    [
+      "ANES_2000_Q3-Q6 -  TRUST IN GOVERNMENT | MASS SUPPORT",
+      [
+        0.7880859375
+      ]
+    ],
+    [
+      "ANES_2000_S1-S11 - CLINTON LEGACY",
+      [
+        0.7880859375
+      ]
+    ],
+    [
+      "ANES_2000_E1-E4 - HOUSE CANDIDATE LIKES|DISLIKES",
+      [
+        0.787109375
+      ]
+    ],
+    [
+      "ANES_2000_A1-A4 - CURRENT CAMPAIGN AND POLITICS",
+      [
+        0.7861328125
+      ]
+    ],
+    [
+      "ANES_2000_G12 - ABORTION",
+      [
+        0.7861328125
+      ]
+    ],
+    [
+      "ANES_1980_R'S EDUCATION",
+      [
+        0.78515625
+      ]
+    ],
+    [
+      "ANES_1982_HEAD OF FAMILY'S EDUCATION",
+      [
+        0.78515625
+      ]
+    ],
+    [
+      "ANES_1988_R'S RESISTANCE TO INTERVIEW",
+      [
+        0.78515625
+      ]
+    ],
+    [
+      "ANES_2000_E5-E7 - POLITICAL KNOWLEDGE (HOUSE AND SENATE)",
+      [
+        0.7841796875
+      ]
+    ],
+    [
+      "ANES_2000_A6-A11 - MEDIA",
+      [
+        0.7841796875
+      ]
+    ],
+    [
+      "ANES_2000_J2 - GOVERNMENT ROLE AND SELF-RELIANCE",
+      [
+        0.7841796875
+      ]
+    ],
+    [
+      "ANES_2000_Z25-Z29 - R'S NEIGHBORHOOD",
+      [
+        0.7841796875
+      ]
+    ],
+    [
+      "ANES_2000_S14 - CLINTON AFFECTS",
+      [
+        0.7841796875
+      ]
+    ],
+    [
+      "ANES_2000_Q7-Q8 - GOVERNMENT RESPONSIVENESS",
+      [
+        0.783203125
+      ]
+    ],
+    [
+      "ANES_2000_L8 - ORGANIZATIONAL INVOLVEMENT AND INFLUENCE",
+      [
+        0.7822265625
+      ]
+    ],
+    [
+      "ANES_2000_F1-F3 - PRESIDENTIAL CANDIDATE AFFECTS",
+      [
+        0.7822265625
+      ]
+    ],
+    [
+      "ANES_2000_H5 - APPROVE PRESIDENT HANDLING OF ECONOMY",
+      [
+        0.7822265625
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Hispanic Rs – Ethnic Assimilation and Preservation",
+      [
+        0.7822265625
+      ]
+    ],
+    [
+      "ANES_2000_C5-C8- VOTE FOR PRESIDENT",
+      [
+        0.7822265625
+      ]
+    ],
+    [
+      "ANES_1994_INTERACTION WITH REPUBLICAN HOUSE CANDIDATE",
+      [
+        0.7822265625
+      ]
+    ],
+    [
+      "ANES_2000_P3 - TURNOUT|VOTE INTENT",
+      [
+        0.78125
+      ]
+    ],
+    [
+      "ANES_2002_INTERVIEWER EVALUATION - PRE INTERVIEW",
+      [
+        0.78125
+      ]
+    ],
+    [
+      "ANES_2000_R5- QUALITIES TO ENCOURAGE IN CHILDREN",
+      [
+        0.7802734375
+      ]
+    ],
+    [
+      "ANES_2000_E1-E3 - R FINANCIAL SITUATION",
+      [
+        0.779296875
+      ]
+    ],
+    [
+      "ANES_2000_Q14 - CLINTON AFFECTS",
+      [
+        0.779296875
+      ]
+    ],
+    [
+      "ANES_2012_2012 FTF DWELLING UNIT DESCRIPTION",
+      [
+        0.779296875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Public Engagement",
+      [
+        0.7783203125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – Income Level and Assets",
+      [
+        0.7783203125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – Closeness to Political Parties",
+      [
+        0.7783203125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Mobilization",
+      [
+        0.7783203125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – Mobilization",
+      [
+        0.7783203125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Discuss Politics",
+      [
+        0.7783203125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Campaign Media Exposure",
+      [
+        0.7783203125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Social Group Links",
+      [
+        0.7783203125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Modern Sexism",
+      [
+        0.7783203125
+      ]
+    ],
+    [
+      "ANES_2000_Q1-Q11 - CLINTON LEGACY",
+      [
+        0.7783203125
+      ]
+    ],
+    [
+      "ANES_2000_B1-B12 - PARTICIPATION, CONTRIBUTIONS",
+      [
+        0.7783203125
+      ]
+    ]
+  ],
+  "ANES_1972_CONFIDENCE IN NATIONAL|STATE|LOCAL GOVERNMENT.csv": [],
+  "ANES_1964_KNOWLEDGE OF CONGRESSIONAL COMPOSITION.csv": [],
+  "ANES_1960_UNION MEMBERSHIP.csv": [],
+  "ANES_1964_QUESTIONS FOR FARMERS.csv": [],
+  "ANES_1982_R'S CAMPAIGN CONTRIBUTIONS.csv": [
+    [
+      "ANES_1982_R'S CAMPAIGN CONTRIBUTIONS",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_2012_2012 FTF DWELLING UNIT DESCRIPTION",
+      [
+        0.7412109375
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CASI Module – Group Discrimination",
+      [
+        0.7197265625
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Power and Role of Federal Government",
+      [
+        0.716796875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Mormon Religion",
+      [
+        0.716796875
+      ]
+    ],
+    [
+      "ANES_1982_TYPE OF POLITICAL RACE",
+      [
+        0.7158203125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Campaign Media Exposure",
+      [
+        0.7158203125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Is Increase in Govt Wiretapping Too Much",
+      [
+        0.7138671875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Politcal Knowledge – Office Recognition",
+      [
+        0.7138671875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CASI Module – TIPI",
+      [
+        0.7138671875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CASI Module – Influence of Racial Groups",
+      [
+        0.712890625
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Non-Mainstream Beliefs",
+      [
+        0.712890625
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Efficacy – (splice) Standard | Revised",
+      [
+        0.7119140625
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Media Exposure",
+      [
+        0.7119140625
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Social Group Links",
+      [
+        0.7119140625
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Mobilization",
+      [
+        0.7119140625
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Tax on Millionaires",
+      [
+        0.7099609375
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Modern Sexism",
+      [
+        0.7099609375
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Hispanic Rs – Ethnic Assimilation and Preservation",
+      [
+        0.7099609375
+      ]
+    ],
+    [
+      "ANES_1994_FEELING THERMOMETER PROBES",
+      [
+        0.708984375
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Women’s Role",
+      [
+        0.708984375
+      ]
+    ],
+    [
+      "ANES_2012_2012 FTF POST-ELECTION IWR OBSERVATIONS",
+      [
+        0.708984375
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST U.S. Immigration",
+      [
+        0.708984375
+      ]
+    ],
+    [
+      "ANES_2000_A6-A11 - MEDIA",
+      [
+        0.708984375
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CASI Module – Increased Economic Inequality",
+      [
+        0.7080078125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Abortion Approval – Scenarios",
+      [
+        0.7080078125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST China – Economic and Military Threat",
+      [
+        0.7080078125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST R Patriotism",
+      [
+        0.70703125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Liberal-Conservative 7pt Scale Placement",
+      [
+        0.70703125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CASI Module – Importance of Racial and Religious Identity",
+      [
+        0.70703125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Factors of Aversion to|Preference for Presidential Candidates",
+      [
+        0.7060546875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST DHS Terrorism Threat",
+      [
+        0.7060546875
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Religious Attitudes and Practice",
+      [
+        0.7060546875
+      ]
+    ],
+    [
+      "ANES_2004_PRE-ELECTION INTERVIEWER OBSERVATION",
+      [
+        0.705078125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – State of the Economy",
+      [
+        0.705078125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Outsourcing of jobs",
+      [
+        0.705078125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – Political Knowledge",
+      [
+        0.705078125
+      ]
+    ],
+    [
+      "ANES_2000_Z1-Z9 - ADDITIONAL DEMOGRAPHICS",
+      [
+        0.705078125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Religion Stereotypes",
+      [
+        0.705078125
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE CASI Module – Social Media Used to Follow Pres Campaign",
+      [
+        0.705078125
+      ]
+    ],
+    [
+      "ANES_2000_Y5-Y17 - CHARACTERISTICS OF WORK COLLEAGUES",
+      [
+        0.705078125
+      ]
+    ],
+    [
+      "ANES_2016_PRE INTERVIEWER OBSERVATIONS",
+      [
+        0.7041015625
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Authoritarianism (children’s traits)",
+      [
+        0.7041015625
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Reducing Federal Budget Deficit",
+      [
+        0.7041015625
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Blame for Poor Economic Conditions",
+      [
+        0.7041015625
+      ]
+    ],
+    [
+      "ANES_2012_2012 FTF PRE-ELECTION IWR OBSERVATIONS",
+      [
+        0.7041015625
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Trust in Government",
+      [
+        0.7041015625
+      ]
+    ],
+    [
+      "ANES_2000_C5-C8- VOTE FOR PRESIDENT",
+      [
+        0.703125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Cognitive Style",
+      [
+        0.703125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST R Conditions of Economic Peril",
+      [
+        0.703125
+      ]
+    ]
+  ],
+  "ANES_1984_R'S ATTITUDES TOWARDS POLITICAL PROCESS.csv": [],
+  "ANES_1968_1968 CAMPAIGN INTEREST, VOTE INTENTION.csv": [],
+  "ANES_1990_GOVERNMENT SERVICES|SPENDING SCALE.csv": [],
+  "ANES_1980_QUALITIES DESCRIBING CANDIDATE - CARTER.csv": [],
+  "ANES_1994_7-POINT SCALES.csv": [],
+  "ANES_1974_GOVERNMENT GUARANTEED JOB & LIVING STANDARD SCALE.csv": [],
+  "ANES_1956_FINANCIAL SITUATION OF FAMILY UNIT OR R.csv": [],
+  "ANES_1984_PARTY CONTACTS WITH R DURING THE CAMPAIGN.csv": [],
+  "ANES_1972_R'S ATTITUDE PROTEST, CIVIL DISOBEDIENCE.csv": [],
+  "ANES_1986_R'S RECOGNITION OF POLITICAL FIGURES.csv": [
+    [
+      "ANES_1986_R'S RECOGNITION OF POLITICAL FIGURES",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_1986_R CONTACTED ABOUT VOTING",
+      [
+        0.943359375
+      ]
+    ],
+    [
+      "ANES_1986_R'S OPINION ON SOUTH AFRICA",
+      [
+        0.9013671875
+      ]
+    ],
+    [
+      "ANES_1986_POSITIONS ON LIBERAL|CONSERVATIVE SCALE",
+      [
+        0.88671875
+      ]
+    ],
+    [
+      "ANES_1986_R'S OPINION ON RECENT TAX LAW CHANGES",
+      [
+        0.875
+      ]
+    ],
+    [
+      "ANES_1988_PROBE INDICATORS FOR PRE-ELECTION SECTION D",
+      [
+        0.8720703125
+      ]
+    ],
+    [
+      "ANES_1988_PROBE INDICATORS FOR PRE-ELECTION SECTION L",
+      [
+        0.8720703125
+      ]
+    ],
+    [
+      "ANES_1994_FEELING THERMOMETER PROBES",
+      [
+        0.8671875
+      ]
+    ],
+    [
+      "ANES_1988_PROBE INDICATORS FOR PRE-ELECTION SECTION N",
+      [
+        0.865234375
+      ]
+    ],
+    [
+      "ANES_1990_PROBE INDICATORS",
+      [
+        0.8583984375
+      ]
+    ],
+    [
+      "ANES_1988_PROBE INDICATORS FOR PRE-ELECTION SECTIONS G AND H",
+      [
+        0.845703125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Efficacy – (splice) Standard | Revised",
+      [
+        0.8408203125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Hispanic Rs – Ethnic Assimilation and Preservation",
+      [
+        0.8369140625
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Presidential Candidate Affects",
+      [
+        0.8349609375
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Modern Sexism",
+      [
+        0.8310546875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Is Increase in Govt Wiretapping Too Much",
+      [
+        0.8310546875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CASI Module – Influence of Racial Groups",
+      [
+        0.828125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Moral Traditionalism",
+      [
+        0.8271484375
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Equalitarianism",
+      [
+        0.8271484375
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – State of the Economy",
+      [
+        0.8271484375
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Racial Resentment",
+      [
+        0.8271484375
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Should Access to Guns be Easier or Harder (Gun Control)",
+      [
+        0.8271484375
+      ]
+    ],
+    [
+      "ANES_1988_PROBE INDICATORS FOR PRE-ELECTION SECTION P",
+      [
+        0.8271484375
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE (splice) How Likely | Percent Chance Likely to Vote – PLACEMENT 2",
+      [
+        0.8271484375
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE (splice) How Likely | Percent Chance Likely to Vote – PLACEMENT 1",
+      [
+        0.8271484375
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Approval House Incumbent",
+      [
+        0.826171875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Attitudes toward Supreme Court Authority",
+      [
+        0.826171875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Non-Mainstream Beliefs",
+      [
+        0.826171875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST R Conditions of Economic Peril",
+      [
+        0.826171875
+      ]
+    ],
+    [
+      "ANES_2012_2012 FTF DWELLING UNIT DESCRIPTION",
+      [
+        0.826171875
+      ]
+    ],
+    [
+      "ANES_2002_INTERVIEWER EVALUATION - PRE INTERVIEW",
+      [
+        0.8251953125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Mobilization",
+      [
+        0.8251953125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Abortion Approval – Scenarios",
+      [
+        0.8251953125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – Mobilization",
+      [
+        0.8251953125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Campaign Media Exposure",
+      [
+        0.8251953125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Cognitive Style",
+      [
+        0.82421875
+      ]
+    ],
+    [
+      "ANES_2000_M4 - PROTECT ENVIRONMENT",
+      [
+        0.82421875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Outsourcing of jobs",
+      [
+        0.82421875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Abortion (standard placements)",
+      [
+        0.82421875
+      ]
+    ],
+    [
+      "ANES_2000_Y5-Y17 - CHARACTERISTICS OF WORK COLLEAGUES",
+      [
+        0.82421875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CASI Module – Importance of Racial and Religious Identity",
+      [
+        0.82421875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST U.S. Woman President",
+      [
+        0.82421875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Social Security Investments",
+      [
+        0.8232421875
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Trust in Government",
+      [
+        0.8232421875
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Efficacy – (splice) Standard | Revised",
+      [
+        0.8232421875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Power and Role of Federal Government",
+      [
+        0.822265625
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Mormon Religion",
+      [
+        0.822265625
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST R Patriotism",
+      [
+        0.822265625
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Reducing Federal Budget Deficit",
+      [
+        0.822265625
+      ]
+    ],
+    [
+      "ANES_2000_F6-F9 - MOST IMPORTANT PROBLEM(S)",
+      [
+        0.822265625
+      ]
+    ]
+  ],
+  "ANES_1974_GOVERNMENT AID TO MINORITIES SCALE.csv": [],
+  "ANES_1966_VIETNAM.csv": [],
+  "ANES_1984_R'S RELIGIOUS PREFERENCE.csv": [],
+  "ANES_1968_R'S & HEAD'S EDUCATION AND COLLEGES.csv": [],
+  "ANES_1994_U.S. FOREIGN POLICY.csv": [],
+  "ANES_1980_FAMILY INCOME.csv": [],
+  "ANES_1958_DOMESTIC ISSUES AND FOREIGN POLICY.csv": [],
+  "ANES_1982_R'S CONTACT WITH DEMOCRATIC HOUSE CANDIDATE.csv": [],
+  "ANES_1990_DEFENSE SPENDING SCALE.csv": [],
+  "ANES_1972_PARTY AFFILIATION.csv": [],
+  "ANES_1988_PARTY IDENTIFICATION OF R'S PARENTS.csv": [],
+  "ANES_1984_R'S FEELINGS ABOUT CANDIDATE REAGAN.csv": [],
+  "ANES_1978_DEMOCRATIC HOUSE CANDIDATE COMPONENT.csv": [],
+  "ANES_2000_F1-F3 - PRESIDENTIAL CANDIDATE AFFECTS.csv": [
+    [
+      "ANES_2000_F1-F3 - PRESIDENTIAL CANDIDATE AFFECTS",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_2000_Q14 - CLINTON AFFECTS",
+      [
+        0.9469627891123341
+      ]
+    ],
+    [
+      "ANES_2000_S14 - CLINTON AFFECTS",
+      [
+        0.9338755971287926
+      ]
+    ],
+    [
+      "ANES_2000_H5 - APPROVE PRESIDENT HANDLING OF ECONOMY",
+      [
+        0.9029082866355888
+      ]
+    ],
+    [
+      "ANES_2000_Z1-Z24 - POLITICAL DISCUSSION IN SOCIAL NETWORK",
+      [
+        0.8969544294031668
+      ]
+    ],
+    [
+      "ANES_2000_N3 - SCHOOL INTEGRATION",
+      [
+        0.8708615554644422
+      ]
+    ],
+    [
+      "ANES_2000_NONVOTER PREFERENCES FOR HOUSE, SENATE",
+      [
+        0.8615392483829922
+      ]
+    ],
+    [
+      "ANES_2000_L6 - AFFIRMATIVE ACTION",
+      [
+        0.8612254429169742
+      ]
+    ],
+    [
+      "ANES_2000_S1-S11 - CLINTON LEGACY",
+      [
+        0.8573857108107967
+      ]
+    ],
+    [
+      "ANES_2000_H1-H3 - R'S FINANCIAL SITUATION",
+      [
+        0.857169881261968
+      ]
+    ],
+    [
+      "ANES_2000_S15 - CLINTON TRAITS",
+      [
+        0.8566970082708784
+      ]
+    ],
+    [
+      "ANES_2000_Q3-Q6 -  TRUST IN GOVERNMENT | MASS SUPPORT",
+      [
+        0.8561457096802049
+      ]
+    ],
+    [
+      "ANES_2000_N1 -  POWER OF THE FEDERAL GOVERNMENT",
+      [
+        0.8558676133080034
+      ]
+    ],
+    [
+      "ANES_2000_F1-F4 - MEMBER OF CONGRESS",
+      [
+        0.8557367058578831
+      ]
+    ],
+    [
+      "ANES_2000_Y5-Y17 - CHARACTERISTICS OF WORK COLLEAGUES",
+      [
+        0.8547009052519651
+      ]
+    ],
+    [
+      "ANES_2000_P2 - ENVIRONMENTAL REGULATION",
+      [
+        0.8544814616595784
+      ]
+    ],
+    [
+      "ANES_2000_T1-T4 - CAMPAIGN MEDIA EXPOSURE",
+      [
+        0.8522745712153635
+      ]
+    ],
+    [
+      "ANES_2000_Q1-Q11 - CLINTON LEGACY",
+      [
+        0.8522715330299566
+      ]
+    ],
+    [
+      "ANES_2000_V5 - TRAITS - FORMER PRESIDENT BUSH",
+      [
+        0.8519341393694265
+      ]
+    ],
+    [
+      "ANES_2000_K1- GROUP INFLUENCE TOO MUCH, TOO LITTLE, RIGHT AMT",
+      [
+        0.8518033479884505
+      ]
+    ],
+    [
+      "ANES_2000_A1-A4 - CURRENT CAMPAIGN AND POLITICS",
+      [
+        0.8516373506145036
+      ]
+    ],
+    [
+      "ANES_2000_V1-V4 - BUSH LEGACY",
+      [
+        0.8512300781787886
+      ]
+    ],
+    [
+      "ANES_2000_P6-P7 - FAIR AND PREFERENTIAL TREATMENT FOR BLACKS",
+      [
+        0.8499059829998035
+      ]
+    ],
+    [
+      "ANES_2000_B1-B2 - CANDIDATE RECALL",
+      [
+        0.849664157657142
+      ]
+    ],
+    [
+      "ANES_2000_J3-J10 -  MEDIA|INTERNET EXPOSURE AND INFORMATION",
+      [
+        0.8485643301608881
+      ]
+    ],
+    [
+      "ANES_2000_M1-M3 - ABORTION",
+      [
+        0.8484510970057503
+      ]
+    ],
+    [
+      "ANES_2000_M6 - GUN CONTROL",
+      [
+        0.8475213000336319
+      ]
+    ],
+    [
+      "ANES_2000_B1-B12 - PARTICIPATION, CONTRIBUTIONS",
+      [
+        0.847101582056401
+      ]
+    ],
+    [
+      "ANES_2000_J11- DIFFERENCES BETWEEN PARTIES",
+      [
+        0.8468877234846806
+      ]
+    ],
+    [
+      "ANES_2000_G1-G10 - LIBERAL-CONSERVATIVE PLACEMENT SELF, CLINTON, GORE, BUCHANAN AND PARTIES",
+      [
+        0.8454736308623264
+      ]
+    ],
+    [
+      "ANES_2000_J2 - GOVERNMENT ROLE AND SELF-RELIANCE",
+      [
+        0.8449429291242103
+      ]
+    ],
+    [
+      "ANES_2000_K2-K4 - PRES. CANDIDATE TRAITS",
+      [
+        0.8447503075126045
+      ]
+    ],
+    [
+      "ANES_2000_G11 - SERVICES|SPENDING TRADEOFF",
+      [
+        0.8447334097253093
+      ]
+    ],
+    [
+      "ANES_2000_L2 - DEFENSE SPENDING",
+      [
+        0.8442559367870026
+      ]
+    ],
+    [
+      "ANES_2000_Q15 - CLINTON TRAITS",
+      [
+        0.8429828462193965
+      ]
+    ],
+    [
+      "ANES_2000_Q7-Q8 - GOVERNMENT RESPONSIVENESS",
+      [
+        0.8418200043961551
+      ]
+    ],
+    [
+      "ANES_2000_A6-A11 - MEDIA",
+      [
+        0.841720467122123
+      ]
+    ],
+    [
+      "ANES_2000_Z25-Z29 - R'S NEIGHBORHOOD",
+      [
+        0.8406360115007481
+      ]
+    ],
+    [
+      "ANES_2000_E1-E3 - R FINANCIAL SITUATION",
+      [
+        0.8401276797333485
+      ]
+    ],
+    [
+      "ANES_2000_E1-E4 - HOUSE CANDIDATE LIKES|DISLIKES",
+      [
+        0.8400349447114163
+      ]
+    ],
+    [
+      "ANES_2000_K12 - WAYS TO REDUCE CRIME",
+      [
+        0.8395190017724927
+      ]
+    ],
+    [
+      "ANES_2000_R5- QUALITIES TO ENCOURAGE IN CHILDREN",
+      [
+        0.839109792465726
+      ]
+    ],
+    [
+      "ANES_2000_K13-K14 -WORRY ABOUT WAR",
+      [
+        0.8379115481596352
+      ]
+    ],
+    [
+      "ANES_2000_M5 - HOMOSEXUALS IN THE ARMED FORCES",
+      [
+        0.8377197588038556
+      ]
+    ],
+    [
+      "ANES_2000_L3 - GOVERNMENT MEDICAL INSURANCE",
+      [
+        0.8376211300304653
+      ]
+    ],
+    [
+      "ANES_2000_M4 - PROTECT ENVIRONMENT",
+      [
+        0.8375980091947309
+      ]
+    ],
+    [
+      "ANES_2000_L4 - GUARANTEED JOB|STANDARD OF LIVING",
+      [
+        0.8375644366269931
+      ]
+    ],
+    [
+      "ANES_2000_K2 - OFFICE RECOGNITION OF POLITICAL FIGURES",
+      [
+        0.8375282582079033
+      ]
+    ],
+    [
+      "ANES_2000_P1 - WOMEN'S ROLE",
+      [
+        0.8373185077510121
+      ]
+    ],
+    [
+      "ANES_2000_R1-  GROUPS R FEELS CLOSE TO",
+      [
+        0.8373137079860068
+      ]
+    ]
+  ],
+  "ANES_1990_SOCIO|ECONOMIC STATUS OF BLACKS SCALE.csv": [],
+  "ANES_1986_R'S ASSESSMENT OF CONGRESS AND THE PRESIDENT.csv": [],
+  "ANES_1976_R'S PARENTS POLITICAL INTEREST & PARTISANSHIP.csv": [],
+  "ANES_2020_GENERAL NON‐SURVEY VARIABLES.csv": [
+    [
+      "ANES_2020_GENERAL NON‐SURVEY VARIABLES",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Hispanic Rs – Ethnic Assimilation and Preservation",
+      [
+        0.8516275878181618
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST U.S. Immigration",
+      [
+        0.8489844570502733
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Modern Sexism",
+      [
+        0.8479630783017446
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – Level of Public Expenditures",
+      [
+        0.8475601136531982
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST DHS Political Engagement",
+      [
+        0.8471360653898837
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CASI Module – Influence of Racial Groups",
+      [
+        0.8466238427374781
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Campaign Media Exposure",
+      [
+        0.8460177150810827
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Efficacy – (splice) Standard | Revised",
+      [
+        0.8459439598914795
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Women’s Role",
+      [
+        0.8447827625054221
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Power and Role of Federal Government",
+      [
+        0.8446441081169945
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST R Conditions of Economic Peril",
+      [
+        0.843917230878227
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CASI Module – Importance of Racial and Religious Identity",
+      [
+        0.8433610200549829
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Mobilization",
+      [
+        0.8430332168450457
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Social Group Links",
+      [
+        0.8429018750367012
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Outsourcing of jobs",
+      [
+        0.8427100196300519
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Abortion Approval – Scenarios",
+      [
+        0.8425405873451405
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Authoritarianism (children’s traits)",
+      [
+        0.8424933384740865
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Affirmative Action in Hiring",
+      [
+        0.8422455701179344
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST U.S. Woman President",
+      [
+        0.8416573257063558
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST DHS Terrorism Threat",
+      [
+        0.8414947706338162
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST R Patriotism",
+      [
+        0.8414546553616613
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Tax on Millionaires",
+      [
+        0.841410711092488
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Government See to Fair Jobs for Blacks",
+      [
+        0.8412665974295622
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Reducing Federal Budget Deficit",
+      [
+        0.8411838929033997
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – State of the Economy",
+      [
+        0.8411834157840686
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – Mobilization",
+      [
+        0.8411702470075718
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Is Increase in Govt Wiretapping Too Much",
+      [
+        0.8410283125577034
+      ]
+    ],
+    [
+      "ANES_2002_INTERVIEWER EVALUATION - PRE INTERVIEW",
+      [
+        0.8406897987735664
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – Closeness to Political Parties",
+      [
+        0.8397048474895027
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Non-Mainstream Beliefs",
+      [
+        0.8394857058137365
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CASI Module – TIPI",
+      [
+        0.839360707088543
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Electoral Integrity",
+      [
+        0.8391227762182378
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Mormon Religion",
+      [
+        0.8389692456637045
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CASI Module – Increased Economic Inequality",
+      [
+        0.8387697035263489
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Cognitive Style",
+      [
+        0.8385963461051753
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – Income Level and Assets",
+      [
+        0.8380103569443916
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CASI Module – R Income",
+      [
+        0.8375476804349666
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Religion Stereotypes",
+      [
+        0.8375203040154496
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Discuss Politics",
+      [
+        0.8366804854304706
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Effects of Health Care Law",
+      [
+        0.8365091356088328
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Party Differences",
+      [
+        0.8364906889582348
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Social Security Investments",
+      [
+        0.8363237368566951
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Equalitarianism",
+      [
+        0.8360636298472749
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Moral Traditionalism",
+      [
+        0.8360636298472749
+      ]
+    ],
+    [
+      "ANES_1966_CONGRESSIONAL, SENATORIAL AND GUBERNATORIAL",
+      [
+        0.8358943296539708
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Abortion (standard placements)",
+      [
+        0.8356950940543961
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Attitudes toward Supreme Court Authority",
+      [
+        0.8354722881330658
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Racial Resentment",
+      [
+        0.8351920292270959
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Iran Nuclear Weapon Development",
+      [
+        0.8350775466613894
+      ]
+    ]
+  ],
+  "ANES_1988_INCREASE|DECREASE SPENDING ON FEDERAL BUDGET PROGRAMS(SEE ALSO VARIABLES 348-352).csv": [],
+  "ANES_2000_K1- GROUP INFLUENCE TOO MUCH, TOO LITTLE, RIGHT AMT.csv": [
+    [
+      "ANES_2000_K1- GROUP INFLUENCE TOO MUCH, TOO LITTLE, RIGHT AMT",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_2000_S15 - CLINTON TRAITS",
+      [
+        0.9433593749999999
+      ]
+    ],
+    [
+      "ANES_2000_S14 - CLINTON AFFECTS",
+      [
+        0.9248046875000003
+      ]
+    ],
+    [
+      "ANES_2000_S1-S11 - CLINTON LEGACY",
+      [
+        0.923828125
+      ]
+    ],
+    [
+      "ANES_2000_Z1-Z24 - POLITICAL DISCUSSION IN SOCIAL NETWORK",
+      [
+        0.923828125
+      ]
+    ],
+    [
+      "ANES_2000_NONVOTER PREFERENCES FOR HOUSE, SENATE",
+      [
+        0.923828125
+      ]
+    ],
+    [
+      "ANES_2000_J2 - GOVERNMENT ROLE AND SELF-RELIANCE",
+      [
+        0.9228515625
+      ]
+    ],
+    [
+      "ANES_2000_Q14 - CLINTON AFFECTS",
+      [
+        0.9218750000000001
+      ]
+    ],
+    [
+      "ANES_2000_Q3-Q6 -  TRUST IN GOVERNMENT | MASS SUPPORT",
+      [
+        0.9199218750000001
+      ]
+    ],
+    [
+      "ANES_2000_Z25-Z29 - R'S NEIGHBORHOOD",
+      [
+        0.9189453124999999
+      ]
+    ],
+    [
+      "ANES_2000_V1-V4 - BUSH LEGACY",
+      [
+        0.9160156250000001
+      ]
+    ],
+    [
+      "ANES_2000_V5 - TRAITS - FORMER PRESIDENT BUSH",
+      [
+        0.9160156250000001
+      ]
+    ],
+    [
+      "ANES_2000_H1-H3 - R'S FINANCIAL SITUATION",
+      [
+        0.9140625
+      ]
+    ],
+    [
+      "ANES_2000_Q15 - CLINTON TRAITS",
+      [
+        0.908203125
+      ]
+    ],
+    [
+      "ANES_2000_L2 - DEFENSE SPENDING",
+      [
+        0.908203125
+      ]
+    ],
+    [
+      "ANES_2000_F1-F4 - MEMBER OF CONGRESS",
+      [
+        0.90625
+      ]
+    ],
+    [
+      "ANES_2000_F1-F3 - PRESIDENTIAL CANDIDATE AFFECTS",
+      [
+        0.9033203125
+      ]
+    ],
+    [
+      "ANES_2000_K15-K16 - CAMPAIGN FINANCE",
+      [
+        0.9023437499999999
+      ]
+    ],
+    [
+      "ANES_2000_Q7-Q8 - GOVERNMENT RESPONSIVENESS",
+      [
+        0.9023437499999999
+      ]
+    ],
+    [
+      "ANES_2000_E1-E4 - HOUSE CANDIDATE LIKES|DISLIKES",
+      [
+        0.9013671875
+      ]
+    ],
+    [
+      "ANES_2000_F6-F9 - MOST IMPORTANT PROBLEM(S)",
+      [
+        0.9003906250000001
+      ]
+    ],
+    [
+      "ANES_2000_Q1-Q11 - CLINTON LEGACY",
+      [
+        0.8994140625000002
+      ]
+    ],
+    [
+      "ANES_2000_P2 - ENVIRONMENTAL REGULATION",
+      [
+        0.8994140625000002
+      ]
+    ],
+    [
+      "ANES_2000_L6 - AFFIRMATIVE ACTION",
+      [
+        0.8984374999999999
+      ]
+    ],
+    [
+      "ANES_2000_K13-K14 -WORRY ABOUT WAR",
+      [
+        0.8974609375000002
+      ]
+    ],
+    [
+      "ANES_2000_N1 -  POWER OF THE FEDERAL GOVERNMENT",
+      [
+        0.8974609375000002
+      ]
+    ],
+    [
+      "ANES_2000_J11- DIFFERENCES BETWEEN PARTIES",
+      [
+        0.8974609375000002
+      ]
+    ],
+    [
+      "ANES_2000_Y5-Y17 - CHARACTERISTICS OF WORK COLLEAGUES",
+      [
+        0.8964843750000001
+      ]
+    ],
+    [
+      "ANES_2000_B1-B12 - PARTICIPATION, CONTRIBUTIONS",
+      [
+        0.8955078125000001
+      ]
+    ],
+    [
+      "ANES_2000_G11 - SERVICES|SPENDING TRADEOFF",
+      [
+        0.8935546875000002
+      ]
+    ],
+    [
+      "ANES_2000_K12 - WAYS TO REDUCE CRIME",
+      [
+        0.892578125
+      ]
+    ],
+    [
+      "ANES_2000_H1-H4 - NATIONAL ECONOMY",
+      [
+        0.890625
+      ]
+    ],
+    [
+      "ANES_2000_M6 - GUN CONTROL",
+      [
+        0.890625
+      ]
+    ],
+    [
+      "ANES_2000_R1-  GROUPS R FEELS CLOSE TO",
+      [
+        0.8896484375000001
+      ]
+    ],
+    [
+      "ANES_2000_M4 - PROTECT ENVIRONMENT",
+      [
+        0.8876953125
+      ]
+    ],
+    [
+      "ANES_2000_K2-K4 - PRES. CANDIDATE TRAITS",
+      [
+        0.8867187500000002
+      ]
+    ],
+    [
+      "ANES_2000_R5- QUALITIES TO ENCOURAGE IN CHILDREN",
+      [
+        0.8857421874999999
+      ]
+    ],
+    [
+      "ANES_2000_M3 -  POSITION OF BLACKS IN SOCIETY",
+      [
+        0.8857421874999999
+      ]
+    ],
+    [
+      "ANES_2000_Q1 -  EXTERNAL POLITICAL EFFICACY",
+      [
+        0.8857421874999999
+      ]
+    ],
+    [
+      "ANES_2000_Q2 -  MORAL TRADITIONALISM",
+      [
+        0.8857421874999999
+      ]
+    ],
+    [
+      "ANES_2000_P1 - EGALITARIANISM",
+      [
+        0.8857421874999999
+      ]
+    ],
+    [
+      "ANES_2000_N2-  POLITICAL EFFICACY OF THE RESPONDENT",
+      [
+        0.8857421874999999
+      ]
+    ],
+    [
+      "ANES_2000_L1 - SERVICES|SPENDING TRADEOFF",
+      [
+        0.8857421874999999
+      ]
+    ],
+    [
+      "ANES_2000_P6-P7 - FAIR AND PREFERENTIAL TREATMENT FOR BLACKS",
+      [
+        0.8857421874999999
+      ]
+    ],
+    [
+      "ANES_2000_N3 - SCHOOL INTEGRATION",
+      [
+        0.8847656250000001
+      ]
+    ],
+    [
+      "ANES_2000_K2 - OFFICE RECOGNITION OF POLITICAL FIGURES",
+      [
+        0.8837890625
+      ]
+    ],
+    [
+      "ANES_2000_J3-J10 -  MEDIA|INTERNET EXPOSURE AND INFORMATION",
+      [
+        0.8837890625
+      ]
+    ],
+    [
+      "ANES_2000_E5-E7 - POLITICAL KNOWLEDGE (HOUSE AND SENATE)",
+      [
+        0.8828125000000001
+      ]
+    ],
+    [
+      "ANES_2000_H9-H12 - NATION  STRENGTH, IMMIGRATION, IMPORTS, ISOLATION",
+      [
+        0.8828125000000001
+      ]
+    ],
+    [
+      "ANES_2000_K8-K10 - TRUST IN PEOPLE",
+      [
+        0.8818359374999998
+      ]
+    ]
+  ],
+  "ANES_1982_POSITIONS ON GUARANTEED JOB SCALE.csv": [],
+  "ANES_1976_GOVERNMENT ECONOMIC POLICY.csv": [],
+  "ANES_1988_SENATE CAMPAIGN.csv": [],
+  "ANES_1972_R'S PERSONAL FINANCIAL SITUATION.csv": [],
+  "ANES_1988_POWER OF GOVERNMENT.csv": [],
+  "ANES_1986_CONTACT WITH U.S. HOUSE CANDIDATE.csv": [],
+  "ANES_1948_CONTENTS.csv": [
+    [
+      "ANES_1948_CONTENTS",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_1966_STUDY PROCEDURE AND SAMPLING",
+      [
+        0.7958984375
+      ]
+    ],
+    [
+      "ANES_1958_CODERS EVALUATION OF INTERVIEWER",
+      [
+        0.7919921875
+      ]
+    ],
+    [
+      "ANES_1958_STUDY PROCEDURE AND SAMPLING",
+      [
+        0.7900390625
+      ]
+    ],
+    [
+      "ANES_1980_POST CONDITIONS OF INTERVIEW",
+      [
+        0.7705078125
+      ]
+    ],
+    [
+      "ANES_2012_2012 CANDIDATES AND RACES (House, Senate, Gubernatorial)",
+      [
+        0.76953125
+      ]
+    ],
+    [
+      "ANES_2012_2012 FTF DWELLING UNIT DESCRIPTION",
+      [
+        0.76953125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST DHS Political Engagement",
+      [
+        0.76953125
+      ]
+    ],
+    [
+      "ANES_2012_2012 SAMPLE VARS",
+      [
+        0.767578125
+      ]
+    ],
+    [
+      "ANES_2016_PRE INTERVIEWER OBSERVATIONS",
+      [
+        0.765625
+      ]
+    ],
+    [
+      "ANES_2020_GENERAL NON‐SURVEY VARIABLES",
+      [
+        0.7646484375
+      ]
+    ],
+    [
+      "ANES_1960_STUDY PROCEDURE AND SAMPLING",
+      [
+        0.7607421875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Power and Role of Federal Government",
+      [
+        0.7607421875
+      ]
+    ],
+    [
+      "ANES_2016_POST INTERVIEWER OBSERVATIONS",
+      [
+        0.759765625
+      ]
+    ],
+    [
+      "ANES_2004_PRE-ELECTION INTERVIEWER OBSERVATION",
+      [
+        0.7587890625
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Demographics – Social Class",
+      [
+        0.7587890625
+      ]
+    ],
+    [
+      "ANES_2016_SAMPLE VARIABLES",
+      [
+        0.7587890625
+      ]
+    ],
+    [
+      "ANES_2020_SAMPLE VARIABLES",
+      [
+        0.7587890625
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Respondent Religion",
+      [
+        0.7587890625
+      ]
+    ],
+    [
+      "ANES_2000_G11 - SERVICES|SPENDING TRADEOFF",
+      [
+        0.7578125
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Demographics – Self-Identification of R Ethnicity-Nationality",
+      [
+        0.7578125
+      ]
+    ],
+    [
+      "ANES_2000_J3-J10 -  MEDIA|INTERNET EXPOSURE AND INFORMATION",
+      [
+        0.7568359375
+      ]
+    ],
+    [
+      "ANES_2000_P1 - WOMEN'S ROLE",
+      [
+        0.7568359375
+      ]
+    ],
+    [
+      "ANES_2016_CANDIDATES AND RACES",
+      [
+        0.7568359375
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Demographics – Nativity",
+      [
+        0.7568359375
+      ]
+    ],
+    [
+      "ANES_2012_2012 FTF POST-ELECTION IWR OBSERVATIONS",
+      [
+        0.7568359375
+      ]
+    ],
+    [
+      "ANES_2000_POST COVERSHEET VARIABLES",
+      [
+        0.755859375
+      ]
+    ],
+    [
+      "ANES_1982_TYPE OF POLITICAL RACE",
+      [
+        0.755859375
+      ]
+    ],
+    [
+      "ANES_1994_1.SAMPLING INFORMATION",
+      [
+        0.7548828125
+      ]
+    ],
+    [
+      "ANES_2000_P2 - ENVIRONMENTAL REGULATION",
+      [
+        0.7548828125
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE CASI Module – R Political Knowledge",
+      [
+        0.7548828125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – State of the Economy",
+      [
+        0.7548828125
+      ]
+    ],
+    [
+      "ANES_2012_2012 FTF PRE-ELECTION IWR OBSERVATIONS",
+      [
+        0.7548828125
+      ]
+    ],
+    [
+      "ANES_2000_M4 - PROTECT ENVIRONMENT",
+      [
+        0.7548828125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Modern Sexism",
+      [
+        0.7548828125
+      ]
+    ],
+    [
+      "ANES_2000_A1-A4 - CURRENT CAMPAIGN AND POLITICS",
+      [
+        0.7529296875
+      ]
+    ],
+    [
+      "ANES_1994_FEELING THERMOMETER PROBES",
+      [
+        0.7529296875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST U.S. Immigration",
+      [
+        0.7529296875
+      ]
+    ],
+    [
+      "ANES_2000_K12 - WAYS TO REDUCE CRIME",
+      [
+        0.751953125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Is Increase in Govt Wiretapping Too Much",
+      [
+        0.751953125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Discuss Politics",
+      [
+        0.751953125
+      ]
+    ],
+    [
+      "ANES_2000_Z1-Z24 - POLITICAL DISCUSSION IN SOCIAL NETWORK",
+      [
+        0.7509765625
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE CASI Module – Type of Media Sources Used to Follow Pres Campaign",
+      [
+        0.7509765625
+      ]
+    ],
+    [
+      "ANES_2000_B1-B2 - CANDIDATE RECALL",
+      [
+        0.7509765625
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Liberal-Conservative 7pt Scale Placement",
+      [
+        0.7509765625
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Liberal-Conservative 7pt Scale Placement",
+      [
+        0.7509765625
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Mormon Religion",
+      [
+        0.7509765625
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Authoritarianism (children’s traits)",
+      [
+        0.7509765625
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Hispanic Rs – Ethnic Assimilation and Preservation",
+      [
+        0.75
+      ]
+    ],
+    [
+      "ANES_1994_1.HOUSEHOLD INCOME",
+      [
+        0.75
+      ]
+    ]
+  ],
+  "ANES_1984_POSITIONS ON MINORITY AID|NO AID SCALE.csv": [],
+  "ANES_1968_GOVERNMENT'S ROLE IN SCHOOL INTEGRATION.csv": [],
+  "ANES_1972_PREDICTIONS, CONCERN ABOUT PRESIDENTIAL RACE.csv": [],
+  "ANES_1952_POLITICAL ACTIVITY.csv": [],
+  "ANES_2000_A6-A11 - MEDIA.csv": [
+    [
+      "ANES_2000_A6-A11 - MEDIA",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_1998_SURVEY SECTION A",
+      [
+        0.9046567842942547
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Media Exposure",
+      [
+        0.8707108692002283
+      ]
+    ],
+    [
+      "ANES_2000_S1-S5 - RELIGIOSITY",
+      [
+        0.8652581665509521
+      ]
+    ],
+    [
+      "ANES_2000_Y5-Y17 - CHARACTERISTICS OF WORK COLLEAGUES",
+      [
+        0.8627877705574518
+      ]
+    ],
+    [
+      "ANES_2000_T1-T4 - CAMPAIGN MEDIA EXPOSURE",
+      [
+        0.8583757229448713
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Religious Attitudes and Practice",
+      [
+        0.8578437812259169
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Modern Sexism",
+      [
+        0.8537170494246872
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Presidential Candidate Affects",
+      [
+        0.8535592027137243
+      ]
+    ],
+    [
+      "ANES_2000_J3-J10 -  MEDIA|INTERNET EXPOSURE AND INFORMATION",
+      [
+        0.8526682688407534
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST R Patriotism",
+      [
+        0.8523740614735229
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Is Increase in Govt Wiretapping Too Much",
+      [
+        0.851838139839553
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Mobilization",
+      [
+        0.8515179113953509
+      ]
+    ],
+    [
+      "ANES_2000_R1-R3 - OPINIONS AND COMPLEX DECISIONS",
+      [
+        0.8514797580245828
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE CASI Module – Social Media Used to Follow Pres Campaign",
+      [
+        0.8513305286053502
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Hispanic Rs – Ethnic Assimilation and Preservation",
+      [
+        0.850950248892033
+      ]
+    ],
+    [
+      "ANES_2000_P3 - TURNOUT|VOTE INTENT",
+      [
+        0.8507499541296757
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Campaign Media Exposure",
+      [
+        0.8498139986330049
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Efficacy – (splice) Standard | Revised",
+      [
+        0.8482650920729977
+      ]
+    ],
+    [
+      "ANES_2016_PRE INTERVIEWER OBSERVATIONS",
+      [
+        0.8474869769367777
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST DHS Terrorism Threat",
+      [
+        0.8473341270488526
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Social Group Links",
+      [
+        0.8471800647864268
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Abortion Approval – Scenarios",
+      [
+        0.8471658410100449
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – Closeness to Political Parties",
+      [
+        0.8468093401004096
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST R Conditions of Economic Peril",
+      [
+        0.8467111847589075
+      ]
+    ],
+    [
+      "ANES_2016_POST INTERVIEWER OBSERVATIONS",
+      [
+        0.8462606543734473
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – Income Level and Assets",
+      [
+        0.8462217847876318
+      ]
+    ],
+    [
+      "ANES_2000_E5-E7 - POLITICAL KNOWLEDGE (HOUSE AND SENATE)",
+      [
+        0.8461158805951883
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Discuss Politics",
+      [
+        0.846038400097632
+      ]
+    ],
+    [
+      "ANES_2000_Z25-Z29 - R'S NEIGHBORHOOD",
+      [
+        0.8458334383421703
+      ]
+    ],
+    [
+      "ANES_2000_H1-H3 - R'S FINANCIAL SITUATION",
+      [
+        0.8452374669414097
+      ]
+    ],
+    [
+      "ANES_2000_A1-A4 - CURRENT CAMPAIGN AND POLITICS",
+      [
+        0.8448710618753033
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Women’s Role",
+      [
+        0.8445667592314564
+      ]
+    ],
+    [
+      "ANES_2000_K8-K10 - TRUST IN PEOPLE",
+      [
+        0.844502733718988
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST U.S. Woman President",
+      [
+        0.8443877314519195
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Trust in Government",
+      [
+        0.8442579615609946
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Mormon Religion",
+      [
+        0.8441532462617574
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Reducing Federal Budget Deficit",
+      [
+        0.8441057083813436
+      ]
+    ],
+    [
+      "ANES_2000_G11 - SERVICES|SPENDING TRADEOFF",
+      [
+        0.8435386132532272
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – Mobilization",
+      [
+        0.8435282767301354
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Non-Mainstream Beliefs",
+      [
+        0.8435146787831896
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Health Care and Health",
+      [
+        0.8435012432300668
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Power and Role of Federal Government",
+      [
+        0.8432638984528014
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CASI Module – Importance of Racial and Religious Identity",
+      [
+        0.8431285518860409
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Tax on Millionaires",
+      [
+        0.842469044013683
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Outsourcing of jobs",
+      [
+        0.8421164829928052
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE CASI Module – R Wealth Assets",
+      [
+        0.8420245362817437
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – How Hard to Find Another Job",
+      [
+        0.8410634612115095
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Public Engagement",
+      [
+        0.8406006404972034
+      ]
+    ],
+    [
+      "ANES_2000_E1-E3 - R FINANCIAL SITUATION",
+      [
+        0.8405009721708413
+      ]
+    ]
+  ],
+  "ANES_1972_LIBERAL|CONSERVATIVE POLITICAL VIEWS SCALE.csv": [],
+  "ANES_1990_LABOR UNION POSITION.csv": [
+    [
+      "ANES_1988_LABOR UNION POSITION",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_1990_LABOR UNION POSITION",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_1986_R'S FAMILY INCOME AND SOCIAL CLASS",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_1994_1.HOUSEHOLD INCOME",
+      [
+        0.900390625
+      ]
+    ],
+    [
+      "ANES_1966_CONGRESSIONAL, SENATORIAL AND GUBERNATORIAL",
+      [
+        0.875
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Trust in Government",
+      [
+        0.8720703125
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE U.S. Immigration Policies",
+      [
+        0.869140625
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Demographics – Hispanic Rs Background and Language",
+      [
+        0.8681640625
+      ]
+    ],
+    [
+      "ANES_2000_Y5-Y17 - CHARACTERISTICS OF WORK COLLEAGUES",
+      [
+        0.8603515625
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Presidential Candidate Affects",
+      [
+        0.859375
+      ]
+    ],
+    [
+      "ANES_2012_2012 FTF DWELLING UNIT DESCRIPTION",
+      [
+        0.857421875
+      ]
+    ],
+    [
+      "ANES_1986_R'S OPINION ON RECENT TAX LAW CHANGES",
+      [
+        0.8564453125
+      ]
+    ],
+    [
+      "ANES_2020_GENERAL NON‐SURVEY VARIABLES",
+      [
+        0.8564453125
+      ]
+    ],
+    [
+      "ANES_1966_STUDY PROCEDURE AND SAMPLING",
+      [
+        0.8564453125
+      ]
+    ],
+    [
+      "ANES_1976_R'S HOUSING",
+      [
+        0.853515625
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CASI Module – Influence of Racial Groups",
+      [
+        0.8525390625
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Efficacy – (splice) Standard | Revised",
+      [
+        0.8515625
+      ]
+    ],
+    [
+      "ANES_1990_PROBE INDICATORS",
+      [
+        0.849609375
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Efficacy – (splice) Standard | Revised",
+      [
+        0.849609375
+      ]
+    ],
+    [
+      "ANES_1994_FEELING THERMOMETER PROBES",
+      [
+        0.8486328125
+      ]
+    ],
+    [
+      "ANES_1972_PERSONAL DATA",
+      [
+        0.84765625
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Is Increase in Govt Wiretapping Too Much",
+      [
+        0.84765625
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Modern Sexism",
+      [
+        0.84765625
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Campaign Interest",
+      [
+        0.8466796875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Hispanic Rs – Ethnic Assimilation and Preservation",
+      [
+        0.845703125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Campaign Media Exposure",
+      [
+        0.84375
+      ]
+    ],
+    [
+      "ANES_2000_B1-B2 - CANDIDATE RECALL",
+      [
+        0.841796875
+      ]
+    ],
+    [
+      "ANES_2000_A1-A4 - CURRENT CAMPAIGN AND POLITICS",
+      [
+        0.841796875
+      ]
+    ],
+    [
+      "ANES_2016_POST INTERVIEWER OBSERVATIONS",
+      [
+        0.8408203125
+      ]
+    ],
+    [
+      "ANES_2000_M4 - PROTECT ENVIRONMENT",
+      [
+        0.83984375
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Authoritarianism (children’s traits)",
+      [
+        0.83984375
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Affirmative Action in Hiring",
+      [
+        0.83984375
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST R Conditions of Economic Peril",
+      [
+        0.8388671875
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Health Care and Health",
+      [
+        0.8388671875
+      ]
+    ],
+    [
+      "ANES_2012_2012 FTF RECONTACT MODULE",
+      [
+        0.8388671875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST U.S. Immigration",
+      [
+        0.8388671875
+      ]
+    ],
+    [
+      "ANES_2012_2012 FTF PRE-ELECTION IWR OBSERVATIONS",
+      [
+        0.8388671875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – Level of Public Expenditures",
+      [
+        0.837890625
+      ]
+    ],
+    [
+      "ANES_2000_S1-S5 - RELIGIOSITY",
+      [
+        0.837890625
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Religious Attitudes and Practice",
+      [
+        0.837890625
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Demographics – Self-Identification of R Ethnicity-Nationality",
+      [
+        0.837890625
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Abortion (standard placements)",
+      [
+        0.8369140625
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Power and Role of Federal Government",
+      [
+        0.8359375
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Should Access to Guns be Easier or Harder (Gun Control)",
+      [
+        0.8359375
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Mobilization",
+      [
+        0.8359375
+      ]
+    ],
+    [
+      "ANES_2000_POST COVERSHEET VARIABLES",
+      [
+        0.8359375
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Non-Mainstream Beliefs",
+      [
+        0.8349609375
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CASI Module – Importance of Racial and Religious Identity",
+      [
+        0.8349609375
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST R Patriotism",
+      [
+        0.8349609375
+      ]
+    ],
+    [
+      "ANES_2000_F6-F9 - MOST IMPORTANT PROBLEM(S)",
+      [
+        0.8349609375
+      ]
+    ]
+  ],
+  "ANES_1988_POSITION ON IMPROVING SOC|ECON STATUS OF MINORITIES SCALE.csv": [],
+  "ANES_1956_ELECTION PREDICTIONS BY RESPONDENT.csv": [],
+  "ANES_1994_1.HOUSEHOLD INCOME.csv": [
+    [
+      "ANES_1994_1.HOUSEHOLD INCOME",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_1994_R'S OPINION ON STATUS OF BLACKS",
+      [
+        0.986060445142224
+      ]
+    ],
+    [
+      "ANES_1994_1.SAMPLING INFORMATION",
+      [
+        0.8291583898952928
+      ]
+    ],
+    [
+      "ANES_1988_R'S EDUCATION",
+      [
+        0.8134765625
+      ]
+    ],
+    [
+      "ANES_1988_WIFE|PARTNER OF R OCCUPATION",
+      [
+        0.8134765625
+      ]
+    ],
+    [
+      "ANES_1988_LABOR UNION POSITION",
+      [
+        0.8097128392785098
+      ]
+    ],
+    [
+      "ANES_1990_LABOR UNION POSITION",
+      [
+        0.8097128392785098
+      ]
+    ],
+    [
+      "ANES_1986_R'S FAMILY INCOME AND SOCIAL CLASS",
+      [
+        0.8097128392785098
+      ]
+    ],
+    [
+      "ANES_1976_R'S HOUSING",
+      [
+        0.7997271745692277
+      ]
+    ],
+    [
+      "ANES_1958_BUILT MEASURES",
+      [
+        0.7962823530371155
+      ]
+    ],
+    [
+      "ANES_1966_CONGRESSIONAL, SENATORIAL AND GUBERNATORIAL",
+      [
+        0.7903235424132188
+      ]
+    ],
+    [
+      "ANES_1966_STUDY PROCEDURE AND SAMPLING",
+      [
+        0.7902426843690428
+      ]
+    ],
+    [
+      "ANES_2000_B1-B2 - CANDIDATE RECALL",
+      [
+        0.7891930747513846
+      ]
+    ],
+    [
+      "ANES_1980_PRE CONDITIONS OF INTERVIEW",
+      [
+        0.7890625
+      ]
+    ],
+    [
+      "ANES_1972_PERSONAL DATA",
+      [
+        0.7886854323764437
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Demographics – Self-Identification of R Ethnicity-Nationality",
+      [
+        0.7881348180767604
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Mobilization",
+      [
+        0.787004873446015
+      ]
+    ],
+    [
+      "ANES_2000_A1-A4 - CURRENT CAMPAIGN AND POLITICS",
+      [
+        0.786695113248
+      ]
+    ],
+    [
+      "ANES_2000_Y5-Y17 - CHARACTERISTICS OF WORK COLLEAGUES",
+      [
+        0.7857481763668254
+      ]
+    ],
+    [
+      "ANES_1994_FEELING THERMOMETER PROBES",
+      [
+        0.7843763973046919
+      ]
+    ],
+    [
+      "ANES_2020_GENERAL NON‐SURVEY VARIABLES",
+      [
+        0.7834400509399184
+      ]
+    ],
+    [
+      "ANES_2000_F6-F9 - MOST IMPORTANT PROBLEM(S)",
+      [
+        0.7816168499751174
+      ]
+    ],
+    [
+      "ANES_1970_SEX, RACE, RELATIONSHIP TO HEAD",
+      [
+        0.7815350332170908
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CASI Module Test Screens",
+      [
+        0.7812959459871139
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CASI Module – Importance of Racial and Religious Identity",
+      [
+        0.7812296086631333
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE U.S. Immigration Policies",
+      [
+        0.7811032521526199
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Affirmative Action in Hiring",
+      [
+        0.7810426387311765
+      ]
+    ],
+    [
+      "ANES_2000_POST COVERSHEET VARIABLES",
+      [
+        0.7798011634116875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST DHS Political Engagement",
+      [
+        0.779642373600657
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Hispanic Rs – Ethnic Assimilation and Preservation",
+      [
+        0.7791622559060181
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Respondent Religion",
+      [
+        0.7789592442067542
+      ]
+    ],
+    [
+      "ANES_1960_STUDY PROCEDURE AND SAMPLING",
+      [
+        0.7784933854134172
+      ]
+    ],
+    [
+      "ANES_2000_M4 - PROTECT ENVIRONMENT",
+      [
+        0.778155824072249
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CASI Module – Influence of Racial Groups",
+      [
+        0.7780443958389285
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Campaign Media Exposure",
+      [
+        0.7777046666335548
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Efficacy – (splice) Standard | Revised",
+      [
+        0.7774599387342904
+      ]
+    ],
+    [
+      "ANES_2000_P1 - WOMEN'S ROLE",
+      [
+        0.7770580889333505
+      ]
+    ],
+    [
+      "ANES_1990_PROBE INDICATORS",
+      [
+        0.7769919138383942
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Power and Role of Federal Government",
+      [
+        0.7769454524560138
+      ]
+    ],
+    [
+      "ANES_2012_2012 FTF DWELLING UNIT DESCRIPTION",
+      [
+        0.7763095387672742
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Abortion Approval – Scenarios",
+      [
+        0.7762107063806162
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Children and School Enrollment",
+      [
+        0.7761742475934743
+      ]
+    ],
+    [
+      "ANES_2000_H1-H3 - R'S FINANCIAL SITUATION",
+      [
+        0.7760841907068672
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST U.S. Immigration",
+      [
+        0.775803044145261
+      ]
+    ],
+    [
+      "ANES_1986_R'S OPINION ON RECENT TAX LAW CHANGES",
+      [
+        0.7757865754360704
+      ]
+    ],
+    [
+      "ANES_2000_H1-H4 - NATIONAL ECONOMY",
+      [
+        0.7756644561689024
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Trust in Government",
+      [
+        0.7756243194117518
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Authoritarianism (children’s traits)",
+      [
+        0.7751998486482572
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Modern Sexism",
+      [
+        0.7751201313782827
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Is Increase in Govt Wiretapping Too Much",
+      [
+        0.7751024837329138
+      ]
+    ]
+  ],
+  "ANES_1968_NEIGHBORHOOD SEGREGATION.csv": [],
+  "ANES_1964_THE U.S. AS A WORLD POWER.csv": [],
+  "ANES_1988_R'S FAMILY POSITION AND SOCIAL CLASS.csv": [],
+  "ANES_2000_H9-H12 - NATION  STRENGTH, IMMIGRATION, IMPORTS, ISOLATION.csv": [
+    [
+      "ANES_2000_H9-H12 - NATION  STRENGTH, IMMIGRATION, IMPORTS, ISOLATION",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_2000_K12 - WAYS TO REDUCE CRIME",
+      [
+        0.8575583015662636
+      ]
+    ],
+    [
+      "ANES_2000_S1-S11 - CLINTON LEGACY",
+      [
+        0.8574924518415022
+      ]
+    ],
+    [
+      "ANES_2000_Q1-Q11 - CLINTON LEGACY",
+      [
+        0.8527045010102899
+      ]
+    ],
+    [
+      "ANES_2000_H1-H3 - R'S FINANCIAL SITUATION",
+      [
+        0.8522169401858412
+      ]
+    ],
+    [
+      "ANES_2000_L5 - AID TO BLACKS",
+      [
+        0.8511939684815536
+      ]
+    ],
+    [
+      "ANES_2000_L3 - GOVERNMENT MEDICAL INSURANCE",
+      [
+        0.8509628746800221
+      ]
+    ],
+    [
+      "ANES_2000_G11 - SERVICES|SPENDING TRADEOFF",
+      [
+        0.8505200111198115
+      ]
+    ],
+    [
+      "ANES_2000_L6 - AFFIRMATIVE ACTION",
+      [
+        0.8498430921742872
+      ]
+    ],
+    [
+      "ANES_2000_H1-H4 - NATIONAL ECONOMY",
+      [
+        0.8480624563585528
+      ]
+    ],
+    [
+      "ANES_2000_P2 - ENVIRONMENTAL REGULATION",
+      [
+        0.8469046929070381
+      ]
+    ],
+    [
+      "ANES_2000_L2 - DEFENSE SPENDING",
+      [
+        0.8452270844766787
+      ]
+    ],
+    [
+      "ANES_2000_M4 - PROTECT ENVIRONMENT",
+      [
+        0.8445850324109248
+      ]
+    ],
+    [
+      "ANES_2000_M6 - GUN CONTROL",
+      [
+        0.844446022199514
+      ]
+    ],
+    [
+      "ANES_2000_Y5-Y17 - CHARACTERISTICS OF WORK COLLEAGUES",
+      [
+        0.8443518002726987
+      ]
+    ],
+    [
+      "ANES_2000_V1-V4 - BUSH LEGACY",
+      [
+        0.8443147827120716
+      ]
+    ],
+    [
+      "ANES_2000_L7-L9 - FEDERAL BUDGET",
+      [
+        0.8442922377538405
+      ]
+    ],
+    [
+      "ANES_2000_L1 - SERVICES|SPENDING TRADEOFF",
+      [
+        0.8437758076436407
+      ]
+    ],
+    [
+      "ANES_2000_L4 - GUARANTEED JOB|STANDARD OF LIVING",
+      [
+        0.8422170130420112
+      ]
+    ],
+    [
+      "ANES_2000_P6-P7 - FAIR AND PREFERENTIAL TREATMENT FOR BLACKS",
+      [
+        0.8418439175797727
+      ]
+    ],
+    [
+      "ANES_2000_A12 - PRESIDENTIAL APPROVAL",
+      [
+        0.8415303422257785
+      ]
+    ],
+    [
+      "ANES_2000_K15-K16 - CAMPAIGN FINANCE",
+      [
+        0.8387828633038903
+      ]
+    ],
+    [
+      "ANES_2000_V5 - TRAITS - FORMER PRESIDENT BUSH",
+      [
+        0.8386992432738799
+      ]
+    ],
+    [
+      "ANES_2000_R1-R3 - OPINIONS AND COMPLEX DECISIONS",
+      [
+        0.8384411708279513
+      ]
+    ],
+    [
+      "ANES_2000_P1 - WOMEN'S ROLE",
+      [
+        0.838231580609791
+      ]
+    ],
+    [
+      "ANES_2000_Q15 - CLINTON TRAITS",
+      [
+        0.8380912296395554
+      ]
+    ],
+    [
+      "ANES_2000_S15 - CLINTON TRAITS",
+      [
+        0.8380912296395554
+      ]
+    ],
+    [
+      "ANES_2000_H13 - APPROVE PRESIDENT HANDLING OF FOREIGN RELATIONS",
+      [
+        0.837895925264797
+      ]
+    ],
+    [
+      "ANES_2000_N1 - SCHOOL VOUCHERS",
+      [
+        0.8376415285163296
+      ]
+    ],
+    [
+      "ANES_2000_NONVOTER PREFERENCES FOR HOUSE, SENATE",
+      [
+        0.8376190822702866
+      ]
+    ],
+    [
+      "ANES_2000_J2 - GOVERNMENT ROLE AND SELF-RELIANCE",
+      [
+        0.8376041279157908
+      ]
+    ],
+    [
+      "ANES_2000_Z1-Z24 - POLITICAL DISCUSSION IN SOCIAL NETWORK",
+      [
+        0.8367988802609463
+      ]
+    ],
+    [
+      "ANES_2000_M1-M3 - ABORTION",
+      [
+        0.8354487028432322
+      ]
+    ],
+    [
+      "ANES_2000_K2-K4 - PRES. CANDIDATE TRAITS",
+      [
+        0.8354081365189715
+      ]
+    ],
+    [
+      "ANES_2000_N1 -  POWER OF THE FEDERAL GOVERNMENT",
+      [
+        0.8350599748738785
+      ]
+    ],
+    [
+      "ANES_2000_B1-B12 - PARTICIPATION, CONTRIBUTIONS",
+      [
+        0.8348620485022598
+      ]
+    ],
+    [
+      "ANES_2000_N5 - DEATH PENALTY",
+      [
+        0.8336376604001912
+      ]
+    ],
+    [
+      "ANES_2000_N3 - SCHOOL INTEGRATION",
+      [
+        0.8332084022317693
+      ]
+    ],
+    [
+      "ANES_2000_P3 - TURNOUT|VOTE INTENT",
+      [
+        0.8331252933904089
+      ]
+    ],
+    [
+      "ANES_2000_Q3-Q6 -  TRUST IN GOVERNMENT | MASS SUPPORT",
+      [
+        0.8314943553021339
+      ]
+    ],
+    [
+      "ANES_2000_A1-A4 - CURRENT CAMPAIGN AND POLITICS",
+      [
+        0.8314189143176614
+      ]
+    ],
+    [
+      "ANES_2000_F1-F4 - MEMBER OF CONGRESS",
+      [
+        0.8295632040860881
+      ]
+    ],
+    [
+      "ANES_2000_K1- GROUP INFLUENCE TOO MUCH, TOO LITTLE, RIGHT AMT",
+      [
+        0.8294231353804982
+      ]
+    ],
+    [
+      "ANES_2000_E5-E7 - POLITICAL KNOWLEDGE (HOUSE AND SENATE)",
+      [
+        0.8287355727782956
+      ]
+    ],
+    [
+      "ANES_2000_Z1-Z9 - ADDITIONAL DEMOGRAPHICS",
+      [
+        0.8285408302591937
+      ]
+    ],
+    [
+      "ANES_2000_G1-G10 - LIBERAL-CONSERVATIVE PLACEMENT SELF, CLINTON, GORE, BUCHANAN AND PARTIES",
+      [
+        0.8282679330262817
+      ]
+    ],
+    [
+      "ANES_2000_S1-S5 - RELIGIOSITY",
+      [
+        0.8282651072172399
+      ]
+    ],
+    [
+      "ANES_2000_K1 - PARTY ID",
+      [
+        0.8281278653709649
+      ]
+    ],
+    [
+      "ANES_2000_H5 - APPROVE PRESIDENT HANDLING OF ECONOMY",
+      [
+        0.8279207696549284
+      ]
+    ],
+    [
+      "ANES_2000_G12 - ABORTION",
+      [
+        0.8273260596971852
+      ]
+    ]
+  ],
+  "ANES_1978_HOUSE NON-INCUMBENT CANDIDATE COMPONENT.csv": [],
+  "ANES_2000_H5 - APPROVE PRESIDENT HANDLING OF ECONOMY.csv": [
+    [
+      "ANES_2000_H5 - APPROVE PRESIDENT HANDLING OF ECONOMY",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_2000_H13 - APPROVE PRESIDENT HANDLING OF FOREIGN RELATIONS",
+      [
+        0.9264046134367971
+      ]
+    ],
+    [
+      "ANES_2000_F1-F4 - MEMBER OF CONGRESS",
+      [
+        0.8848465391918506
+      ]
+    ],
+    [
+      "ANES_2000_A12 - PRESIDENTIAL APPROVAL",
+      [
+        0.8823228676912038
+      ]
+    ],
+    [
+      "ANES_2000_B3 - CONGRESSIONAL APPROVAL",
+      [
+        0.880584449636854
+      ]
+    ],
+    [
+      "ANES_2000_N5 - DEATH PENALTY",
+      [
+        0.8747322082067235
+      ]
+    ],
+    [
+      "ANES_2000_L7-L9 - FEDERAL BUDGET",
+      [
+        0.8742146779389728
+      ]
+    ],
+    [
+      "ANES_2000_P6-P7 - FAIR AND PREFERENTIAL TREATMENT FOR BLACKS",
+      [
+        0.8666157515724164
+      ]
+    ],
+    [
+      "ANES_2000_M1-M3 - ABORTION",
+      [
+        0.8638080767670944
+      ]
+    ],
+    [
+      "ANES_2000_L6 - AFFIRMATIVE ACTION",
+      [
+        0.8585076386044408
+      ]
+    ],
+    [
+      "ANES_2000_F1-F3 - PRESIDENTIAL CANDIDATE AFFECTS",
+      [
+        0.8567831564719496
+      ]
+    ],
+    [
+      "ANES_2000_M5 - HOMOSEXUALS IN THE ARMED FORCES",
+      [
+        0.8543341072232141
+      ]
+    ],
+    [
+      "ANES_2000_L4 - GUARANTEED JOB|STANDARD OF LIVING",
+      [
+        0.8508665646775558
+      ]
+    ],
+    [
+      "ANES_2000_NONVOTER PREFERENCES FOR HOUSE, SENATE",
+      [
+        0.8484648112876264
+      ]
+    ],
+    [
+      "ANES_2000_Y5-Y17 - CHARACTERISTICS OF WORK COLLEAGUES",
+      [
+        0.84803047345617
+      ]
+    ],
+    [
+      "ANES_2000_K1 - PARTY ID",
+      [
+        0.845538531829498
+      ]
+    ],
+    [
+      "ANES_2000_P1 - WOMEN'S ROLE",
+      [
+        0.8435492927256445
+      ]
+    ],
+    [
+      "ANES_2000_K11 - DISCRIMINATION AGAINST HOMOSEXUALS",
+      [
+        0.842809731269072
+      ]
+    ],
+    [
+      "ANES_2000_V5 - TRAITS - FORMER PRESIDENT BUSH",
+      [
+        0.8415674190908666
+      ]
+    ],
+    [
+      "ANES_2000_N3 - SCHOOL INTEGRATION",
+      [
+        0.8397963848398481
+      ]
+    ],
+    [
+      "ANES_2000_S1-S11 - CLINTON LEGACY",
+      [
+        0.8395731216074013
+      ]
+    ],
+    [
+      "ANES_2000_H1-H3 - R'S FINANCIAL SITUATION",
+      [
+        0.8391527352912664
+      ]
+    ],
+    [
+      "ANES_2000_P3 - TURNOUT|VOTE INTENT",
+      [
+        0.8388879554015629
+      ]
+    ],
+    [
+      "ANES_2000_V1-V4 - BUSH LEGACY",
+      [
+        0.8379471328985238
+      ]
+    ],
+    [
+      "ANES_2000_Z1-Z24 - POLITICAL DISCUSSION IN SOCIAL NETWORK",
+      [
+        0.8375990816931896
+      ]
+    ],
+    [
+      "ANES_2000_C5-C8- VOTE FOR PRESIDENT",
+      [
+        0.8368413796852971
+      ]
+    ],
+    [
+      "ANES_2000_Q1-Q11 - CLINTON LEGACY",
+      [
+        0.8361670490877413
+      ]
+    ],
+    [
+      "ANES_2000_P2 - ENVIRONMENTAL REGULATION",
+      [
+        0.8358978187878661
+      ]
+    ],
+    [
+      "ANES_2000_G11 - SERVICES|SPENDING TRADEOFF",
+      [
+        0.835457257058751
+      ]
+    ],
+    [
+      "ANES_2000_K12 - WAYS TO REDUCE CRIME",
+      [
+        0.8350477985125098
+      ]
+    ],
+    [
+      "ANES_2000_B1-B12 - PARTICIPATION, CONTRIBUTIONS",
+      [
+        0.8349061089040498
+      ]
+    ],
+    [
+      "ANES_2000_S15 - CLINTON TRAITS",
+      [
+        0.8345787936136929
+      ]
+    ],
+    [
+      "ANES_2000_L3 - GOVERNMENT MEDICAL INSURANCE",
+      [
+        0.8319620200273021
+      ]
+    ],
+    [
+      "ANES_2000_A1-A4 - CURRENT CAMPAIGN AND POLITICS",
+      [
+        0.8317813746080847
+      ]
+    ],
+    [
+      "ANES_2000_N1 -  POWER OF THE FEDERAL GOVERNMENT",
+      [
+        0.8313950375928945
+      ]
+    ],
+    [
+      "ANES_2000_F6-F9 - MOST IMPORTANT PROBLEM(S)",
+      [
+        0.8312338670413826
+      ]
+    ],
+    [
+      "ANES_2000_M6 - GUN CONTROL",
+      [
+        0.8306353883933405
+      ]
+    ],
+    [
+      "ANES_2000_Q15 - CLINTON TRAITS",
+      [
+        0.8297273213899882
+      ]
+    ],
+    [
+      "ANES_2000_G1-G10 - LIBERAL-CONSERVATIVE PLACEMENT SELF, CLINTON, GORE, BUCHANAN AND PARTIES",
+      [
+        0.8294328316903584
+      ]
+    ],
+    [
+      "ANES_2000_S14 - CLINTON AFFECTS",
+      [
+        0.8283439641705506
+      ]
+    ],
+    [
+      "ANES_2000_K2-K4 - PRES. CANDIDATE TRAITS",
+      [
+        0.8266187410001186
+      ]
+    ],
+    [
+      "ANES_2000_H1-H4 - NATIONAL ECONOMY",
+      [
+        0.8264894678464184
+      ]
+    ],
+    [
+      "ANES_2000_R1-R3 - OPINIONS AND COMPLEX DECISIONS",
+      [
+        0.826488760718637
+      ]
+    ],
+    [
+      "ANES_2000_Q14 - CLINTON AFFECTS",
+      [
+        0.8262817490332
+      ]
+    ],
+    [
+      "ANES_2000_J2 - GOVERNMENT ROLE AND SELF-RELIANCE",
+      [
+        0.8256382722708788
+      ]
+    ],
+    [
+      "ANES_2000_G12 - ABORTION",
+      [
+        0.8252090665858532
+      ]
+    ],
+    [
+      "ANES_2000_N2-  POLITICAL EFFICACY OF THE RESPONDENT",
+      [
+        0.8241313358074976
+      ]
+    ],
+    [
+      "ANES_2000_M4 - PROTECT ENVIRONMENT",
+      [
+        0.8240334805189825
+      ]
+    ],
+    [
+      "ANES_2000_L5 - AID TO BLACKS",
+      [
+        0.823816615278671
+      ]
+    ],
+    [
+      "ANES_2000_L2 - DEFENSE SPENDING",
+      [
+        0.8233276702105271
+      ]
+    ]
+  ],
+  "ANES_1972_*** POST-ELECTION WAVE *** GOVERNMENT ATTENTION TO PEOPLE.csv": [],
+  "ANES_1994_1.POLITICAL RULER LIBERAL TO CONSERVATIVE.csv": [],
+  "ANES_1998_SURVEY SECTION G.csv": [
+    [
+      "ANES_1998_SURVEY SECTION G",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_1956_POLITICAL ACTIVITY",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_1988_R'S ATTENTION TO CAMPAIGN|MEDIA",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_1974_R'S POLITICAL ACTIVITY",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_1998_SURVEY SECTION A",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_1974_PARTY CONTACTS WITH R DURING CAMPAIGN",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_1988_R'S RESISTANCE TO INTERVIEW",
+      [
+        0.9208984375
+      ]
+    ],
+    [
+      "ANES_2002_INTERVIEWER EVALUATION - PRE INTERVIEW",
+      [
+        0.9091796875
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Demographics – Internet and Telephone Devices",
+      [
+        0.89453125
+      ]
+    ],
+    [
+      "ANES_2000_A6-A11 - MEDIA",
+      [
+        0.890625
+      ]
+    ],
+    [
+      "ANES_2004_PRE-ELECTION INTERVIEWER OBSERVATION",
+      [
+        0.8749999999999999
+      ]
+    ],
+    [
+      "ANES_2000_B1-B2 - CANDIDATE RECALL",
+      [
+        0.8671875
+      ]
+    ],
+    [
+      "ANES_2020_INTERVIEWER DESCRIPTION VARIABLES",
+      [
+        0.8671875
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE CASI Module Test Screens",
+      [
+        0.8662109375
+      ]
+    ],
+    [
+      "ANES_2012_2012 FTF DWELLING UNIT DESCRIPTION",
+      [
+        0.8662109375
+      ]
+    ],
+    [
+      "ANES_2012_2012 FTF RECONTACT MODULE",
+      [
+        0.8662109375
+      ]
+    ],
+    [
+      "ANES_2012_2012 FTF POST-ELECTION IWR OBSERVATIONS",
+      [
+        0.8662109375
+      ]
+    ],
+    [
+      "ANES_2012_2012 FTF PRE-ELECTION IWR OBSERVATIONS",
+      [
+        0.8662109375
+      ]
+    ],
+    [
+      "ANES_1958_BUILT MEASURES",
+      [
+        0.865234375
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Respondent Religion",
+      [
+        0.8623046874999999
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Media Exposure",
+      [
+        0.8623046874999999
+      ]
+    ],
+    [
+      "ANES_2000_POST COVERSHEET VARIABLES",
+      [
+        0.8623046874999999
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Demographics – Marital|Partnership Status",
+      [
+        0.8623046874999999
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Presidential Candidate Affects",
+      [
+        0.8603515625
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Demographics – Social Class",
+      [
+        0.8603515625
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Presidential Candidate Likes-Dislikes",
+      [
+        0.8603515625
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Demographics – Union Membership",
+      [
+        0.8603515625
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Health Care and Health",
+      [
+        0.8603515625
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Major Party Likes-Dislikes",
+      [
+        0.8603515625
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Demographics – Military Service",
+      [
+        0.8603515625
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE CASI Module – R Wealth Assets",
+      [
+        0.8603515625
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Religious Attitudes and Practice",
+      [
+        0.8603515625
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Demographics – Name Change",
+      [
+        0.8603515625
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Marriage and Adoption of Children by Gays and Lesbians",
+      [
+        0.8603515625
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Demographics – Hispanic Ethnicity",
+      [
+        0.8603515625
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE CASI Module – Sexual Orientation",
+      [
+        0.8603515625
+      ]
+    ],
+    [
+      "ANES_2000_A4-A5 - PRES. CAND LIKES-DISLIKES",
+      [
+        0.8544921875
+      ]
+    ],
+    [
+      "ANES_2000_D1-D4 - PARTY LIKES-DISLIKES",
+      [
+        0.8544921875
+      ]
+    ],
+    [
+      "ANES_1994_1.R'S RESISTANCE TO INTERVIEW",
+      [
+        0.8544921875
+      ]
+    ],
+    [
+      "ANES_1980_PRE-ELECTION SAMPLE INFORMATION",
+      [
+        0.853515625
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Campaign Media Exposure",
+      [
+        0.849609375
+      ]
+    ],
+    [
+      "ANES_1994_INTERACTION WITH REPUBLICAN HOUSE CANDIDATE",
+      [
+        0.84765625
+      ]
+    ],
+    [
+      "ANES_2012_2012 FTF PRE-ELECTION INTERVIEWER DESCRIPTION",
+      [
+        0.8466796875
+      ]
+    ],
+    [
+      "ANES_2012_2012 FTF POST-ELECTION INTERVIEWER DESCRIPTION",
+      [
+        0.8466796875
+      ]
+    ],
+    [
+      "ANES_2000_P3 - TURNOUT|VOTE INTENT",
+      [
+        0.8466796875
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Mobilization",
+      [
+        0.8466796875
+      ]
+    ],
+    [
+      "ANES_2000_A3 - LAST PRESIDENTIAL ELECTION",
+      [
+        0.845703125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – Closeness to Political Parties",
+      [
+        0.845703125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Social Group Links",
+      [
+        0.845703125
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – Mobilization",
+      [
+        0.845703125
+      ]
+    ]
+  ],
+  "ANES_1974_GOVERNMENT ATTENTION TO PEOPLE.csv": [],
+  "ANES_1988_R'S VOTE - 1984.csv": [],
+  "ANES_2000_K13-K14 -WORRY ABOUT WAR.csv": [
+    [
+      "ANES_2000_K13-K14 -WORRY ABOUT WAR",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_2000_A1-A4 - CURRENT CAMPAIGN AND POLITICS",
+      [
+        0.9160222228465098
+      ]
+    ],
+    [
+      "ANES_2000_S1-S11 - CLINTON LEGACY",
+      [
+        0.9091819455937511
+      ]
+    ],
+    [
+      "ANES_2000_S15 - CLINTON TRAITS",
+      [
+        0.9052885172260338
+      ]
+    ],
+    [
+      "ANES_2000_Q7-Q8 - GOVERNMENT RESPONSIVENESS",
+      [
+        0.9023649375445849
+      ]
+    ],
+    [
+      "ANES_2000_Z25-Z29 - R'S NEIGHBORHOOD",
+      [
+        0.8955891844497883
+      ]
+    ],
+    [
+      "ANES_2000_POST ADMINISTRATIVE AND FIELD VARIABLES",
+      [
+        0.8945339007794175
+      ]
+    ],
+    [
+      "ANES_2000_P2 - ENVIRONMENTAL REGULATION",
+      [
+        0.89259786188868
+      ]
+    ],
+    [
+      "ANES_2000_H1-H3 - R'S FINANCIAL SITUATION",
+      [
+        0.8899896201468945
+      ]
+    ],
+    [
+      "ANES_2000_E1-E3 - R FINANCIAL SITUATION",
+      [
+        0.8896484375
+      ]
+    ],
+    [
+      "ANES_2000_Q1-Q11 - CLINTON LEGACY",
+      [
+        0.888694708648931
+      ]
+    ],
+    [
+      "ANES_2000_V5 - TRAITS - FORMER PRESIDENT BUSH",
+      [
+        0.8862579006489428
+      ]
+    ],
+    [
+      "ANES_2000_K1- GROUP INFLUENCE TOO MUCH, TOO LITTLE, RIGHT AMT",
+      [
+        0.8858822366192521
+      ]
+    ],
+    [
+      "ANES_2000_B1-B12 - PARTICIPATION, CONTRIBUTIONS",
+      [
+        0.8858419666440486
+      ]
+    ],
+    [
+      "ANES_2000_T1-T4 - CAMPAIGN MEDIA EXPOSURE",
+      [
+        0.8858185534688942
+      ]
+    ],
+    [
+      "ANES_2000_V1-V4 - BUSH LEGACY",
+      [
+        0.8857404759163379
+      ]
+    ],
+    [
+      "ANES_2000_F1-F4 - MEMBER OF CONGRESS",
+      [
+        0.8828153977407822
+      ]
+    ],
+    [
+      "ANES_2000_Q3-Q6 -  TRUST IN GOVERNMENT | MASS SUPPORT",
+      [
+        0.8819303133836097
+      ]
+    ],
+    [
+      "ANES_2000_S14 - CLINTON AFFECTS",
+      [
+        0.88184842628164
+      ]
+    ],
+    [
+      "ANES_2000_K2 - OFFICE RECOGNITION OF POLITICAL FIGURES",
+      [
+        0.8777103155534767
+      ]
+    ],
+    [
+      "ANES_2000_Y5-Y17 - CHARACTERISTICS OF WORK COLLEAGUES",
+      [
+        0.8774854044096853
+      ]
+    ],
+    [
+      "ANES_2000_Q14 - CLINTON AFFECTS",
+      [
+        0.8750038583703189
+      ]
+    ],
+    [
+      "ANES_2000_Q15 - CLINTON TRAITS",
+      [
+        0.8740761155337502
+      ]
+    ],
+    [
+      "ANES_2000_P1 - EGALITARIANISM",
+      [
+        0.8740346550823263
+      ]
+    ],
+    [
+      "ANES_2000_Q1 -  EXTERNAL POLITICAL EFFICACY",
+      [
+        0.8740346550823263
+      ]
+    ],
+    [
+      "ANES_2000_M3 -  POSITION OF BLACKS IN SOCIETY",
+      [
+        0.8740346550823263
+      ]
+    ],
+    [
+      "ANES_2000_Q2 -  MORAL TRADITIONALISM",
+      [
+        0.8740346550823263
+      ]
+    ],
+    [
+      "ANES_2000_N2-  POLITICAL EFFICACY OF THE RESPONDENT",
+      [
+        0.8740346550823263
+      ]
+    ],
+    [
+      "ANES_2000_K8-K10 - TRUST IN PEOPLE",
+      [
+        0.8734867512335347
+      ]
+    ],
+    [
+      "ANES_2000_M1-M3 - ABORTION",
+      [
+        0.8734527187696124
+      ]
+    ],
+    [
+      "ANES_2000_G1-G10 - LIBERAL-CONSERVATIVE PLACEMENT SELF, CLINTON, GORE, BUCHANAN AND PARTIES",
+      [
+        0.8726581624472993
+      ]
+    ],
+    [
+      "ANES_2000_K12 - WAYS TO REDUCE CRIME",
+      [
+        0.8721229471056653
+      ]
+    ],
+    [
+      "ANES_2000_Z1-Z24 - POLITICAL DISCUSSION IN SOCIAL NETWORK",
+      [
+        0.8707166167726622
+      ]
+    ],
+    [
+      "ANES_2000_A6-A11 - MEDIA",
+      [
+        0.8701215142857633
+      ]
+    ],
+    [
+      "ANES_2000_J3-J10 -  MEDIA|INTERNET EXPOSURE AND INFORMATION",
+      [
+        0.8697263066115407
+      ]
+    ],
+    [
+      "ANES_2000_P6-P7 - FAIR AND PREFERENTIAL TREATMENT FOR BLACKS",
+      [
+        0.8697067322856582
+      ]
+    ],
+    [
+      "ANES_2000_NONVOTER PREFERENCES FOR HOUSE, SENATE",
+      [
+        0.8691482728044727
+      ]
+    ],
+    [
+      "ANES_2000_E5-E7 - POLITICAL KNOWLEDGE (HOUSE AND SENATE)",
+      [
+        0.8681735359795356
+      ]
+    ],
+    [
+      "ANES_2000_L2 - DEFENSE SPENDING",
+      [
+        0.8673402392671616
+      ]
+    ],
+    [
+      "ANES_2000_J2 - GOVERNMENT ROLE AND SELF-RELIANCE",
+      [
+        0.8664593542152963
+      ]
+    ],
+    [
+      "ANES_2000_R5- QUALITIES TO ENCOURAGE IN CHILDREN",
+      [
+        0.8663856858473264
+      ]
+    ],
+    [
+      "ANES_2000_VOTE FOR CONGRESS",
+      [
+        0.8647838291049187
+      ]
+    ],
+    [
+      "ANES_2000_P1 - WOMEN'S ROLE",
+      [
+        0.8644008914913865
+      ]
+    ],
+    [
+      "ANES_2000_K15-K16 - CAMPAIGN FINANCE",
+      [
+        0.8634714261000358
+      ]
+    ],
+    [
+      "ANES_2016_POST INTERVIEWER OBSERVATIONS",
+      [
+        0.8632924102579926
+      ]
+    ],
+    [
+      "ANES_2000_L6 - AFFIRMATIVE ACTION",
+      [
+        0.8632739055046064
+      ]
+    ],
+    [
+      "ANES_2000_K11 - DISCRIMINATION AGAINST HOMOSEXUALS",
+      [
+        0.8632739055046064
+      ]
+    ],
+    [
+      "ANES_2000_G11 - SERVICES|SPENDING TRADEOFF",
+      [
+        0.8618661202988447
+      ]
+    ],
+    [
+      "ANES_2000_M6 - GUN CONTROL",
+      [
+        0.8615633778212743
+      ]
+    ],
+    [
+      "ANES_2000_E1-E4 - HOUSE CANDIDATE LIKES|DISLIKES",
+      [
+        0.8613884323382308
+      ]
+    ]
+  ],
+  "ANES_2000_Q3-Q6 -  TRUST IN GOVERNMENT | MASS SUPPORT.csv": [
+    [
+      "ANES_2000_Q3-Q6 -  TRUST IN GOVERNMENT | MASS SUPPORT",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_2000_S15 - CLINTON TRAITS",
+      [
+        0.9055724736000921
+      ]
+    ],
+    [
+      "ANES_2000_J2 - GOVERNMENT ROLE AND SELF-RELIANCE",
+      [
+        0.902213644080431
+      ]
+    ],
+    [
+      "ANES_2000_K1- GROUP INFLUENCE TOO MUCH, TOO LITTLE, RIGHT AMT",
+      [
+        0.8986927797871193
+      ]
+    ],
+    [
+      "ANES_2000_S1-S11 - CLINTON LEGACY",
+      [
+        0.8938801622072438
+      ]
+    ],
+    [
+      "ANES_2000_NONVOTER PREFERENCES FOR HOUSE, SENATE",
+      [
+        0.8928899468910768
+      ]
+    ],
+    [
+      "ANES_2000_Z1-Z24 - POLITICAL DISCUSSION IN SOCIAL NETWORK",
+      [
+        0.8919853128908112
+      ]
+    ],
+    [
+      "ANES_2000_S14 - CLINTON AFFECTS",
+      [
+        0.8907498554626327
+      ]
+    ],
+    [
+      "ANES_2000_L5 - AID TO BLACKS",
+      [
+        0.8880524109726623
+      ]
+    ],
+    [
+      "ANES_2000_L6 - AFFIRMATIVE ACTION",
+      [
+        0.8872878713486927
+      ]
+    ],
+    [
+      "ANES_2000_F1-F4 - MEMBER OF CONGRESS",
+      [
+        0.8866204165351065
+      ]
+    ],
+    [
+      "ANES_2000_V5 - TRAITS - FORMER PRESIDENT BUSH",
+      [
+        0.8850870482148273
+      ]
+    ],
+    [
+      "ANES_2000_Q14 - CLINTON AFFECTS",
+      [
+        0.8850426771235859
+      ]
+    ],
+    [
+      "ANES_2000_H1-H3 - R'S FINANCIAL SITUATION",
+      [
+        0.8849800298473337
+      ]
+    ],
+    [
+      "ANES_2000_Q1-Q11 - CLINTON LEGACY",
+      [
+        0.8836530311872901
+      ]
+    ],
+    [
+      "ANES_2000_E1-E4 - HOUSE CANDIDATE LIKES|DISLIKES",
+      [
+        0.8830499329196028
+      ]
+    ],
+    [
+      "ANES_2000_L2 - DEFENSE SPENDING",
+      [
+        0.8830370601941786
+      ]
+    ],
+    [
+      "ANES_2000_R5- QUALITIES TO ENCOURAGE IN CHILDREN",
+      [
+        0.8829171828975909
+      ]
+    ],
+    [
+      "ANES_2000_J3-J10 -  MEDIA|INTERNET EXPOSURE AND INFORMATION",
+      [
+        0.8827060653056995
+      ]
+    ],
+    [
+      "ANES_2000_B1-B12 - PARTICIPATION, CONTRIBUTIONS",
+      [
+        0.8820283367649899
+      ]
+    ],
+    [
+      "ANES_2000_V1-V4 - BUSH LEGACY",
+      [
+        0.8817052358161128
+      ]
+    ],
+    [
+      "ANES_2000_Y5-Y17 - CHARACTERISTICS OF WORK COLLEAGUES",
+      [
+        0.8813814375532577
+      ]
+    ],
+    [
+      "ANES_2000_N1 -  POWER OF THE FEDERAL GOVERNMENT",
+      [
+        0.8811214192117827
+      ]
+    ],
+    [
+      "ANES_2000_Q7-Q8 - GOVERNMENT RESPONSIVENESS",
+      [
+        0.8805826985157877
+      ]
+    ],
+    [
+      "ANES_2000_F6-F9 - MOST IMPORTANT PROBLEM(S)",
+      [
+        0.8802842686886272
+      ]
+    ],
+    [
+      "ANES_2000_P2 - ENVIRONMENTAL REGULATION",
+      [
+        0.8802434952086212
+      ]
+    ],
+    [
+      "ANES_2000_K12 - WAYS TO REDUCE CRIME",
+      [
+        0.8797750670205848
+      ]
+    ],
+    [
+      "ANES_2000_Q15 - CLINTON TRAITS",
+      [
+        0.8792765929378624
+      ]
+    ],
+    [
+      "ANES_2000_E5-E7 - POLITICAL KNOWLEDGE (HOUSE AND SENATE)",
+      [
+        0.8776314993822997
+      ]
+    ],
+    [
+      "ANES_2000_L4 - GUARANTEED JOB|STANDARD OF LIVING",
+      [
+        0.8774829436225625
+      ]
+    ],
+    [
+      "ANES_2000_K15-K16 - CAMPAIGN FINANCE",
+      [
+        0.8764656457015855
+      ]
+    ],
+    [
+      "ANES_2000_F1-F3 - PRESIDENTIAL CANDIDATE AFFECTS",
+      [
+        0.8763108807845351
+      ]
+    ],
+    [
+      "ANES_2000_M4 - PROTECT ENVIRONMENT",
+      [
+        0.8756591685647069
+      ]
+    ],
+    [
+      "ANES_2000_P6-P7 - FAIR AND PREFERENTIAL TREATMENT FOR BLACKS",
+      [
+        0.8749673074414727
+      ]
+    ],
+    [
+      "ANES_2000_H1-H4 - NATIONAL ECONOMY",
+      [
+        0.873490484577692
+      ]
+    ],
+    [
+      "ANES_2000_L1 - SERVICES|SPENDING TRADEOFF",
+      [
+        0.8732831660332956
+      ]
+    ],
+    [
+      "ANES_2000_N3 - SCHOOL INTEGRATION",
+      [
+        0.8722127179475105
+      ]
+    ],
+    [
+      "ANES_2000_J11- DIFFERENCES BETWEEN PARTIES",
+      [
+        0.8715892812205831
+      ]
+    ],
+    [
+      "ANES_2000_Z25-Z29 - R'S NEIGHBORHOOD",
+      [
+        0.8704388604381741
+      ]
+    ],
+    [
+      "ANES_2000_K8-K10 - TRUST IN PEOPLE",
+      [
+        0.869710821838569
+      ]
+    ],
+    [
+      "ANES_2000_T1-T4 - CAMPAIGN MEDIA EXPOSURE",
+      [
+        0.8694750888021548
+      ]
+    ],
+    [
+      "ANES_2000_G11 - SERVICES|SPENDING TRADEOFF",
+      [
+        0.8692802166942488
+      ]
+    ],
+    [
+      "ANES_2000_R1-  GROUPS R FEELS CLOSE TO",
+      [
+        0.865822434254437
+      ]
+    ],
+    [
+      "ANES_2000_K2 - OFFICE RECOGNITION OF POLITICAL FIGURES",
+      [
+        0.8647210845807569
+      ]
+    ],
+    [
+      "ANES_2000_A1-A4 - CURRENT CAMPAIGN AND POLITICS",
+      [
+        0.8630228480857777
+      ]
+    ],
+    [
+      "ANES_2000_L3 - GOVERNMENT MEDICAL INSURANCE",
+      [
+        0.8618117521577718
+      ]
+    ],
+    [
+      "ANES_2000_L8 - ORGANIZATIONAL INVOLVEMENT AND INFLUENCE",
+      [
+        0.8603405651278871
+      ]
+    ],
+    [
+      "ANES_2000_H9-H12 - NATION  STRENGTH, IMMIGRATION, IMPORTS, ISOLATION",
+      [
+        0.8603226298758652
+      ]
+    ],
+    [
+      "ANES_2000_K13-K14 -WORRY ABOUT WAR",
+      [
+        0.8602425206672981
+      ]
+    ],
+    [
+      "ANES_2000_VOTE FOR CONGRESS",
+      [
+        0.8584722757202271
+      ]
+    ]
+  ],
+  "ANES_1972_GOVERNMENT VERSUS PRIVATE HEALTH INSURANCE.csv": [],
+  "ANES_1960_POLITICAL EFFICACY AND CITIZEN DUTY.csv": [],
+  "ANES_1976_EXPECTATIONS, CONCERN ABOUT PRESIDENTIAL RACE.csv": [],
+  "ANES_2000_E1-E4 - HOUSE CANDIDATE LIKES|DISLIKES.csv": [
+    [
+      "ANES_2000_E1-E4 - HOUSE CANDIDATE LIKES|DISLIKES",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_2000_Z1-Z24 - POLITICAL DISCUSSION IN SOCIAL NETWORK",
+      [
+        0.9097153586272027
+      ]
+    ],
+    [
+      "ANES_2000_NONVOTER PREFERENCES FOR HOUSE, SENATE",
+      [
+        0.9097153586272027
+      ]
+    ],
+    [
+      "ANES_2000_S14 - CLINTON AFFECTS",
+      [
+        0.9052841633485634
+      ]
+    ],
+    [
+      "ANES_2000_B1-B12 - PARTICIPATION, CONTRIBUTIONS",
+      [
+        0.9047926937351664
+      ]
+    ],
+    [
+      "ANES_2000_S15 - CLINTON TRAITS",
+      [
+        0.9028485643761094
+      ]
+    ],
+    [
+      "ANES_2000_K1- GROUP INFLUENCE TOO MUCH, TOO LITTLE, RIGHT AMT",
+      [
+        0.8965098886123138
+      ]
+    ],
+    [
+      "ANES_2000_Q14 - CLINTON AFFECTS",
+      [
+        0.8965006590743729
+      ]
+    ],
+    [
+      "ANES_2000_V1-V4 - BUSH LEGACY",
+      [
+        0.8960973606752908
+      ]
+    ],
+    [
+      "ANES_2000_L2 - DEFENSE SPENDING",
+      [
+        0.8945320948226224
+      ]
+    ],
+    [
+      "ANES_2000_J2 - GOVERNMENT ROLE AND SELF-RELIANCE",
+      [
+        0.8940949190051811
+      ]
+    ],
+    [
+      "ANES_2000_V5 - TRAITS - FORMER PRESIDENT BUSH",
+      [
+        0.8932002342041685
+      ]
+    ],
+    [
+      "ANES_2000_S1-S11 - CLINTON LEGACY",
+      [
+        0.8911274925052477
+      ]
+    ],
+    [
+      "ANES_2000_H1-H3 - R'S FINANCIAL SITUATION",
+      [
+        0.8911151268411863
+      ]
+    ],
+    [
+      "ANES_2000_N1 -  POWER OF THE FEDERAL GOVERNMENT",
+      [
+        0.8897300908997681
+      ]
+    ],
+    [
+      "ANES_2000_Z25-Z29 - R'S NEIGHBORHOOD",
+      [
+        0.8890224623199404
+      ]
+    ],
+    [
+      "ANES_2000_Q3-Q6 -  TRUST IN GOVERNMENT | MASS SUPPORT",
+      [
+        0.8881894107028705
+      ]
+    ],
+    [
+      "ANES_2000_Y5-Y17 - CHARACTERISTICS OF WORK COLLEAGUES",
+      [
+        0.8857420479216955
+      ]
+    ],
+    [
+      "ANES_2000_F1-F3 - PRESIDENTIAL CANDIDATE AFFECTS",
+      [
+        0.884830686022546
+      ]
+    ],
+    [
+      "ANES_2000_J11- DIFFERENCES BETWEEN PARTIES",
+      [
+        0.8843090799044641
+      ]
+    ],
+    [
+      "ANES_2000_A6-A11 - MEDIA",
+      [
+        0.8841117754092488
+      ]
+    ],
+    [
+      "ANES_2000_L8 - ORGANIZATIONAL INVOLVEMENT AND INFLUENCE",
+      [
+        0.8837636377201071
+      ]
+    ],
+    [
+      "ANES_2000_L6 - AFFIRMATIVE ACTION",
+      [
+        0.8809953419444608
+      ]
+    ],
+    [
+      "ANES_2000_P6-P7 - FAIR AND PREFERENTIAL TREATMENT FOR BLACKS",
+      [
+        0.8805370273001074
+      ]
+    ],
+    [
+      "ANES_2000_Q1-Q11 - CLINTON LEGACY",
+      [
+        0.8803840324610755
+      ]
+    ],
+    [
+      "ANES_2000_K12 - WAYS TO REDUCE CRIME",
+      [
+        0.8796481243063756
+      ]
+    ],
+    [
+      "ANES_2000_N3 - SCHOOL INTEGRATION",
+      [
+        0.8789826839301016
+      ]
+    ],
+    [
+      "ANES_2000_J3-J10 -  MEDIA|INTERNET EXPOSURE AND INFORMATION",
+      [
+        0.8784660995066746
+      ]
+    ],
+    [
+      "ANES_2000_K8-K10 - TRUST IN PEOPLE",
+      [
+        0.8781406325175516
+      ]
+    ],
+    [
+      "ANES_2000_R1-  GROUPS R FEELS CLOSE TO",
+      [
+        0.8778205196796854
+      ]
+    ],
+    [
+      "ANES_2000_F1-F4 - MEMBER OF CONGRESS",
+      [
+        0.8775110094582458
+      ]
+    ],
+    [
+      "ANES_2000_E5-E7 - POLITICAL KNOWLEDGE (HOUSE AND SENATE)",
+      [
+        0.8764604633764433
+      ]
+    ],
+    [
+      "ANES_2000_A1-A4 - CURRENT CAMPAIGN AND POLITICS",
+      [
+        0.8752288229110301
+      ]
+    ],
+    [
+      "ANES_2000_Q15 - CLINTON TRAITS",
+      [
+        0.8745797842318029
+      ]
+    ],
+    [
+      "ANES_2000_K15-K16 - CAMPAIGN FINANCE",
+      [
+        0.8735692034770869
+      ]
+    ],
+    [
+      "ANES_2000_R5- QUALITIES TO ENCOURAGE IN CHILDREN",
+      [
+        0.8731010870031303
+      ]
+    ],
+    [
+      "ANES_2000_Q7-Q8 - GOVERNMENT RESPONSIVENESS",
+      [
+        0.8716695201763104
+      ]
+    ],
+    [
+      "ANES_2000_VOTE FOR CONGRESS",
+      [
+        0.8716473847002162
+      ]
+    ],
+    [
+      "ANES_2000_K2 - OFFICE RECOGNITION OF POLITICAL FIGURES",
+      [
+        0.8714094722059388
+      ]
+    ],
+    [
+      "ANES_2000_F6-F9 - MOST IMPORTANT PROBLEM(S)",
+      [
+        0.8706534738731829
+      ]
+    ],
+    [
+      "ANES_2000_G11 - SERVICES|SPENDING TRADEOFF",
+      [
+        0.8696357166969451
+      ]
+    ],
+    [
+      "ANES_2000_M3 -  POSITION OF BLACKS IN SOCIETY",
+      [
+        0.8690523897190136
+      ]
+    ],
+    [
+      "ANES_2000_Q1 -  EXTERNAL POLITICAL EFFICACY",
+      [
+        0.8690523897190136
+      ]
+    ],
+    [
+      "ANES_2000_Q2 -  MORAL TRADITIONALISM",
+      [
+        0.8690523897190136
+      ]
+    ],
+    [
+      "ANES_2000_P1 - EGALITARIANISM",
+      [
+        0.8690523897190136
+      ]
+    ],
+    [
+      "ANES_2000_N2-  POLITICAL EFFICACY OF THE RESPONDENT",
+      [
+        0.8690523897190136
+      ]
+    ],
+    [
+      "ANES_2000_P2 - ENVIRONMENTAL REGULATION",
+      [
+        0.867680895291296
+      ]
+    ],
+    [
+      "ANES_2000_H5 - APPROVE PRESIDENT HANDLING OF ECONOMY",
+      [
+        0.867546261245842
+      ]
+    ],
+    [
+      "ANES_2000_H13 - APPROVE PRESIDENT HANDLING OF FOREIGN RELATIONS",
+      [
+        0.8653565473715783
+      ]
+    ],
+    [
+      "ANES_2000_N5 - DEATH PENALTY",
+      [
+        0.8653565473715783
+      ]
+    ]
+  ],
+  "ANES_1978_R'S POLITICAL ACTIVITIES.csv": [],
+  "ANES_2000_A3 - LAST PRESIDENTIAL ELECTION.csv": [
+    [
+      "ANES_2000_A3 - LAST PRESIDENTIAL ELECTION",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Campaign Interest",
+      [
+        0.8848540540665992
+      ]
+    ],
+    [
+      "ANES_2000_P3 - TURNOUT|VOTE INTENT",
+      [
+        0.8834934127675469
+      ]
+    ],
+    [
+      "ANES_2000_A4-A5 - PRES. CAND LIKES-DISLIKES",
+      [
+        0.8805574920290613
+      ]
+    ],
+    [
+      "ANES_2000_D1-D4 - PARTY LIKES-DISLIKES",
+      [
+        0.8805574920290613
+      ]
+    ],
+    [
+      "ANES_2000_A6-A11 - MEDIA",
+      [
+        0.8789114467993171
+      ]
+    ],
+    [
+      "ANES_2000_Y5-Y17 - CHARACTERISTICS OF WORK COLLEAGUES",
+      [
+        0.8769749483356801
+      ]
+    ],
+    [
+      "ANES_2000_E5-E7 - POLITICAL KNOWLEDGE (HOUSE AND SENATE)",
+      [
+        0.8736757945825391
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Mobilization",
+      [
+        0.8725769431883749
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Religious Attitudes and Practice",
+      [
+        0.8688110763331024
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Social Group Links",
+      [
+        0.8682215791770964
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Social Security Investments",
+      [
+        0.8681635742331107
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Campaign Media Exposure",
+      [
+        0.866236325237835
+      ]
+    ],
+    [
+      "ANES_2000_K8-K10 - TRUST IN PEOPLE",
+      [
+        0.8658124470008453
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Demographics – Social Class",
+      [
+        0.865341059932077
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Party Differences",
+      [
+        0.8642582375110504
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – Mobilization",
+      [
+        0.8637720406213236
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Attitudes toward Supreme Court Authority",
+      [
+        0.8633798075402388
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Abortion Approval – Scenarios",
+      [
+        0.8629087513806755
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Hispanic Rs – Ethnic Assimilation and Preservation",
+      [
+        0.8620902713123055
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Reducing Federal Budget Deficit",
+      [
+        0.8620357677596351
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – Closeness to Political Parties",
+      [
+        0.8618213685936644
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE CASI Module – R Wealth Assets",
+      [
+        0.8615054708709005
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST DHS Political Engagement",
+      [
+        0.8613477034531201
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST DHS Terrorism Threat",
+      [
+        0.8608954561688836
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Tax on Millionaires",
+      [
+        0.8602641562878506
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Iran Nuclear Weapon Development",
+      [
+        0.8602641562878506
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST R Conditions of Economic Peril",
+      [
+        0.8599540479117637
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Public Engagement",
+      [
+        0.8599017287682035
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Discuss Politics",
+      [
+        0.8599017287682035
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – Income Level and Assets",
+      [
+        0.8599017287682035
+      ]
+    ],
+    [
+      "ANES_2000_S1-S5 - RELIGIOSITY",
+      [
+        0.8596233402091092
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Modern Sexism",
+      [
+        0.8595532195627429
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Non-Mainstream Beliefs",
+      [
+        0.8594493261242863
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Neo-nullification (state vs Federal law)",
+      [
+        0.8593758946030935
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Favor or Oppose TARP",
+      [
+        0.8593758946030935
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Government See to Fair Jobs for Blacks",
+      [
+        0.8592347746871292
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Power and Role of Federal Government",
+      [
+        0.8591732037701262
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Efficacy – (splice) Standard | Revised",
+      [
+        0.8589766312189143
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST CSES Module – Political Knowledge",
+      [
+        0.8589042224920019
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Presidential Candidate Affects",
+      [
+        0.8584288303012784
+      ]
+    ],
+    [
+      "ANES_2000_R1-R3 - OPINIONS AND COMPLEX DECISIONS",
+      [
+        0.8574479046825294
+      ]
+    ],
+    [
+      "ANES_2012_2012 POST Affirmative Action in Hiring",
+      [
+        0.8573568295174465
+      ]
+    ],
+    [
+      "ANES_2000_L6 - AFFIRMATIVE ACTION",
+      [
+        0.8571444036009448
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Presidential Candidate Likes-Dislikes",
+      [
+        0.8570125415104272
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Major Party Likes-Dislikes",
+      [
+        0.8570125415104272
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Marriage and Adoption of Children by Gays and Lesbians",
+      [
+        0.8570125415104272
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Demographics – Union Membership",
+      [
+        0.8570125415104272
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Demographics – Military Service",
+      [
+        0.8570125415104272
+      ]
+    ],
+    [
+      "ANES_2012_2012 PRE Health Care and Health",
+      [
+        0.8570125415104272
+      ]
+    ]
+  ],
+  "ANES_1980_CIVIL RIGHTS ISSUES.csv": [],
+  "ANES_1972_CONTROL AND DIRECTION OF OWN LIFE.csv": [],
+  "ANES_1956_MASS MEDIA USAGE.csv": [],
+  "ANES_1982_R'S CLASS IDENTIFICATION.csv": [],
+  "ANES_2000_Q2 -  MORAL TRADITIONALISM.csv": [
+    [
+      "ANES_2000_M3 -  POSITION OF BLACKS IN SOCIETY",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_2000_Q2 -  MORAL TRADITIONALISM",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_2000_P1 - EGALITARIANISM",
+      [
+        1.0
+      ]
+    ],
+    [
+      "ANES_2000_N2-  POLITICAL EFFICACY OF THE RESPONDENT",
+      [
+        0.9726773079514826
+      ]
+    ],
+    [
+      "ANES_2000_Q1 -  EXTERNAL POLITICAL EFFICACY",
+      [
+        0.9702435219285577
+      ]
+    ],
+    [
+      "ANES_2000_Z25-Z29 - R'S NEIGHBORHOOD",
+      [
+        0.8928372626032465
+      ]
+    ],
+    [
+      "ANES_2000_S1-S11 - CLINTON LEGACY",
+      [
+        0.8884286573399809
+      ]
+    ],
+    [
+      "ANES_2000_S15 - CLINTON TRAITS",
+      [
+        0.8855027020344528
+      ]
+    ],
+    [
+      "ANES_2000_V1-V4 - BUSH LEGACY",
+      [
+        0.8828228458976282
+      ]
+    ],
+    [
+      "ANES_2000_S14 - CLINTON AFFECTS",
+      [
+        0.8820829164706933
+      ]
+    ],
+    [
+      "ANES_2000_L6 - AFFIRMATIVE ACTION",
+      [
+        0.8807353132340269
+      ]
+    ],
+    [
+      "ANES_2000_J11- DIFFERENCES BETWEEN PARTIES",
+      [
+        0.8801312632933576
+      ]
+    ],
+    [
+      "ANES_2000_Q3-Q6 -  TRUST IN GOVERNMENT | MASS SUPPORT",
+      [
+        0.87819888393249
+      ]
+    ],
+    [
+      "ANES_2000_K1- GROUP INFLUENCE TOO MUCH, TOO LITTLE, RIGHT AMT",
+      [
+        0.8781976336440088
+      ]
+    ],
+    [
+      "ANES_2000_H5 - APPROVE PRESIDENT HANDLING OF ECONOMY",
+      [
+        0.8777566342913977
+      ]
+    ],
+    [
+      "ANES_2000_H13 - APPROVE PRESIDENT HANDLING OF FOREIGN RELATIONS",
+      [
+        0.8777566342913977
+      ]
+    ],
+    [
+      "ANES_2000_N5 - DEATH PENALTY",
+      [
+        0.8777566342913977
+      ]
+    ],
+    [
+      "ANES_2000_A12 - PRESIDENTIAL APPROVAL",
+      [
+        0.8777566342913977
+      ]
+    ],
+    [
+      "ANES_2000_E1-E4 - HOUSE CANDIDATE LIKES|DISLIKES",
+      [
+        0.8762322301815793
+      ]
+    ],
+    [
+      "ANES_2000_P2 - ENVIRONMENTAL REGULATION",
+      [
+        0.8737999895871439
+      ]
+    ],
+    [
+      "ANES_2000_K15-K16 - CAMPAIGN FINANCE",
+      [
+        0.8737911472456584
+      ]
+    ],
+    [
+      "ANES_2000_Q1-Q11 - CLINTON LEGACY",
+      [
+        0.8713419174840735
+      ]
+    ],
+    [
+      "ANES_2000_H9-H12 - NATION  STRENGTH, IMMIGRATION, IMPORTS, ISOLATION",
+      [
+        0.8709151241704528
+      ]
+    ],
+    [
+      "ANES_2000_F1-F4 - MEMBER OF CONGRESS",
+      [
+        0.870909654564658
+      ]
+    ],
+    [
+      "ANES_2000_Z1-Z24 - POLITICAL DISCUSSION IN SOCIAL NETWORK",
+      [
+        0.8698741169036743
+      ]
+    ],
+    [
+      "ANES_2000_NONVOTER PREFERENCES FOR HOUSE, SENATE",
+      [
+        0.8698741169036743
+      ]
+    ],
+    [
+      "ANES_2000_K13-K14 -WORRY ABOUT WAR",
+      [
+        0.8694037652121693
+      ]
+    ],
+    [
+      "ANES_2000_J2 - GOVERNMENT ROLE AND SELF-RELIANCE",
+      [
+        0.868436396127558
+      ]
+    ],
+    [
+      "ANES_2000_H1-H3 - R'S FINANCIAL SITUATION",
+      [
+        0.867978165101458
+      ]
+    ],
+    [
+      "ANES_2000_L3 - GOVERNMENT MEDICAL INSURANCE",
+      [
+        0.8676048845719134
+      ]
+    ],
+    [
+      "ANES_2000_B1-B12 - PARTICIPATION, CONTRIBUTIONS",
+      [
+        0.8665360354515644
+      ]
+    ],
+    [
+      "ANES_2000_L2 - DEFENSE SPENDING",
+      [
+        0.8664755055360559
+      ]
+    ],
+    [
+      "ANES_2000_P1 - WOMEN'S ROLE",
+      [
+        0.8645328791122715
+      ]
+    ],
+    [
+      "ANES_2000_Q7-Q8 - GOVERNMENT RESPONSIVENESS",
+      [
+        0.8635851746527993
+      ]
+    ],
+    [
+      "ANES_2000_Q14 - CLINTON AFFECTS",
+      [
+        0.8635617605010858
+      ]
+    ],
+    [
+      "ANES_2000_E1-E3 - R FINANCIAL SITUATION",
+      [
+        0.8631450000609564
+      ]
+    ],
+    [
+      "ANES_2000_Y5-Y17 - CHARACTERISTICS OF WORK COLLEAGUES",
+      [
+        0.8628202068568992
+      ]
+    ],
+    [
+      "ANES_2000_P6-P7 - FAIR AND PREFERENTIAL TREATMENT FOR BLACKS",
+      [
+        0.8626280969176576
+      ]
+    ],
+    [
+      "ANES_2000_Q15 - CLINTON TRAITS",
+      [
+        0.8625501280261326
+      ]
+    ],
+    [
+      "ANES_2000_K11 - DISCRIMINATION AGAINST HOMOSEXUALS",
+      [
+        0.8621242186664535
+      ]
+    ],
+    [
+      "ANES_2000_V5 - TRAITS - FORMER PRESIDENT BUSH",
+      [
+        0.8621114524997592
+      ]
+    ],
+    [
+      "ANES_2000_F1-F3 - PRESIDENTIAL CANDIDATE AFFECTS",
+      [
+        0.8616962666180719
+      ]
+    ],
+    [
+      "ANES_2000_M4 - PROTECT ENVIRONMENT",
+      [
+        0.8610926389233804
+      ]
+    ],
+    [
+      "ANES_2000_M1-M3 - ABORTION",
+      [
+        0.8597744778221712
+      ]
+    ],
+    [
+      "ANES_2000_M5 - HOMOSEXUALS IN THE ARMED FORCES",
+      [
+        0.8586168404726359
+      ]
+    ],
+    [
+      "ANES_2000_P3 - TURNOUT|VOTE INTENT",
+      [
+        0.8583124073479735
+      ]
+    ],
+    [
+      "ANES_2000_F6-F9 - MOST IMPORTANT PROBLEM(S)",
+      [
+        0.8571768562573109
+      ]
+    ],
+    [
+      "ANES_2000_L7-L9 - FEDERAL BUDGET",
+      [
+        0.856865998042087
+      ]
+    ],
+    [
+      "ANES_2000_R5- QUALITIES TO ENCOURAGE IN CHILDREN",
+      [
+        0.8555347163526078
+      ]
+    ],
+    [
+      "ANES_2000_A1-A4 - CURRENT CAMPAIGN AND POLITICS",
+      [
+        0.8555038599716017
+      ]
+    ]
+  ],
+  "ANES_1984_EVALUATION OF REAGAN'S PERFORMANCE.csv": [],
+  "ANES_1978_HOUSE INCUMBENT CANDIDATE COMPONENT.csv": [],
+  "ANES_1986_POSITION ON RACIAL DISCRIMINATION.csv": [],
+  "ANES_1968_\"FEELING THERMOMETER\" - GROUPS IN SOCIETY.csv": [],
+  "ANES_1990_R'S CONTACT WITH HOUSE CHALLENGER.csv": [],
+  "ANES_1986_HOUSEHOLD COMPOSITION.csv": []
+}

@@ -1,0 +1,53 @@
+LoStBench_qn:
+
+    embedding time:
+        topic-embedding:
+            datalake: 632.269s    
+            query: 136.2199s
+
+        topic-filtering:
+            datalake: 627.9029s
+            query: 55.02140s
+    
+
+    topic-embedding:
+        Best Youden’s Index: 0.7125106321437218
+        Best Threshold based on Youden’s Index: 0.5757575757575758
+        Best Threshold based on f1: 0.7474747474747475
+
+    topic-filtering:
+        Best Youden’s Index: 0.7061751511130168
+        Best Threshold based on Youden’s Index: 0.48484848484848486
+        Best Threshold based on f1: 0.686868686868687
+
+    search time:
+        topic-embedding: 0.9693s, 0.93148s (for two indices- youden and f1) [cosine similarity calculation: 20.42s]
+        topic-filtering: 0.8978669s, 0.7783s (for two indices- youden and f1)
+
+
+LoStBench_lbl:
+
+    embedding time:
+        topic-embedding:
+            datalake: 280.13466s
+            query: 97.42948s
+
+        topic-filtering:
+            datalake: 344.39345s
+            query: 96.7908568s
+    
+    
+
+    topic-embedding:
+        Best Youden’s Index: 0.3570517160282425
+        Best Threshold based on Youden’s Index: 0.5252525252525253
+        Best Threshold based on f1: 0.797979797979798
+
+    topic-filtering:
+        Best Youden’s Index: 0.3440106285037583
+        Best Threshold based on Youden’s Index: 0.494949494949495
+        Best Threshold based on f1: 0.7070707070707072
+
+    search time:
+        topic-embedding: 1.033607s, 0.9232459s
+        topic-filtering: 0.96245288s, 0.979065s

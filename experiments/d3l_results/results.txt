@@ -1,0 +1,26 @@
+For prose questions:
+    indexing time for all 5 types of index: 594.072sec
+
+    search time for 115:
+
+    for all index: 520.86sec
+
+    name_idx: 5.439sec
+    format_idx: 225.83sec
+    value_idx: 7.46sec
+    embedding_idx: 279.69sec
+    distribution_idx: 8.237sec
+    
+For variable labels:
+    indexing time for all 5 types of index: 591.125sec
+
+    search time for 115: 
+
+    for all index: 516.926sec
+
+    name_idx: 4.35sec
+    format_idx: 219.39sec
+    value_idx: 7.438sec
+    embedding_idx: 272.56sec
+    distribution_idx: 8.020sec
+    
