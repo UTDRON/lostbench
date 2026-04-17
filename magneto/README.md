@@ -12,14 +12,15 @@ Copy the following files into the original Magneto repository:
 
 ```bash
 python anes_benchmark.py --mode [MODE] --dataset anes
+```
 
 ## Modes
-header-value-default
-header-value-repeat
-header-value-verbose
+`header-value-default`
+`header-value-repeat`
+`header-value-verbose`
 
 ## Note
 
 Experimental results in the paper use:
 
---mode header-value-verbose
+`--mode header-value-verbose`
