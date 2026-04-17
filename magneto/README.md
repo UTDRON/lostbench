@@ -1,5 +1,7 @@
 # Magneto Experiments on LostBench
 
+To Run Magneto Matcher on the LostBech Dataset
+
 ## Setup
 
 Copy the following files into the original Magneto repository:
