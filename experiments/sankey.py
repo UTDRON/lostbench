@@ -25,7 +25,7 @@ def build_sankey_inputs(data, start_year=None, end_year=None):
     set_sizes = [data[y]["total"] for y in years_sorted]
 
     # Build links as (source_year, target_year, [primary_flow, secondary_flow]).
-    # We map [ln_ny, ly_ny] so blue is ln_ny and red is ly_ny.
+    # Map [ln_ny, ly_ny] so blue is ln_ny and red is ly_ny.
     links = []
     for i in range(len(years_sorted) - 1):
         src = years_sorted[i]
@@ -40,7 +40,6 @@ def build_sankey_inputs(data, start_year=None, end_year=None):
 years = sorted(anes_sankey_categorical_data.keys(), key=int)
 year_batches_10 = build_year_batches(years, batch_size=10)
 
-# Example window to match your earlier Sankey period.
 batches_inputs = []
 for categorical_sankey_years in year_batches_10:
     batch_years, batch_set_sizes, batch_links = build_sankey_inputs(

@@ -47,9 +47,8 @@ def load_runtime_data(files_with_extension):
 
     return data
 
-#
 # PLOTTING FUNCTION
-#
+
 def plot_strip_panel(
     ax,
     data: dict,
@@ -85,8 +84,7 @@ def plot_strip_panel(
     if not all_values:
         return
 
-    # Use 99th percentile to avoid extreme outliers squashing the plot
-    # Or just use max() if data is clean
+    # Use 99th percentile to avoid extreme outliers squashing the plot or just use max() if data is clean
     x_max = np.percentile(all_values, 99) * 1.05
     x_min = 0 # Runtimes are positive
     print(f"Plotting with X-axis range: 0 - {x_max:.4f} seconds")
@@ -102,8 +100,7 @@ def plot_strip_panel(
         n_total = len(vals)
 
         # Horizontal baseline
-        ax.hlines(y0, x_min, x_max, color='#cccccc', linewidth=0.8,
-                  linestyle='-', zorder=0, alpha=0.8)
+        ax.hlines(y0, x_min, x_max, color='#cccccc', linewidth=0.8, linestyle='-', zorder=0, alpha=0.8)
 
         # KDE density band
         x_grid = np.linspace(x_min, x_max, 500)
@@ -121,8 +118,7 @@ def plot_strip_panel(
         # Draw density as a filled polygon
         y_top = y0 + kde_height * density_norm
         y_bot = y0 - kde_height * density_norm
-        ax.fill_between(x_grid, y_bot, y_top,
-                        color=color, alpha=0.25, zorder=1, linewidth=0)
+        ax.fill_between(x_grid, y_bot, y_top, color=color, alpha=0.25, zorder=1, linewidth=0)
 
         # Scatter dots (subsampled)
         if n_total > max_points:
@@ -134,24 +130,17 @@ def plot_strip_panel(
         # Jitter
         jitter = np.random.uniform(-0.06, 0.06, size=len(plot_vals))
         
-        ax.scatter(plot_vals, y0 + jitter,
-                   c=color, alpha=point_alpha, s=point_size,
-                   linewidths=0, zorder=2)
+        ax.scatter(plot_vals, y0 + jitter, c=color, alpha=point_alpha, s=point_size, linewidths=0, zorder=2)
 
         # Mean marker
         mean_val = vals.mean()
-        ax.scatter(mean_val, y0,
-                   color=color, s=100, edgecolors='white',
-                   linewidths=1.8, zorder=5)
+        ax.scatter(mean_val, y0, color=color, s=100, edgecolors='white', linewidths=1.8, zorder=5)
 
         # Mean label
-        bbox_props = dict(boxstyle="round,pad=0.2", fc="white",
-                          ec="lightgrey", lw=0.6, alpha=0.9)
-        ax.text(mean_val, y0 + kde_height + 0.15,
-                f"{mean_val:.3f}s",
-                ha='center', va='bottom', fontsize=9,
+        bbox_props = dict(boxstyle="round,pad=0.2", fc="white", ec="lightgrey", lw=0.6, alpha=0.9)
+        ax.text(mean_val, y0 + kde_height + 0.15, f"{mean_val:.3f}s", ha='center', va='bottom', fontsize=9, 
                 color='#333333', bbox=bbox_props, zorder=6)
-
+        
         # n = annotation
         # Place it slightly outside the max range on the right
         ax.text(x_max, y0,
@@ -221,9 +210,9 @@ def filePathChecker_and_plot(path_to_lookup):
         categories=categories,
         palette=PALETTE,
         # Parameters to answer "how do we determine the values":
-        # - kde_bandwidth: 0.2 is a good heuristic factor for general distributions.
-        # - point_alpha: 0.6 visibility.
-        # - row_spacing: 1.0 standard vertical separation.
+        # kde_bandwidth: 0.2 is a good heuristic factor for general distributions.
+        # point_alpha: 0.6 visibility.
+        # row_spacing: 1.0 standard vertical separation.
         kde_bandwidth=0.2, 
         point_alpha=0.6,
         row_spacing=1.0

@@ -19,7 +19,6 @@ PATH_TO_LOOKUP = "../groundtruth/questions_lookup.json"
 OUTPUT_DIR = "../experiments/valentine/"
 RANKED_LIST_DIR = "../experiments/valentine/ranked_lists/"
 
-# Ensure output directory exists
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 os.makedirs(RANKED_LIST_DIR, exist_ok=True)
 
@@ -33,7 +32,7 @@ def robust_reverse_lookup(text, reverse_lookup):
     result = reverse_lookup.get(text)
     if result is not None:
         return result
-    # Try stripping pandas-added .N suffix for duplicate columns
+    # Stripping pandas-added .N suffix for duplicate columns
     stripped = re.sub(r'\.\d+$', '', text)
     if stripped != text:
         result = reverse_lookup.get(stripped)
@@ -45,7 +44,8 @@ def robust_reverse_lookup(text, reverse_lookup):
 MAX_CUPID_TOKENS = 15  # Cap column names for Cupid to avoid O(T²) token-pair explosion
 
 def truncate_column_name(name, max_tokens=MAX_CUPID_TOKENS):
-    """Truncate a column name to at most max_tokens words.
+    """
+    Truncate a column name to at most max_tokens words.
     
     Cupid tokenizes column names and compares every token pair via WordNet.
     Long question texts (50-800 tokens) cause extreme slowdowns. Keeping the
@@ -53,6 +53,7 @@ def truncate_column_name(name, max_tokens=MAX_CUPID_TOKENS):
     
     Preserves pandas-added .N suffixes for duplicate columns (e.g. "text.1").
     """
+
     # Strip pandas .N suffix, truncate, then re-attach
     suffix = ''
     match = re.search(r'\.\d+$', name)
@@ -75,11 +76,6 @@ def find_file_path(filename, folder):
         # print(full_path)
         return full_path
     return None
-
-#   {(('table_1',
-#   'Q.J1A. IS THAT MUCH BETTER OFF OR SOMEWHAT BETTER OFF? Q.J1B. IS THAT MUCH WORSE OFF OR SOMEWHAT WORSE OFF?'),
-#   ('table_2',
-#   'Q.J2a. Is that much better off or somewhat better off? Q.J1b. Is that much worse off or somewhat worse off?')): 1.0}
 
 def ranked_list(rank_matches, reverse_lookup=None):
     ranked_list_dict = {}
@@ -138,7 +134,6 @@ def greedyBipartiteMatching(similarity_dict):
     """
     similarity_dict: dict of (left, right) -> weight
     """
-
     # Sort edges by descending weight
     edges = sorted(
         [(u, v, w) for (u, v), w in similarity_dict.items()],
@@ -351,8 +346,7 @@ for matcher_name, matcher in MATCHERS.items():
             continue
 
 
-        # For DistributionBased, use variable codes (short names) to avoid
-        # file name too long error
+        # For DistributionBased, use variable codes (short names) to avoid file name too long error
         # For Cupid, use truncated question text to avoid O(T²) token-pair explosion while preserving semantic content for WordNet matching
         if matcher_name in ('DistributionBased'): # Use this to use the lookup for only distributionbased
             df_src_use = df_src_codes

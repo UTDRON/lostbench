@@ -62,7 +62,7 @@ def plot_runtime_vs_size():
         if len(x) < 5:
             continue
         
-        # ---- LOG BINNING (key fix) ----
+        # LOG BINNING (key fix)
         log_x = np.log10(x)
         bins = np.linspace(log_x.min(), log_x.max(), 20)
         bin_ids = np.digitize(log_x, bins)
@@ -89,7 +89,7 @@ def plot_runtime_vs_size():
         if len(x_binned) < 3:
             continue
         
-        # ---- SMOOTH (log interpolation) ----
+        # SMOOTH (log interpolation)
         log_xb = np.log10(x_binned)
         log_yb = np.log10(y_binned)
         

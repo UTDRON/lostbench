@@ -77,11 +77,6 @@ def find_file_path(filename, folder):
         return full_path
     return None
 
-#   {(('table_1',
-#   'Q.J1A. IS THAT MUCH BETTER OFF OR SOMEWHAT BETTER OFF? Q.J1B. IS THAT MUCH WORSE OFF OR SOMEWHAT WORSE OFF?'),
-#   ('table_2',
-#   'Q.J2a. Is that much better off or somewhat better off? Q.J1b. Is that much worse off or somewhat worse off?')): 1.0}
-
 def ranked_list(rank_matches, reverse_lookup=None):
     ranked_list_dict = {}
     bipartite_matches = {}
@@ -353,8 +348,7 @@ for matcher_name, matcher in MATCHERS.items():
             continue
 
 
-        # For DistributionBased, use variable codes (short names) to avoid
-        # file name too long error
+        # For DistributionBased, use variable codes (short names) to avoid file name too long error
         # For Cupid, use truncated question text to avoid O(T²) token-pair explosion while preserving semantic content for WordNet matching
         if matcher_name in ('DistributionBased'): # Use this to use the lookup for only distributionbased
             df_src_use = df_src_codes
